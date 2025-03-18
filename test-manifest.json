@@ -1,5 +1,5 @@
 {
-    "app-version": "0.2",
+    "version": "0.2",
     "pushNotifications": {
         "enabled": false,
         "notification1": "This is where a new push notification would go",
