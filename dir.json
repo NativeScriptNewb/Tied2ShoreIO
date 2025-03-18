@@ -1,0 +1,1543 @@
+{
+  "locations": [
+    {
+      "name": "Anchor House",
+      "coordinates": [
+        27.635992506350526,
+        -82.55758824612604
+      ],
+      "city": "Palmetto",
+      "state": "Florida",
+      "country": "United States",
+      "website": "anchorhousemission.com",
+      "email": "chaplain@anchorhousemission.com",
+      "phone": "+1-941-722-0764",
+      "pmi": true,
+      "gmap": "heWZ2u9RQMeVZtcn8"
+    },
+    {
+      "name": "Auckland Seafarers' Centre",
+      "coordinates": [
+        -36.844016189873386,
+        174.77022786136712
+      ],
+      "city": "Auckland",
+      "state": "New Zealand",
+      "country": "New Zealand",
+      "website": "aucklandseafarerscentre.co.nz",
+      "email": "seafarersmission@xtra.co.nz",
+      "phone": "+64 21 59 57 59",
+      "whatsapp": "+6421595759",
+      "gmap": "J1sGGdQGmEgp9dKV8"
+    },
+    {
+      "name": "Baltimore International Seafarers' Center",
+      "coordinates": [
+        39.26646289945957,
+        -76.5834727014867
+      ],
+      "city": "Baltimore",
+      "state": "Maryland",
+      "country": "United States",
+      "website": "baltseafarers.org",
+      "email": "bbaportministry@gmail.com",
+      "whatsapp": "+14434686220",
+      "phone": "+1-443-468-6220",
+      "pmi": true,
+      "gmap": "RAiETS4D9khERvTP6"
+    },
+    {
+      "name": "Bermuda Sailors' Home",
+      "coordinates": [
+        32.29414079221906,
+        -64.78879616931643
+      ],
+      "city": "Pembroke",
+      "state": "HM Bermuda",
+      "country": "Bermuda",
+      "website": "bermudasailorshome.com",
+      "email": "bermudasailorshome@gmail.com",
+      "phone": "+1-441-295-5598",
+      "gmap": "7nwXPovTaBaUVYbaA"
+    },
+    {
+      "name": "Canaveral Port Ministry",
+      "coordinates": [
+        28.403715884151808,
+        -80.60403130007408
+      ],
+      "city": "Cape Canaveral",
+      "state": "Florida",
+      "country": "United States",
+      "website": "cpm.life",
+      "email": "info@cpm.life",
+      "phone": "+1-321-783-0007",
+      "pmi": true,
+      "gmap": "ZBbSQBAeoYXrduZ59"
+    },
+    {
+      "name": "The Mission to Seafarers, Cape Town",
+      "coordinates": [
+        -33.910410978004286,
+        18.424620067624097
+      ],
+      "city": "Cape Town",
+      "state": "Western Cape",
+      "country": "South Africa",
+      "website": "seafarers.org.za",
+      "phone": "+27670373768"
+    },
+    {
+      "name": "Charleston Port & Seafarers Society",
+      "coordinates": [
+        32.83335227814354,
+        -79.8830869203444
+      ],
+      "city": "Charleston",
+      "state": "South Carolina",
+      "country": "United States",
+      "website": "charlestonseafarers.org",
+      "email": "chapssmail@gmail.com",
+      "phone": "+1-843-984-6116",
+      "gmap": "a669BA6fqiGzhMaY6"
+    },
+    {
+      "name": "Corpus Christi International Seamen’s Center",
+      "coordinates": [
+        27.805638285503182,
+        -97.39638285152735
+      ],
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "country": "United States",
+      "website": "corpuschristiseamenscenter.org",
+      "phone": "+1-361-883-8405",
+      "gmap": "5JoNbX5mtro9MPtT6"
+    },
+    {
+      "name": "Foyer des marins Seamen's Club",
+      "coordinates": [
+        46.332530622500705,
+        -72.5492162606407
+      ],
+      "city": "Trois-Rivières",
+      "state": "Quebec",
+      "country": "Canada",
+      "website": "porttr.com/en/community/seamens-club",
+      "phone": "+1-819-737-7187",
+      "gmap": "hY4FeEZKsiU3skZ5A"
+    },
+    {
+      "name": "Fort Vancouver Seafarers Center",
+      "coordinates": [
+        45.64235390429584,
+        -122.71272000300534
+      ],
+      "city": "Fort Vancouver",
+      "state": "Washington",
+      "country": "United States",
+      "email": "fvseafarers@gmail.com",
+      "phone": "+1-360-694-9300",
+      "gmap": "TSB7UW3CfhiUf5556"
+    },
+    {
+      "name": "Global Maritime Ministries, New Orleans",
+      "coordinates": [
+        29.91861403787935,
+        -90.09082389999494
+      ],
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "country": "United States",
+      "website": "portministry.com",
+      "email": "info@portministry.com",
+      "phone": "+1-504-895-2028",
+      "whatsapp": "+15042554288",
+      "pmi": true,
+      "gmap": "K6CGsVCxng4NVANKA"
+    },
+    {
+      "name": "Global Maritime Ministries, River Parishes",
+      "coordinates": [
+        30.054560720252844,
+        -90.55399456135721
+      ],
+      "city": "Reserve",
+      "state": "Louisiana",
+      "country": "United States",
+      "website": "portministry.com",
+      "email": "info@portministry.com",
+      "phone": "+1-985-210-5953",
+      "whatsapp": "+19852105953",
+      "pmi": true,
+      "gmap": "W1bv6LjKdNrdHxxb7"
+    },
+    {
+      "name": "Gonzales Seafarer Center",
+      "coordinates": [
+        30.234916609398628,
+        -90.9066900441609
+      ],
+      "city": "Gonzales",
+      "state": "Louisiana",
+      "country": "United States",
+      "email": "gonzalesseafarerscenter@yahoo.com",
+      "phone": "+1-985-210-5953",
+      "whatsapp": "+12254027057",
+      "pmi": true,
+      "gmap": "FAn9kepTiURhGeu87"
+    },
+    {
+      "name": "Houston International Seafarers' Center",
+      "coordinates": [
+        29.729068959569823,
+        -95.27150030554603
+      ],
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "website": "houstonseafarers.com",
+      "email": "dana@houisc.org",
+      "phone": "+1-713-672-0511",
+      "gmap": "tXjpB7qP7WEPvs42A"
+    },
+    {
+      "name": "International Port Ministry, Pascagoula",
+      "coordinates": [
+        30.366009,
+        -88.558920
+      ],
+      "city": "Pascagoula",
+      "state": "Mississippi",
+      "country": "United States",
+      "website": "facebook.com/InternationalSeafarersCenterPascagoula",
+      "email": "vincesmithsf@gmail.com",
+      "phone": "+1-228-762-6788",
+      "pmi": true,
+      "whatsapp": "+12287626788"
+    },
+    {
+      "name": "International Seafarer's Ministry of Miami",
+      "coordinates": [
+        25.77811983494722,
+        -80.17587243584903
+      ],
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "website": "ismportmiami.org",
+      "email": "pastorvasiley@ismportmiami.org",
+      "phone": "+1-305-390-7424",
+      "pmi": true,
+      "gmap": "Wn3UCEoS5GfykucQA"
+    },
+    {
+      "name": "International Seafarers' Center",
+      "coordinates": [
+        33.75557,
+        -118.21849
+      ],
+      "city": "Long Beach",
+      "state": "California",
+      "country": "United States",
+      "website": "iscpolb-la.org/",
+      "email": "rbmac63@gmail.com",
+      "phone": "+1-310-831-2756",
+      "gmap": "gowniUjg198h5PAfA"
+    },
+    {
+      "name": "International Seafarers' Center",
+      "coordinates": [
+        31.133249327465986,
+        -81.48988584782431
+      ],
+      "city": "Brunswick",
+      "state": "Virginia",
+      "country": "United States",
+      "website": "seafarerscenter.org",
+      "email": "info@seafarerscenter.org",
+      "phone": "+1-912-267-0631"
+    },
+    {
+      "name": "Seacare Drop-in Centre for International Seafarers",
+      "coordinates": [
+        1.2839241451244139, 103.77389239849866
+      ],
+      "city": "Singapore",
+      "country": "Singapore",
+      "website": "mpa.gov.sg/port-marine-ops/visiting-seafarers/seafarers'-centres",
+      "email": "sosea@seacare.com.sg",
+      "phone": "+65-6778-6518",
+      "whatsapp": "+6584140085",
+      "gmap": "cmXPQ7PSh4xd4kEk6"
+    },
+    {
+      "name": "Stella Maris, Cebu",
+      "coordinates": [
+        10.303457119082372,
+        123.91425254232912
+      ],
+      "city": "Cebu City",
+      "state": "Cebu",
+      "country": "Philippines",
+      "website": "stellamariscebu.org",
+      "email": "aosstellamariscebu@gmail.com",
+      "phone": "+63-32-383-6052"
+    },
+    {
+      "name": "Seamen's Center of Wilmington",
+      "coordinates": [
+        39.72945054846137,
+        -75.53097034136812
+      ],
+      "city": "Wilmington",
+      "state": "Delaware",
+      "country": "United States",
+      "website": "scwde.org",
+      "email": "scw@scwde.org",
+      "phone": "+1-302-575-1300,1",
+      "whatsapp": "+13025750956 ",
+      "gmap": "qf7ddogbUaHYJZ1g7"
+    },
+    {
+      "name": "International Seamen's Center at Burns Harbor",
+      "coordinates": [
+        41.623522,
+        -87.154278
+      ],
+      "city": "Portage",
+      "state": "Indiana",
+      "country": "United States",
+      "email": "mwbnwiba@juno.com",
+      "phone": "+1-219-201-2273",
+      "pmi": true
+    },
+    {
+      "name": "International Seafarer Center",
+      "coordinates": [
+        25.95200967549314,
+        -97.40365578848211
+      ],
+      "city": "Brownsville",
+      "state": "Texas",
+      "country": "United States",
+      "website": "brownsvilleseafarer.com",
+      "email": "palbro05@gmail.com",
+      "phone": "+1-956-831-4321",
+      "pmi": true,
+      "gmap": "5ioZxrDokA9BtJqG8"
+    },
+    {
+      "name": "International Seafarers Ministry",
+      "coordinates": [
+        32.799682,
+        -79.929996
+      ],
+      "city": "North Charleston",
+      "state": "South Carolina",
+      "country": "United States",
+      "website": "internationalseafarersministry.net",
+      "email": "petros555@hotmail.com",
+      "phone": "+1-843-200-1903",
+      "pmi": true
+    },
+    {
+      "name": "Lighthouse Harbour Ministries",
+      "coordinates": [
+        49.17637114034538,
+        -122.91522091631317
+      ],
+      "city": "Surrey",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "sealight.org",
+      "email": "info@sealight.org",
+      "phone": "+1-604-583-1868",
+      "gmap": "uyjHnpr7jq5Rjz7h6"
+    },
+    {
+      "name": "Lighthouse Harbour Ministries",
+      "coordinates": [
+        49.30906130107783,
+        -123.07421644698951
+      ],
+      "city": "North Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "sealight.org/index.php/en/",
+      "email": "info@sealight.org",
+      "phone": "+1-604-988-5084",
+      "gmap": "BNXM9NJebXguddrw7"
+    },
+    {
+      "name": "Liverpool Seafarers Centre",
+      "coordinates": [
+        53.4703730279955,
+        -3.0199188567286943
+      ],
+      "city": "Liverpool",
+      "state": "England",
+      "country": "United Kingdom",
+      "website": "liverpoolseafarerscentre.org",
+      "email": "admin@liverpoolseafarerscentre.org",
+      "phone": "+44-300-800-8080",
+      "gmap": "nYzZZbzdrAowsBvV6"
+    },
+    {
+      "name": "Lutheran Maritime Ministry",
+      "coordinates": [
+        33.76647914983909,
+        -118.20911128979724
+      ],
+      "city": "Long Beach",
+      "state": "California",
+      "country": "United States",
+      "website": "lmmsocal.com",
+      "email": "LMMSOCAL@GMAIL.COM",
+      "phone": "+1-562-209-1577",
+      "gmap": "nvNWgsYmbnSs8PVc9"
+    },
+
+    {
+      "name": "Maison du marin Québec Seamen's Club",
+      "coordinates": [
+        46.82201577889295,
+        -71.1979979876027
+      ],
+      "city": "Quebec City",
+      "state": "Quebec",
+      "country": "Canada",
+      "website": "portquebec.ca/operations/operations-portuaires/la-maison-du-marin-de-quebec",
+      "email": "maisondumarin@live.ca",
+      "phone": "+1-418-953-9677",
+      "gmap": "pdfh3A6kpieft5Hq7"
+    },
+    {
+      "name": "Mariner's House",
+      "coordinates": [
+        42.3639654170636,
+        -71.0536732185097
+      ],
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "website": "marinershouse.org",
+      "email": "jsorrentino@marinershouse.org",
+      "phone": "+1-617-227-3979",
+      "gmap": "1EVsHoJf1X8FkfHR6"
+    },
+    {
+      "name": "Mariners' House",
+      "coordinates": [
+        45.50295397124882,
+        -73.54964873369593
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "website": "marinershouse.ca",
+      "email": "manager@marinershouse.ca",
+      "phone": "514-849-3234",
+      "gmap": "tkqbanSDXM4Cxac2A"
+    },
+    {
+      "name": "Maritime Bethel Savannah",
+      "coordinates": [
+        32.12093576342942,
+        -81.15018858829389
+      ],
+      "city": "Savannah",
+      "state": "Georgia",
+      "country": "United States",
+      "website": "maritimebethelsavannah.com",
+      "email": "info@maritimebethelsavannah.org",
+      "phone": "+1-912-201-1099",
+      "pmi": true,
+      "gmap": "PC82McKudPqLexjZ7"
+    },
+    {
+      "name": "Ministry to Seafarers",
+      "coordinates": [
+        49.285940974890536,
+        -123.09497066233259
+      ],
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "ministrytoseafarers.com",
+      "email": "crcvanportchaplain@gmail.com",
+      "phone": "+1-604-253-4421",
+      "gmap": "MpL7y94DGL2BzZqr6"
+    },
+    {
+      "name": "Mission to Seafarers",
+      "coordinates": [
+        44.63533307561809,
+        -63.568550203696226
+      ],
+      "city": "Halifax",
+      "state": "Nova Scotia",
+      "country": "Canada",
+      "website": "missiontoseafarershalifax.ca",
+      "email": "hglenn@bellaliant.com",
+      "phone": "+1-902-422-7790",
+      "gmap": "CSb1TDHigpJSULp67"
+    },
+    {
+      "name": "Mariner's Club",
+      "coordinates": [
+        22.351407950824928,
+        114.12337537086353
+      ],
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "website": "missiontoseafarers.org/hong-kong",
+      "email": "chaplaincy@themarinersclubhk.org",
+      "phone": "+852-2368-8261",
+      "gmap": "LZqiwCp28fuYHm667"
+    },
+    {
+      "name": "Mission to Seafarers of Southern Ontario, Hamilton",
+      "coordinates": [
+        43.266470274568576,
+        -79.833037136197
+      ],
+      "city": "Hamilton",
+      "state": "Ontario",
+      "country": "Canada",
+      "website": "mtsso.org",
+      "email": "dan.phannenhour@gmail.com",
+      "phone": "+1-905-616-8985",
+      "whatsapp": "+19056168985",
+      "gmap": "n2QEVdtwaTwmktURA"
+    },
+    {
+      "name": "Mission to Seafarers of Southern Ontario, Toronto",
+      "coordinates": [
+        44.7722598868353,
+        -79.43589589960446
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "website": "www.mtsso.org",
+      "email": "deacon_michaelho@yahoo.com",
+      "phone": "+1-416-469-5391",
+      "gmap": "jp1EvCrsTrHRqwRc9"
+    },
+    {
+      "name": "Mission to Seafarers, Mumbai",
+      "coordinates": [
+        18.9313584550062,
+        72.95844271164556
+      ],
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "website": "missiontoseafarers.org/mumbai",
+      "email": "mumbai@missiontoseafarers.org",
+      "phone": "+91-970-263-2497"
+    },
+    {
+      "name": "Seamens Club, Antwerp",
+      "coordinates": [
+        51.24429798833489,
+        4.420861999920709
+      ],
+      "city": "Antwerp",
+      "state": "Flanders",
+      "country": "Belgium",
+      "website": "missiontoseafarers.org/antwerp",
+      "email": "antwerp@missiontoseafarers.org",
+      "phone": "+32471571219",
+      "whatsapp": "+32471571219",
+      "gmap": "cdTy8qCbLh4q5MWH8"
+    },
+    {
+      "name": "Mission to Seafarers, Sydney",
+      "coordinates": [
+        -33.85703282523123,
+        151.20441058296362
+      ],
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "website": "missiontoseafarers.org/sydney",
+      "email": "sydney@missiontoseafarers.org",
+      "phone": "+61 2 9281 5433",
+      "gmap": "mR7vmx1F9iZ6kDFq7"
+    },
+    {
+      "name": "Mobile Baptist Seafarer's Ministry",
+      "coordinates": [
+        30.656086,
+        -88.146572
+      ],
+      "city": "Mobile",
+      "state": "Alabama",
+      "country": "United States",
+      "website": "mobilebaptists.org/seafarers-ministry/",
+      "phone": "1-251-433-7953",
+      "whatsapp": "+12513287118",
+      "pmi": true
+    },
+    {
+      "name": "New England Seafarers' Mission",
+      "coordinates": [
+        42.34398394724863,
+        -71.03154840076398
+      ],
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "website": "neseafarers.org",
+      "email": "scushing@neseafarers.org",
+      "phone": "1-617-443-0282",
+      "gmap": "EvnUCn58BpE8HJwm8"
+    },
+    {
+      "name": "Norfolk Seamen's Friend Society",
+      "coordinates": [
+        36.86505879202249,
+        -76.30919027458282
+      ],
+      "city": "Norfolk",
+      "state": "Virginia",
+      "country": "United States",
+      "website": "seamensfriend.com",
+      "email": "biazonmj@juno.com",
+      "phone": "+1-757-423-3107",
+      "gmap": "Aa74vKCWbwMQA5RT8"
+    },
+    {
+      "name": "Norwegian Seaman's Church",
+      "coordinates": [
+        29.646538120682955,
+        -95.19311211165017
+      ],
+      "city": "Pasadena",
+      "state": "Texas",
+      "country": "United States",
+      "website": "neseafarers.org",
+      "email": "houston@sjomannskirken.no",
+      "phone": "1-281-998-8366",
+      "gmap": "jiT4aGQEVtYi15cd7"
+    },
+    {
+      "name": "Point Comfort Seafarers' Center",
+      "coordinates": [
+        28.64517596975629,
+        -96.54830388113827
+      ],
+      "city": "Point Comfort",
+      "state": "Texas",
+      "country": "United States",
+      "website": "ptcomfortsc.org",
+      "email": "info@ptcomfortsc.org",
+      "phone": "+1-361-987-0569",
+      "gmap": "WJUXBSwhzEybEikf6"
+    },
+    {
+      "name": "Port Arthur International Seafarers' Center",
+      "coordinates": [
+        29.867958443235732,
+        -93.93830708650309
+      ],
+      "city": "Port Arthur",
+      "state": "Texas",
+      "country": "United States",
+      "website": "paisc.org",
+      "email": "paseafarers@sbcglobal.net",
+      "phone": "1-409-982-4504",
+      "gmap": "eEJvfivajju4UFTq6"
+    },
+    {
+      "name": "Charleston Port & Seafarers Society",
+      "coordinates": [
+        32.77657,
+        -79.93106
+      ],
+      "city": "Charleston",
+      "state": "South Carolina",
+      "country": "United States",
+      "website": "charlestonseafarers.org",
+      "email": "chapssmail@gmail.com",
+      "phone": "+1-843-984-6116",
+      "gmap": "h3bsDo2oJXGuUHj79"
+    },
+    {
+      "name": "Mission to Seafarers, Colombo",
+      "coordinates": [
+        6.938534810631972,
+        79.84465943378859
+      ],
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "website": "missiontoseafarers.org/colombo",
+      "email": "info@seafarerscolombo.org",
+      "phone": "+94 11 245 3101",
+      "gmap": "6TCeQmdJMeUdMqbRA"
+    },
+    {
+      "name": "Port of Palm Beach Seafarers' Center",
+      "coordinates": [
+        26.765484487281633,
+        -80.05655000194999
+      ],
+      "city": "Riviera Beach",
+      "state": "Florida",
+      "country": "United States",
+      "website": "palmbeachseafarerscenter.org",
+      "email": "pbseafarers@gmail.com",
+      "phone": "+1-561-480-4806"
+    },
+    {
+      "name": "Port of Seattle Seafarers' Center",
+      "coordinates": [
+        47.57079658659691,
+        -122.34894023315717
+      ],
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "website": "mts-seattle.org",
+      "email": "office@mts-seattle.org",
+      "phone": "+1-206-935-3439",
+      "gmap": "1oTYmW395YMfxi9v9"
+    },
+    {
+      "name": "Portsmouth Seafarers' Center",
+      "coordinates": [
+        36.83708495225557,
+        -76.32617616467762
+      ],
+      "city": "Portsmouth",
+      "state": "Virginia",
+      "country": "United States",
+      "website": "facebook.com/PortsmouthSeafarersCenter",
+      "email": "chaplain@ttm-va.org",
+      "phone": "+1-757-967-7696",
+      "pmi": true
+    },
+    {
+      "name": "Seafarers Club Rotterdam",
+      "coordinates": [
+        51.909218508991785, 
+        4.38166904150836
+      ],
+      "city": "Rotterdam",
+      "state": "Schiedam",
+      "country": "Netherlands",
+      "website": "seafarersclubrotterdam.nl",
+      "email": "info@seafarerscenterrotterdam.org",
+      "phone": "+31 6 18861342",
+      "whatsapp": "+31618861342",
+      "gmap": "psRS8eFNoH5EXviy7"
+    },
+    {
+      "name": "Saguenay International Seafarers' Ministry",
+      "coordinates": [
+        48.2505,
+        -70.9919
+      ],
+      "city": "La Baie",
+      "state": "Quebec",
+      "country": "Canada",
+      "website": "facebook.com/missioninternationaledesmarinsausaguenay/",
+      "email": "seamensg@gmail.com",
+      "phone": "+1-418-817-3244"
+    },
+    {
+      "name": "Saint John Seafarers' Mission",
+      "coordinates": [
+        45.26162669859324,
+        -66.07360546069563
+      ],
+      "city": "Saint John",
+      "state": "New Brunswick",
+      "country": "Canada",
+      "website": "sjseafarers.com",
+      "email": "seaf@nb.aibn.com",
+      "phone": "+1-506-635-1731"
+    },
+    {
+      "name": "Seafarer's Christian Friend Society, Hamburg",
+      "coordinates": [
+        53.516022,
+        9.945030
+      ],
+      "city": "Hamburg",
+      "country": "Germany",
+      "website": "scfs.org/port/hamburg-port",
+      "email": "scfs.martin.otto@gmx.de",
+      "phone": "+49 17 9399 4456",
+      "pmi": true
+    },
+    {
+      "name": "Seafarer's Christian Friend Society, Rotterdam",
+      "coordinates": [
+        51.902680,
+        4.238670
+      ],
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "website": "scfs-rotterdam.nl",
+      "email": "info@scfs-rotterdam.nl",
+      "phone": "+31 6 2239 3023",
+      "pmi": true
+    },
+    {
+      "name": "Seafarer's Friend",
+      "coordinates": [
+        42.38714993238959,
+        -71.04383093015417
+      ],
+      "city": "Chelsea",
+      "state": "Massachusetts",
+      "country": "United States",
+      "website": "www.seafarersfriend.org",
+      "email": "director@seafarersfriend.org",
+      "phone": "+1-617-889-3222",
+      "pmi": true
+    },
+    {
+      "name": "Seafarer's House, Inc.",
+      "coordinates": [
+        26.085596041989987,
+        -80.12292466807097
+      ],
+      "city": "Ft. Lauderdale",
+      "state": "Florida",
+      "country": "United States",
+      "email": "padre@seafarershouse.org",
+      "phone": "+1-252-259-1413"
+    },
+    {
+      "name": "Seafarer's Ministry, Port of Fernandina",
+      "coordinates": [
+        30.676087,
+        -81.463955
+      ],
+      "city": "Fernandina",
+      "state": "Florida",
+      "country": "United States",
+      "email": "SeafarersMinistryPoF@gmail.com",
+      "phone": "+1-904-885-0428",
+      "pmi": true
+    },
+    {
+      "name": "Seafarers International House",
+      "coordinates": [
+        40.73781753298639,
+        -73.99817814557412
+      ],
+      "city": "New Haven",
+      "state": "Connecticut",
+      "country": "United States",
+      "website": "sihnyc.org",
+      "email": "res@sihnyc.org",
+      "phone": "+1-212-677-4800"
+    },
+    {
+      "name": "Mariner's Club, Busan",
+      "coordinates": [
+        35.10882855937945,
+        129.03859197892282
+      ],
+      "city": "Busan",
+      "state": "South Korea",
+      "country": "South Korea",
+      "phone": "+82-51-462-7470",
+      "gmap": "nDbqErCFLUhYdLi98"
+    },
+    {
+      "name": "Seafarers' House of San Juan",
+      "coordinates": [
+        18.466757886776747,
+        -66.11234913101316
+      ],
+      "city": "San Juan",
+      "state": "Puerto Rico",
+      "country": "United States",
+      "website": "seafarerspr.org",
+      "email": "info@seafarerspr.org",
+      "phone": "+1-787-722-7575",
+      "gmap": "NqjBv1MyFvMAffvv9"
+    },
+    {
+      "name": "DMG Interpersonal",
+      "coordinates": [
+        53.541519,
+        8.581137
+      ],
+      "city": "Bremerhaven",
+      "country": "Germany",
+      "website": "dmgint.de",
+      "email": "office@bremenports.de",
+      "phone": "+49 7265 959100",
+      "whatsapp": "+491777397938",
+      "pmi": true
+    },
+    {
+      "name": "Seafarers' Center of Beaumont",
+      "coordinates": [
+        30.07928689938386,
+        -94.09240730887184
+      ],
+      "city": "Beaumont",
+      "state": "Texas",
+      "country": "United States",
+      "website": "seafarerscenterofbeaumont.org",
+      "email": "scbeaumont@sbcglobal.net",
+      "phone": "+1-409-832-7794",
+      "pmi": true,
+      "gmap": "yMn6haKzcmSn3WxNA6"
+    },
+    {
+      "name": "Seafarers' Ministry of the Golden Gate",
+      "coordinates": [
+        37.8062950670497,
+        -122.33230113036473
+      ],
+      "city": "Oakland",
+      "state": "California",
+      "country": "United States",
+      "website": "smgg.org",
+      "email": "rawhiipsr@gmail.com",
+      "phone": "+1-510-839-2226",
+      "pmi": true,
+      "gmap": "5siW8VvmKgvZsTuF6"
+    },
+    {
+      "name": "Seafarers Mission Prince Rupert",
+      "coordinates": [
+        54.31378668656037,
+        -130.32301398903786
+      ],
+      "city": "Prince Rupert",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "facebook.com/seafarersrupert.princerupert",
+      "email": "seafarers@citywest.ca",
+      "phone": "+1-250-624-6724",
+      "gmap": "a7jX222MhUwUPUF56"
+    },
+    {
+      "name": "Manila International Seafarers Center",
+      "coordinates": [
+        14.60420,
+        120.98221
+      ],
+      "city": "Manila",
+      "state": "Metro Manila",
+      "country": "Philippines",
+      "website": "seafarerswelfarecentre.org.ph/",
+      "email": "seafarerscentermanila@gmail.com",
+      "phone": "+63-289270429",
+      "gmap": "LzJUPV6Fqwxp16Zu8"
+    },
+    {
+      "name": "Ship to Shore Regions Beyond International, Theodore",
+      "coordinates": [
+        30.42701294782255,
+        -88.74194544787672
+      ],
+      "city": "Oceansprings",
+      "state": "Mississippi",
+      "country": "United States",
+      "email": "cecilafayard@msn.com",
+      "phone": "+1-662-417-6089",
+      "pmi": true
+    },
+    {
+      "name": "Mission to Seafarers, Southampton",
+      "coordinates": [
+        50.927046196659944,
+        -1.463581729711038
+      ],
+      "city": "Southampton",
+      "country": "United Kingdom",
+      "website": "missiontoseafarers.org/southampton",
+      "phone": "+7774328595"
+    },
+    {
+      "name": "Stella Maris, Vancouver",
+      "coordinates": [
+        49.28506,
+        -123.14249
+      ],
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "email": "dathaide@rcav.org",
+      "phone": "+1-604-817-6370"
+    },
+    {
+      "name": "Stella Maris, Charleston",
+      "coordinates": [
+        32.768518,
+        -79.916777
+      ],
+      "city": "Charleston",
+      "state": "South Carolina",
+      "country": "United States",
+      "website": "charlestondiocese.org/port-ministry",
+      "email": "paul.rosenblum@stellamarismail.org",
+      "phone": "+1-843-747-7550"
+    },
+    {
+      "name": "Stella Maris, Montreal",
+      "coordinates": [
+        45.493709778929706,
+        -73.58391947232936
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "email": "infos@diocesemontreal.org",
+      "phone": "+1-514-925-4300"
+    },
+    {
+      "name": "Stella Maris, Oshawa",
+      "coordinates": [
+        43.8973,
+        -78.8662
+      ],
+      "city": "Oshawa",
+      "state": "Ontario",
+      "country": "Canada",
+      "website": "missiontoseafarers.ca/GreatLakes.html",
+      "email": "alban.soares@gmail.com",
+      "phone": "+1-905-686-0775"
+    },
+    {
+      "name": "Stella Maris, Port Arthur",
+      "coordinates": [
+        29.918533273112164,
+        -93.90805846808848
+      ],
+      "city": "Port Arthur",
+      "state": "Texas",
+      "country": "United States",
+      "website": "aos-usa.org",
+      "email": "aosusa@sbcglobal.net",
+      "phone": "+1-409-985-4545"
+    },
+    {
+      "name": "Stella Maris, Toronto",
+      "coordinates": [
+        43.6399,
+        -79.3675
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "email": "deacon_michaelho@yahoo.com",
+      "phone": "+1-647-628-0533"
+    },
+    {
+      "name": "Stella Maris, Sept-Îles",
+      "coordinates": [
+        50.2158,
+        -64.1847
+      ],
+      "city": "Sept-Îles",
+      "state": "Quebec",
+      "country": "Canada",
+      "email": "luciell@globetrotter.net",
+      "phone": "(418) 962-7310"
+    },
+    {
+      "name": "Stella Maris, Destrehan",
+      "coordinates": [
+        29.975352,
+        -90.390458
+      ],
+      "city": "Destrehan",
+      "state": "Louisiana",
+      "country": "United States",
+      "website": "nolacatholic.org/stella-maris-maritime-center-west",
+      "email": "stellamaris@archdiocese-no.org",
+      "phone": "+1-985-307-0601",
+      "whatsapp": "+15049055975"
+    },
+
+    {
+      "name": "Stella Maris, Dundulk",
+      "coordinates": [
+        39.25675625455063,
+        -76.52192214749019
+      ],
+      "city": "Dundulk",
+      "state": "Maryland",
+      "country": "United States",
+      "email": "andrew.middleton@archbalt.org",
+      "phone": "+1-443-690-2447"
+    },
+
+    {
+      "name": "Stella Maris, Lake Charles",
+      "coordinates": [
+        30.218658, -93.259700
+      ],
+      "city": "Lakes Charles",
+      "state": "Louisiana",
+      "country": "United States",
+      "website": "olpssulphur.com/seafarers-center",
+      "email": "stella.maris@lcdiocese.org",
+      "phone": "+1-337-436-1315"
+    },
+    {
+      "name": "Stella Maris, Mobile",
+      "coordinates": [
+        30.69537,
+        -88.04046
+      ],
+      "city": "Mobile",
+      "state": "Alabama",
+      "country": "United States",
+      "email": "jarcher3696@sbcglobal.net",
+      "phone": "+1-251-432-7339"
+    },
+    {
+      "name": "Stella Maris, Jacksonville",
+      "coordinates": [
+        30.26538,
+        -81.51431
+      ],
+      "city": "Jacksonville",
+      "state": "Florida",
+      "country": "United States",
+      "website": "dosafl.com/ministries/stella-maris-seafarers-ministry/",
+      "email": "mvega@dosafl.com",
+      "phone": "+1-904-613-3489"
+    },
+    {
+      "name": "Stella Maris, Wellington",
+      "coordinates": [
+        -41.29109,
+        174.77873
+      ],
+      "city": "Wellington",
+      "state": "New Zealand",
+      "country": "New Zealand",
+      "website": "stellamaris.org.nz/",
+      "email": "info@stellamaris.org.nz",
+      "phone": "+64 4 385 4005"
+    },
+    {
+      "name": "Stella Maris, Southampton",
+      "coordinates": [
+        50.90772,
+        -1.39629
+      ],
+      "city": "Southampton",
+      "state": "England",
+      "country": "United Kingdom",
+      "website": "stellamarissouthampton.org.uk/",
+      "email": "info@stellamarissouthampton.org.uk",
+      "phone": "+44 23 8022 5065"
+    },
+    {
+      "name": "Stella Maris, Buenos Aires",
+      "coordinates": [-34.6037, -58.3816],
+      "city": "Buenos Aires",
+      
+      "country": "Argentina",
+      "email": "jantonio_rm@hotmail.com",
+      "phone": "+54 92914051710"
+    },
+    {
+      "name": "Stella Maris, Albany",
+      "coordinates": [-35.0260, 117.8820],
+      "city": "Albany",
+      "country": "Australia",
+      "email": "sma6330@yahoo.com.au",
+      "phone": "+61 423 866 932"
+    },
+    {
+      "name": "Stella Maris, Brisbane",
+      "coordinates": [-27.4698, 153.0251],
+      "city": "Brisbane",
+      "country": "Australia",
+      "email": "adminstellamaris@bne.centacare.net.au",
+      "phone": "+61 414 730 850"
+    },
+    {
+      "name": "Stella Maris, Hay Point",
+      "coordinates": [-23.398, 150.524],
+      "city": "Hay Point",
+      "country": "Australia",
+      "email": "stellamarismkymanager@gmail.com",
+      "phone": "+61 749 534 038"
+    },
+    {
+      "name": "Stella Maris, Mackay",
+      "coordinates": [-21.1411, 149.186],
+      "city": "Mackay",
+      "country": "Australia",
+      "email": "stellamarismkymanager@gmail.com",
+      "phone": "+61 749 534 038"
+    },
+    {
+      "name": "Stella Maris, Antwerp",
+      "coordinates": [51.2194, 4.4025],
+      "city": "Antwerp",
+      "country": "Belgium",
+      "email": "aposmar.antwerpen@skynet.be",
+      "phone": "+32 49 881 0724"
+    },
+    {
+      "name": "Stella Maris, Trois-Rivières",
+      "coordinates": [46.3433, -72.5620],
+      "city": "Trois-Rivières",
+      "state": "Quebec",
+      "country": "Canada",
+      "email": "foyerdesmarins@gmail.com",
+      "phone": "+1 819 373 7187"
+    },
+    {
+      "name": "Stella Maris, Hamburg",
+      "coordinates": [53.5511, 9.9937],
+      "city": "Hamburg",
+      "country": "Germany",
+      "email": "info@stella-maris.de",
+      "phone": "+49 4041542872"
+    },
+    {
+      "name": "Stella Maris, Tema",
+      "coordinates": [5.6167, 0.0333],
+      "city": "Tema",
+      "country": "Ghana",
+      "email": "dozsylva@gmail.com",
+      "phone": "+233 0244570584"
+    },
+    {
+      "name": "Stella Maris, Dublin",
+      "coordinates": [53.3498, -6.2603],
+      "city": "Dublin",
+      "country": "Ireland",
+      "email": "rosekearney111@hotmail.com",
+      "phone": "+35 3872678236"
+    },
+    {
+      "name": "Stella Maris, Ancona",
+      "coordinates": [43.6167, 13.5167],
+      "city": "Ancona",
+      "country": "Italy",
+      "email": "dinoreporter@gmail.com",
+      "phone": "+39 33 5593 8197"
+    },
+    {
+      "name": "Stella Maris, Genova",
+      "coordinates": [44.4056, 8.9463],
+      "city": "Genova",
+      "country": "Italy",
+      "email": "genoa@stellamaris.tv",
+      "phone": "+39 010 26 56 84"
+    },
+    {
+      "name": "Stella Maris, Livorno",
+      "coordinates": [43.5485, 10.3106],
+      "city": "Livorno",
+      "country": "Italy",
+      "email": "fraike.trinitari86@gmail.com",
+      "phone": "+39 3317210869"
+    },
+    {
+      "name": "Stella Maris, Milazzo",
+      "coordinates": [38.2100, 15.0500],
+      "city": "Milazzo",
+      "country": "Italy",
+      "email": "matteo.diflavia@alice.it",
+      "phone": "+39 347 161 3769"
+    },
+    {
+      "name": "Stella Maris, Monfalcone",
+      "coordinates": [45.83, 13.536],
+      "city": "Monfalcone",
+      "country": "Italy",
+      "email": "monfalcone@stellamaris.tv",
+      "phone": "+39 32 0093 2048"
+    },
+    {
+      "name": "Stella Maris, Napoli",
+      "coordinates": [40.8518, 14.2681],
+      "city": "Napoli",
+      "country": "Italy",
+      "email": "parrocchiasangennaro@gmail.com",
+      "phone": "+39 3394265140"
+    },
+    {
+      "name": "Stella Maris, Tokyo",
+      "coordinates": [35.6895, 139.6917],
+      "city": "Tokyo",
+      "country": "Japan",
+      "email": "edwindurocorros@gmail.com",
+      "phone": "+81 (80) 3354 3148"
+    },
+    {
+      "name": "Stella Maris, Grand Harbour & Free Port",
+      "coordinates": [35.8997, 14.5147],
+      "city": "Grand Harbour & Free Port",
+      "country": "Malta",
+      "email": "revjosephborg@gmail.com",
+      "phone": "+356 9987 9947"
+    },
+    {
+      "name": "Stella Maris, Batangas",
+      "coordinates": [13.7563, 121.0583],
+      "city": "Batangas",
+      "country": "Philippines",
+      "email": "tedrasisterhelen@yahoo.com",
+      "phone": "+63 922 315 6523"
+    },
+    {
+      "name": "Stella Maris, General Santos",
+      "coordinates": [6.1164, 125.1718],
+      "city": "General Santos",
+      "country": "Philippines",
+      "email": "StellaMaris.Gensan@gmail.com",
+      "phone": "+63 917 7245253"
+    },
+    {
+      "name": "Stella Maris, Manila",
+      "coordinates": [14.5995, 120.9842],
+      "city": "Manila",
+      "country": "Philippines",
+      "email": "aosmanila.ph@gmail.com",
+      "phone": "+63 (02) 527 2638"
+    },
+    {
+      "name": "Stella Maris, Gdansk",
+      "coordinates": [54.3520, 18.6466],
+      "city": "Gdansk",
+      "country": "Poland",
+      "email": "nowyport@op.pl",
+      "phone": "+48 502 245 812"
+    },
+    {
+      "name": "Stella Maris, Szczecin",
+      "coordinates": [53.4285, 14.5528],
+      "city": "Szczecin",
+      "country": "Poland",
+      "email": "stachoflis@wp.pl",
+      "phone": "+48 602 633 587"
+    },
+    {
+      "name": "Stella Maris, Barcelona",
+      "coordinates": [41.3851, 2.1734],
+      "city": "Barcelona",
+      "country": "Spain",
+      "email": "cruceros@stellamarisbarcelona.org",
+      "phone": "+34 699 842 796"
+    },
+    {
+      "name": "Stella Maris, Castellón",
+      "coordinates": [39.9864, -0.0513],
+      "city": "Castellón",
+      "country": "Spain",
+      "email": "info@stellamariscastellon.org",
+      "phone": "+34 679 42 00 45"
+    },
+    {
+      "name": "Stella Maris, Tarragona",
+      "coordinates": [41.1189, 1.2445],
+      "city": "Tarragona",
+      "country": "Spain",
+      "email": "stellamaris@arqtgn.cat",
+      "phone": "+34 639 978 982"
+    },
+    {
+      "name": "Stella Maris, Maptaput Port",
+      "coordinates": [12.0, 100.0],
+      "city": "Maptaput Port",
+      "country": "Thailand",
+      "email": "ekapop.p@hotmail.com",
+      "phone": "+668 4543 4333"
+    },
+    {
+      "name": "Stella Maris, Rayong",
+      "coordinates": [12.6820, 101.2789],
+      "city": "Rayong",
+      "country": "Thailand",
+      "email": "ekapop.p@hotmail.com",
+      "phone": "+668 4543 4333"
+    },
+    {
+      "name": "Stella Maris, Samae San",
+      "coordinates": [12.51, 101.0],
+      "city": "Samae San",
+      "country": "Thailand",
+      "email": "ekapop.p@hotmail.com",
+      "phone": "+668 4543 4333"
+    },
+    {
+      "name": "Stella Maris, Odesa",
+      "coordinates": [46.4825, 30.7233],
+      "city": "Odesa",
+      "country": "Ukraine",
+      "email": "fralexod@gmail.com",
+      "phone": "+380 963 614002"
+    },
+    {
+      "name": "Stella Maris, Fawley",
+      "coordinates": [50.7350, -1.3000],
+      "city": "Fawley",
+      "country": "United Kingdom",
+      "email": "charles.stuart@stellamarismail.org",
+      "phone": "+44 7843 739 579"
+    },
+    {
+      "name": "Stella Maris, Hull",
+      "coordinates": [53.7670, -0.3270],
+      "city": "Hull",
+      "country": "United Kingdom",
+      "email": "anne.mclaren@stellamarismail.org",
+      "phone": "+44 7906 661 633"
+    },
+    {
+      "name": "Stella Maris, King's Lynn",
+      "coordinates": [52.7520, 0.3950],
+      "city": "King's Lynn",
+      "country": "United Kingdom",
+      "email": "julian.wong@stella",
+      "phone": "+44 7758 356 372"
+    },
+    {
+      "name": "Stella Maris, Medway",
+      "coordinates": [51.3860, 0.5030],
+      "city": "Medway",
+      "country": "United Kingdom",
+      "email": "john.fogarty@stellamarismail.org",
+      "phone": "+447986723015"
+    },
+    {
+      "name": "Stella Maris, Plymouth",
+      "coordinates": [50.3755, -4.1427],
+      "city": "Plymouth",
+      "country": "United Kingdom",
+      "email": "ann.donnelly@stellamarismail.org",
+      "phone": "+44 7718268904"
+    },
+    {
+      "name": "Stella Maris, Portsmouth",
+      "coordinates": [50.8198, -1.0880],
+      "city": "Portsmouth",
+      "country": "United Kingdom",
+      "email": "charles.stuart@stellamarismail.org",
+      "phone": "+44 7843 739 579"
+    },  
+    {
+      "name": "Tacoma Seafarers' Center",
+      "coordinates": [
+        47.267833,
+        -122.405821
+      ],
+      "city": "Tacoma",
+      "state": "Washington",
+      "country": "United States",
+      "website": "facebook.com/TacomaSeafarersCenter/",
+      "email": "center@tacomaseafarers.org",
+      "phone": "+1-253-272-0716",
+      "pmi": true,
+      "gmap": "xLXNh1bPbTupqEZS6"
+    },
+    {
+      "name": "Tampa Port Ministries",
+      "coordinates": [
+        27.923488428734668,
+        -82.44579175960989
+      ],
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "website": "tampaportministries.org",
+      "email": "SteveFinnesy@gmail.com",
+      "phone": "+1-813-247-5273",
+      "pmi": true,
+      "gmap": "RG3RDb8L7jX6M1jJA"
+    },
+    {
+      "name": "Tampa Seafarers' Center",
+      "coordinates": [
+        27.94519,
+        -82.45176
+      ],
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "website": "tampaseafarerscenter.org/",
+      "email": "info@tampaseafarerscenter.org",
+      "phone": "(813) 247-3280",  
+      "pmi": true
+    },
+    {
+      "name": "Texas Port Ministries, Freeport",
+      "coordinates": [
+        28.9404057551689,
+        -95.3507497037524
+      ],
+      "city": "Freeport",
+      "state": "Texas",
+      "country": "United States",
+      "website": "texasportministry.org/",
+      "email": "info@texasportministry.org",
+      "phone": "+1-979-233-5641",
+      "pmi": true,
+      "gmap": "hJVfnGpd5D4NosgE9"
+    },
+    {
+      "name": "The Seafarers' Center of Galveston",
+      "coordinates": [
+        29.31311,
+        -94.79126
+      ],
+      "city": "Galveston",
+      "state": "Texas",
+      "country": "United States",
+      "website": "archgh.org/offices-ministries/clergy-formation-chaplaincy-services/port-ministry/",
+      "email": "manager@galvestonseafarerscenter.org",
+      "phone": "+1-281-788-8158",
+      "gmap": "qeEgj8Tnmws64mMY9"
+    },
+    {
+      "name": "The Seamen's Church Institute of New York and New Jersey",
+      "coordinates": [
+        40.73806,
+        -74.01414
+      ],
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "website": "seamenschurch.org/",
+      "email": "seafarers@seamenschurch.org",
+      "phone": "+1-212-349-9090"
+    },
+    {
+      "name": "The Seamen's Church Institute of Philadelphia and South Jersey",
+      "coordinates": [
+        39.89439737504533,
+        -75.17523348979033
+      ],
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "website": "sciphiladelphia.org",
+      "email": "seafarerhelp@sciphiladelphia.org",
+      "phone": "+1-215-922-2562"
+    },
+    {
+      "name": "Upper Room Seafarers Center",
+      "coordinates": [
+        49.22961777907196,
+        -124.81111399930896
+      ],
+      "city": "Port Alberni",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "facebook.com/Upper-Room-Seafarers-Center-Port-Alberni-1670483929937006",
+      "email": "pastor@avcrc.org"
+    }
+  ]
+}
