@@ -6,7 +6,7 @@
         "notification2": "This is where a second one would go"
     },
     "content": {
-        "books": ["Church on the Oceans", "How To Be A Successful Seafarer", "Another Book Title],
+        "books": ["Church on the Oceans", "How To Be A Successful Seafarer", "Another Book Title"]
         "music": null,
         "videos": null
     },
