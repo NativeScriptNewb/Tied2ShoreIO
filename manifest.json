@@ -1,23 +1,23 @@
 {
     "app-version": "0.1",
-    "pushNotifications": {
-        "enabled": false,
-        "notification1": "This is where a new push notification would go",
-        "notification2": "This is where a second one would go"
-    },
-    "content": {
-        "books": ["Church on the Oceans", "How To Be A Successful Seafarer"],
-        "music": null,
-        "videos": null
-    },
-    "featureFlags": {
-        "newFeature": true,
-        "betaAccess": false
-    },
     "directory": {
         "lastModified": 1742395374,
         "numberOfLocations": 127,
         "latestVersionURL": "https://raw.githubusercontent.com/NativeScriptNewb/Tied2ShoreIO/refs/heads/main/dir.json"
     }
-  }
+    "content": {
+        "books": ["Church on the Oceans", "How To Be A Successful Seafarer"],
+        "music": null,
+        "videos": null
+    },
+    "pushNotifications": {
+        "enabled": false,
+        "notification1": "This is where a new push notification would go",
+        "notification2": "This is where a second one would go"
+    },
+    "featureFlags": {
+        "newFeature": true,
+        "betaAccess": false
+    },
+}
   
