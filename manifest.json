@@ -4,7 +4,7 @@
         "lastModified": 1742395374,
         "numberOfLocations": 127,
         "latestVersionURL": "https://raw.githubusercontent.com/NativeScriptNewb/Tied2ShoreIO/refs/heads/main/dir.json"
-    }
+    },
     "content": {
         "books": ["Church on the Oceans", "How To Be A Successful Seafarer"],
         "music": null,
@@ -18,6 +18,6 @@
     "featureFlags": {
         "newFeature": true,
         "betaAccess": false
-    },
+    }
 }
   
