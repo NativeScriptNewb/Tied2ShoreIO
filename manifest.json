@@ -15,9 +15,9 @@
         "betaAccess": false
     },
     "directory": {
-        "lastModified": "TIMESTAMP",
+        "lastModified": 1742395374,
         "numberOfLocations": 127,
-        "latestVersionURL": "https:/linkToLatestDirectory.json"
+        "latestVersionURL": "https://raw.githubusercontent.com/NativeScriptNewb/Tied2ShoreIO/refs/heads/main/dir.json"
     }
   }
   
