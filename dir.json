@@ -1,5 +1,5 @@
 {
-  "release": 1744209674,
+  "release": 1746226789,
   "locations": [
     {
       "name": "Anchor House",
@@ -891,7 +891,6 @@
       "website": "seafarerscenterofbeaumont.org",
       "email": "scbeaumont@sbcglobal.net",
       "phone": "+1-409-832-7794",
-      "pmi": true,
       "gmap": "yMn6haKzcmSn3WxNA6"
     },
     {
@@ -1459,20 +1458,6 @@
       "phone": "+1-813-247-5273",
       "pmi": true,
       "gmap": "RG3RDb8L7jX6M1jJA"
-    },
-    {
-      "name": "Tampa Seafarers' Center",
-      "coordinates": [
-        27.94519,
-        -82.45176
-      ],
-      "city": "Tampa",
-      "state": "Florida",
-      "country": "United States",
-      "website": "tampaseafarerscenter.org/",
-      "email": "info@tampaseafarerscenter.org",
-      "phone": "(813) 247-3280",  
-      "pmi": true
     },
     {
       "name": "Texas Port Ministries, Freeport",
