@@ -325,7 +325,6 @@
       "website": "brownsvilleseafarer.com",
       "email": "palbro05@gmail.com",
       "phone": "+1-956-831-4321",
-      "pmi": true,
       "gmap": "5ioZxrDokA9BtJqG8"
     },
     {
@@ -762,6 +761,19 @@
       "phone": "+1-506-635-1731"
     },
     {
+      "name": "Seafarer's Christian Friend Society, Cork",
+      "coordinates": [
+        51.9000611612781,
+        -8.456250661527262
+      ],
+      "city": "Cork",
+      "country": "Ireland",
+      "website": "scfs.org/port/cork-port",
+      "email": "cork@Scfs.org",
+      "phone": "+353 85 861 7771",
+      "pmi": true
+    },
+    {
       "name": "Seafarer's Christian Friend Society, Hamburg",
       "coordinates": [
         53.516022,
@@ -784,7 +796,7 @@
       "country": "Netherlands",
       "website": "scfs-rotterdam.nl",
       "email": "info@scfs-rotterdam.nl",
-      "phone": "+31 6 2239 3023",
+      "phone": "+31 6 1607 7868",
       "pmi": true
     },
     {
@@ -939,11 +951,11 @@
     {
       "name": "Ship to Shore Regions Beyond International, Theodore",
       "coordinates": [
-        30.42701294782255,
-        -88.74194544787672
+        30.554585269728285,
+        -88.18268442674032
       ],
-      "city": "Oceansprings",
-      "state": "Mississippi",
+      "city": "Theodore",
+      "state": "Alabama",
       "country": "United States",
       "email": "cecilafayard@msn.com",
       "phone": "+1-662-417-6089",
