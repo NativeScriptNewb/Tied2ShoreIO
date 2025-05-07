@@ -470,6 +470,19 @@
       "gmap": "MpL7y94DGL2BzZqr6"
     },
     {
+      "name": "Mission to Seafarers, Port Kembla",
+      "coordinates": [
+        -34.47928139750629,
+        150.90119487116453
+      ],
+      "city": "Port Kembla",
+      "state": "New South Wales",
+      "country": "Australia",
+      "website": "missiontoseafarers.org",
+      "phone": "+61242746498",
+      "gmap": "1b17CixaPmY9c9R57"
+    },
+    {
       "name": "Mission to Seafarers",
       "coordinates": [
         44.63533307561809,
