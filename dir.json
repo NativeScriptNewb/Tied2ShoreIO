@@ -1,5 +1,5 @@
 {
-    "release": 1746648437,
+    "release": 1747333400,
     "locations": [
       {
         "name": "Anchor House",
@@ -1037,6 +1037,19 @@
         "phone": "+2620262432752",
         "gmap": "Th1HggfxT4sa3Pij8"
       },
+            {
+        "name": "Seafarer's Christian Friend Society, Aberdeen",
+        "coordinates": [
+          57.14121937222071,
+          -2.0735205902195264
+        ],
+        "city": "Aberdeen",
+        "country": "Scotland",
+        "website": "scfs.org/port/aberdeen",
+        "email": "iain.sanders@Scfs.org",
+        "phone": "07856901042",
+        "whatsapp": "07856901042"
+      },
       {
         "name": "Seafarer's Christian Friend Society, Cork",
         "coordinates": [
@@ -1049,6 +1062,18 @@
         "email": "cork@Scfs.org",
         "phone": "+353 85 861 7771",
         "pmi": true
+      },
+      {
+        "name": "Seafarer's Christian Friend Society, Dublin",
+        "coordinates": [
+          53.35500025549186,
+          -6.213326780482319
+        ],
+        "city": "Dublin",
+        "country": "Ireland",
+        "website": "scfs.org/port/dublin-port",
+        "email": "jaeguen.bae@scfs.org",
+        "phone": "00353858627227"
       },
       {
         "name": "Seafarer's Christian Friend Society, Hamburg",
