@@ -1092,7 +1092,20 @@
         "pmi": true
       },
       {
-        "name": "Seafarer's Christian Friend Society, Rotterdam",
+        "name": "Seafarer's Christian Friend Society, Montrose",
+        "coordinates": [
+          56.70364590404938,
+          -2.463897489627815
+        ],
+        "city": "Montrose",
+        "country": "Scotland",
+        "website": "scfs.org/port/montrose",
+        "email": "Mike.burleigh@btinternet.com",
+        "phone": "+447470099072",
+        "whatsapp": "+447470099072"
+      },
+      {
+        "name": "Seamen's Christian Friend Society Rotterdam",
         "coordinates": [
           51.902680,
           4.238670
