@@ -1108,14 +1108,16 @@
       {
         "name": "Seamen's Christian Friend Society Rotterdam",
         "coordinates": [
-          51.902680,
-          4.238670
+          51.90265404809254,
+          4.238832978215365
         ],
         "city": "Rotterdam",
         "country": "Netherlands",
         "website": "scfs-rotterdam.nl",
         "email": "info@scfs-rotterdam.nl",
-        "phone": "+31 6 1607 7868",
+        "phone": "+31616077868",
+        "whatsapp": "+31616077868",
+        "gmap": "vuUGrXHdHpEarBWg7",
         "pmi": true
       },
       {
