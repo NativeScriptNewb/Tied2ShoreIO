@@ -1,7 +1,19 @@
 {
-    "release": 1747688319,
-    
+    "release": 1747755272,
     "locations": [
+      {
+        "name": "Alaska Christian Ministry to Seafarers",
+        "coordinates": [
+          60.11272225922775,
+          -149.44247048684184
+        ],
+        "city": "Seward",
+        "state": "Alaska",
+        "country": "United States",
+        "website": "alaskacms.net",
+        "phone": "+19072248482",
+        "gmap": "N2eqWqKNLyVnpHiu8"
+      },
       {
         "name": "Anchor House",
         "coordinates": [
@@ -1861,4 +1873,3 @@
       }
     ]
   }
-  
