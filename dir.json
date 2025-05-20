@@ -103,8 +103,8 @@
       {
         "name": "Charleston Port & Seafarers Society",
         "coordinates": [
-          32.83335227814354,
-          -79.8830869203444
+          32.83339674821126,
+          -79.88306249378537
         ],
         "city": "Charleston",
         "state": "South Carolina",
@@ -112,7 +112,7 @@
         "website": "charlestonseafarers.org",
         "email": "chapssmail@gmail.com",
         "phone": "+1-843-984-6116",
-        "gmap": "a669BA6fqiGzhMaY6"
+        "gmap": "ZXYZkXU4AowcgWfL8"
       },
       {
         "name": "Corpus Christi International Seamen’s Center",
@@ -887,20 +887,6 @@
         "website": "phseafarers.org",
         "phone": "+61891731315",
         "gmap": "PEruv32BCeZp8Nc99"
-      },
-      {
-        "name": "Charleston Port & Seafarers Society",
-        "coordinates": [
-          32.77657,
-          -79.93106
-        ],
-        "city": "Charleston",
-        "state": "South Carolina",
-        "country": "United States",
-        "website": "charlestonseafarers.org",
-        "email": "chapssmail@gmail.com",
-        "phone": "+1-843-984-6116",
-        "gmap": "h3bsDo2oJXGuUHj79"
       },
       {
         "name": "Port of Palm Beach Seafarers' Center",
