@@ -1,5 +1,5 @@
 {
-    "release": 1747755272,
+    "release": 1747778366,
     "locations": [
       {
         "name": "Alaska Christian Ministry to Seafarers",
@@ -1127,10 +1127,9 @@
         "city": "Chelsea",
         "state": "Massachusetts",
         "country": "United States",
-        "website": "www.seafarersfriend.org",
+        "website": "seafarersfriend.org",
         "email": "director@seafarersfriend.org",
-        "phone": "+1-617-889-3222",
-        "pmi": true
+        "phone": "+1-617-889-3222"
       },
       {
         "name": "Seafarer's House, Inc.",
