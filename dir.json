@@ -1,5 +1,5 @@
 {
-    "release": 1747778366,
+    "release": 1747922332,
     "locations": [
       {
         "name": "Alaska Christian Ministry to Seafarers",
@@ -128,6 +128,16 @@
         "gmap": "5JoNbX5mtro9MPtT6"
       },
       {
+        "name": "Darwin Port Welfare Centre",
+        "coordinates": [
+          -12.48912, 130.89273
+        ],
+        "city": "Darwin",
+        "country": "Australia",
+        "email": "missiontsdarwin@gmail.com",
+        "phone": "+61 4 2880 3935"
+      },
+      {
         "name": "Durban Seafarers Mission",
         "coordinates": [
           -29.901685215612645,
@@ -151,6 +161,17 @@
         "email": "staff@flyingangel.org.au",
         "phone": "+61893355000",
         "gmap": "qjo6i46NDZmrEvJC8"
+      },
+      {
+        "name": "The Flying Angel Centre",
+        "coordinates": [
+          -42.88481,
+          147.33232
+        ],
+        "city": "Port Lincoln",
+        "country": "Australia",
+        "email": "hobart@mts.org.au",
+        "phone": "+61 3 6234 6016"
       },
       {
         "name": "Foyer des marins Seamen's Club",
@@ -887,6 +908,18 @@
         "website": "phseafarers.org",
         "phone": "+61891731315",
         "gmap": "PEruv32BCeZp8Nc99"
+      },
+      {
+        "name": "Port Lincoln Mission to Seafarers",
+        "coordinates": [
+          -34.72050,
+          135.85816
+        ],
+        "city": "Port Lincoln",
+        "country": "Australia",
+        "email": "seafarerslincoln@bigpond.com",
+        "number": "+61 4 2900 0407",
+        "gmap": "HLBLJcjENcMcMHWk6"
       },
       {
         "name": "Port of Palm Beach Seafarers' Center",
