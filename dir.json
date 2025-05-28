@@ -1,5 +1,5 @@
 {
-    "release": 1747922682,
+    "release": 1748466144,
     "locations": [
       {
         "name": "Alaska Christian Ministry to Seafarers",
@@ -43,6 +43,16 @@
         "phone": "+64 21 59 57 59",
         "whatsapp": "+6421595759",
         "gmap": "J1sGGdQGmEgp9dKV8"
+      },
+      {
+        "name": "Bahrain Seafarers' Centre",
+        "coordinates": [
+          26.19694643985075,
+          50.70984366919659
+        ],
+        "country":"Bahrain",
+        "phone": "+97317162030",
+        "gmap": "ApZpzBTWHm5r3Np97"
       },
       {
         "name": "Baltimore International Seafarers' Center",
@@ -560,6 +570,18 @@
         "gmap": "8QFimYQnbwg2BNZUA"
       },
       {
+        "name": "Mission to Seafarers, Eden",
+        "coordinates": [
+          37.06641,
+          149.91071
+        ],
+        "country": "Australia",
+        "city": "Eden",
+        "phone": "+61264964631",
+        "email": "mtseden2551@gmail.com",
+        "gmap": "B7v9uBm2rDPz3XEn9"
+      },
+      {
         "name": "Mission to Seafarers, Esperance",
         "coordinates": [
           -33.86925723986692,
@@ -594,6 +616,20 @@
         "website": "geraldtonseafarers.org",
         "phone": "+61899213272",
         "gmap": "F2Qfn4Qppa61eRJ78"
+      },
+      {
+        "name": "Mission to Seafarers, Halifax",
+        "coordinates": [
+          44.63533307561809,
+          -63.568550203696226
+        ],
+        "city": "Halifax",
+        "state": "Nova Scotia",
+        "country": "Canada",
+        "website": "missiontoseafarershalifax.ca",
+        "email": "hglenn@bellaliant.com",
+        "phone": "+1-902-422-7790",
+        "gmap": "CSb1TDHigpJSULp67"
       },
       {
         "name": "Mission to Seafarers, Hastings",
@@ -665,7 +701,22 @@
         "city": "Edithburgh",
         "country": "Australia",
         "website": "mts.org.au/port-giles",
-        "phone": "+61888526479"
+        "phone": "+61888526479",
+        "gmap": "B7v9uBm2rDPz3XEn9"
+      },
+      {
+        "name": "Mission to Seafarers, Port of Thunder Bay",
+        "coordinates": [
+          48.40710,
+          -89.22208
+        ],
+        "city": "Thunder Bay",
+        "state": "Ontario",
+        "country": "Canada",
+        "phone": "+18073448241",
+        "website": "missiontoseafarersthunderbay.ca",
+        "email": "flyingangel@tbaytel.net",
+        "gmap": "LQxZ75e7poUnYDZU9"
       },
       {
         "name": "Mission to Seafarers, Port Pirie",
@@ -704,30 +755,29 @@
         "gmap": "JSqSqwTXQBeJd2CG9"
       },
       {
-        "name": "Mission to Seafarers",
+        "name": "Mariner's Club, Kwai Chung",
         "coordinates": [
-          44.63533307561809,
-          -63.568550203696226
+          22.346130077757614,
+          114.12433767632955
         ],
-        "city": "Halifax",
-        "state": "Nova Scotia",
-        "country": "Canada",
-        "website": "missiontoseafarershalifax.ca",
-        "email": "hglenn@bellaliant.com",
-        "phone": "+1-902-422-7790",
-        "gmap": "CSb1TDHigpJSULp67"
+        "city": "Kwai Chung",
+        "country": "Hong Kong",
+        "website": "themarinersclubhk.org",
+        "email": "chaplaincy@themarinersclubhk.org",
+        "phone": "+85224108240",
+        "gmap": "LZqiwCp28fuYHm667"
       },
       {
-        "name": "Mariner's Club",
+        "name": "Mariner's Club, Tsim ShaTsui",
         "coordinates": [
-          22.351407950824928,
-          114.12337537086353
+          22.296420188185472,
+          114.17376336668531
         ],
-        "city": "Hong Kong",
+        "city": "Tsim ShaTsui",
         "country": "Hong Kong",
-        "website": "missiontoseafarers.org/hong-kong",
+        "website": "themarinersclubhk.org",
         "email": "chaplaincy@themarinersclubhk.org",
-        "phone": "+852-2368-8261",
+        "phone": "+85223688261",
         "gmap": "LZqiwCp28fuYHm667"
       },
       {
@@ -775,8 +825,8 @@
       {
         "name": "Seamens Club, Antwerp",
         "coordinates": [
-          51.24429798833489,
-          4.420861999920709
+          51.2443777156331,
+          4.420829810787593
         ],
         "city": "Antwerp",
         "state": "Flanders",
@@ -1000,7 +1050,8 @@
         "country": "Canada",
         "website": "facebook.com/missioninternationaledesmarinsausaguenay/",
         "email": "seamensg@gmail.com",
-        "phone": "+1-418-817-3244"
+        "phone": "+1-418-817-3244",
+        "gmap": "MsaS5umV3pBimw9SA"
       },
       {
         "name": "Saint John Seafarers' Mission",
@@ -1040,6 +1091,16 @@
         "website": "stellamariscebu.org",
         "email": "aosstellamariscebu@gmail.com",
         "phone": "+63-32-383-6052"
+      },
+      {
+        "name": "Sea-Man's Hostel",
+        "coordinates": [
+          24.34857, 92.87229
+        ],
+        "country": "Bangladesh",
+        "phone": "+8801869303399",
+        "email": "isdcbangladesh@gmail.com",
+        "gmap": "MhybtwfEmgDBHMNz8"
       },
       {
         "name": "Seamen's Center of Wilmington",
@@ -1323,6 +1384,14 @@
         "phone": "+7774328595"
       },
       {
+        "name": "Stella Maris, Antwerp",
+        "coordinates": [51.2194, 4.4025],
+        "city": "Antwerp",
+        "country": "Belgium",
+        "email": "aposmar.antwerpen@skynet.be",
+        "phone": "+32 49 881 0724"
+      },
+      {
         "name": "Stella Maris, Vancouver",
         "coordinates": [
           49.28506,
@@ -1440,7 +1509,8 @@
       {
         "name": "Stella Maris, Lake Charles",
         "coordinates": [
-          30.218658, -93.259700
+          30.218658,
+          -93.259700
         ],
         "city": "Lakes Charles",
         "state": "Louisiana",
@@ -1448,6 +1518,19 @@
         "website": "olpssulphur.com/seafarers-center",
         "email": "stella.maris@lcdiocese.org",
         "phone": "+1-337-436-1315"
+      },
+      {
+        "name": "Setlla Maris, Gent",
+        "coordinates": [
+          51.07336926841993,
+          3.7473601286093
+        ],
+        "country": "Belgium",
+        "city": "Gent",
+        "phone": "+3292511763",
+        "email": "stellamarisgent@proximus.be",
+        "website": "stellamarisgent.be",
+        "gmap": "Wr7ENu1r7MZVgnrG8"
       },
       {
         "name": "Stella Maris, Mobile",
@@ -1541,14 +1624,6 @@
         "country": "Australia",
         "email": "stellamarismkymanager@gmail.com",
         "phone": "+61 749 534 038"
-      },
-      {
-        "name": "Stella Maris, Antwerp",
-        "coordinates": [51.2194, 4.4025],
-        "city": "Antwerp",
-        "country": "Belgium",
-        "email": "aposmar.antwerpen@skynet.be",
-        "phone": "+32 49 881 0724"
       },
       {
         "name": "Stella Maris, Trois-Rivières",
@@ -1728,12 +1803,35 @@
         "phone": "+668 4543 4333"
       },
       {
+        "name": "Setlla Maris, Rio de Janeiro",
+        "coordinates": [
+          -22.95720,
+          -43.18295
+        ],
+        "city": "Rio Janeiro",
+        "country": "Brazil",
+        "phone": "+551332237474",
+        "email": "stellamarissantos@yahoo.es"
+      },
+      {
         "name": "Stella Maris, Samae San",
         "coordinates": [12.51, 101.0],
         "city": "Samae San",
         "country": "Thailand",
         "email": "ekapop.p@hotmail.com",
         "phone": "+668 4543 4333"
+      },
+      {
+        "name": "Stella Maris, Santos",
+        "coordinates": [
+          23.96024,
+          -46.32799
+        ],
+        "city": "Santos",
+        "country": "Brazil",
+        "phone": "+551332348910",
+        "email": "stellamarissantos@yahoo.es",
+        "gmap": "QhBbP8tzpEzayQVs8"
       },
       {
         "name": "Stella Maris, Odesa",
@@ -1774,6 +1872,19 @@
         "country": "United Kingdom",
         "email": "john.fogarty@stellamarismail.org",
         "phone": "+447986723015"
+      },
+      {
+        "name": "Stella Maris, Melbourne",
+        "coordinates": [
+          -37.81704,
+          144.95507
+        ],
+        "country": "Australia",
+        "city": "Melbourne",
+        "phone": "+61417878131",
+        "website": "stellamaris.org.au",
+        "email": "leeanne.diano@stellamaris.org.au",
+        "gmap": "aW68yzbe6LM9uCR69"
       },
       {
         "name": "Stella Maris, Plymouth",
@@ -1887,6 +1998,17 @@
         "country": "Canada",
         "website": "facebook.com/Upper-Room-Seafarers-Center-Port-Alberni-1670483929937006",
         "email": "pastor@avcrc.org"
+      },
+      {
+        "name": "Vitoria Seafarers' Center",
+        "coordinates": [
+          -20.31542,
+          -40.32014
+        ],
+        "country": "Brazil",
+        "city": "Vitoria",
+        "phone": "+552730382811",
+        "email": "afdesouza@sailors-society.org"
       }
     ]
   }
