@@ -2,6 +2,19 @@
     "release": 1748466144,
     "locations": [
       {
+        "name": "Aarhus Seaman's Center",
+        "coordinates": [
+          56.15299,
+          10.21756
+        ],
+        "city": "Aarhus",
+        "country": "Denmark",
+        "email": "seamensclub.aarhus@mail.dk",
+        "phone": "+4586121599",
+        "website": "seamensclubaarhus.dk",
+        "gmap": "iBjwTcR4ob8qu3nC9"
+      },
+      {
         "name": "Alaska Christian Ministry to Seafarers",
         "coordinates": [
           60.11272225922775,
@@ -158,6 +171,30 @@
         "website": "durbanseafarersmission.org.za",
         "phone": "+27314661326",
         "gmap": "osJgNf2NM5rEeBw2A"
+      },
+      {
+        "name": "Estonian Seamen's Mission NGO",
+        "coordinates": [
+          59.48226,
+          24.96703
+        ],
+        "city": "Maardu",
+        "country": "Estonia",
+        "email": "seamenscenter@gmail.com",
+        "phone": "+3726319996",
+        "gmap": "dyDxj5fBB1wZUN1h7"
+      },
+      {
+        "name": "Finnish Seamen's Mission",
+        "coordinates": [
+          60.56972,
+          27.18809
+        ],
+        "city": "Hamina",
+        "country": "Finland",
+        "email": "hamina@merimieskirkko.fi",
+        "phone": "+358405398143"
+        
       },
       {
         "name": "Flying Angel Club, Albany",
@@ -946,6 +983,18 @@
         "email": "paseafarers@sbcglobal.net",
         "phone": "1-409-982-4504",
         "gmap": "eEJvfivajju4UFTq6"
+      },
+      {
+        "name": "Port of Esbjerg International Seamen's Center",
+        "coordinates": [
+          55.46265,
+          8.44102
+        ],
+        "city": "Esbjerg",
+        "country": "Denmark",
+        "email": "ehswelf@mail.tdcadsl.dk",
+        "phone": "+4575132859",
+        "gmap": "9BLdqQMnDQ65qKDTA"
       },
       {
         "name": "Port Hedland Seafarers Centre",
