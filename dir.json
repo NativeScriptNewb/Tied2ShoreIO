@@ -1,5 +1,5 @@
 {
-    "release": 1750433841,
+    "release": 1750764855,
     "locations": [
       {
         "name": "Aarhus Seaman's Center",
@@ -68,19 +68,32 @@
         "gmap": "ApZpzBTWHm5r3Np97"
       },
       {
-        "name": "Baltimore International Seafarers' Center",
+        "name": "Baltimore Baptist Port Ministry",
         "coordinates": [
-          39.26646289945957,
-          -76.5834727014867
+          39.26648363759659,
+          -76.58346733889478
+        ],
+        "city": "Baltimore",
+        "state": "Maryland",
+        "country": "United States",
+        "email": "bbaportministry@gmail.com",
+        "phone": "+1-443-468-6220",
+        "whatsapp": "+1-443-468-6220",
+        "pmi": true
+      },
+      {
+        "name": "Baltimore International Seafarers Center",
+        "coordinates": [
+          39.26633516092725,
+          -76.58360681375557
         ],
         "city": "Baltimore",
         "state": "Maryland",
         "country": "United States",
         "website": "baltseafarers.org",
-        "email": "bbaportministry@gmail.com",
-        "whatsapp": "+14434686220",
-        "phone": "+1-443-468-6220",
-        "pmi": true,
+        "email": "requests@baltseafarers.org",
+        "whatsapp": "+14106851240",
+        "phone": "+1-410-685-1240",
         "gmap": "RAiETS4D9khERvTP6"
       },
       {
@@ -1543,12 +1556,12 @@
       },
   
       {
-        "name": "Stella Maris, Dundulk",
+        "name": "Stella Maris, Dundalk",
         "coordinates": [
           39.25675625455063,
           -76.52192214749019
         ],
-        "city": "Dundulk",
+        "city": "Dundalk",
         "state": "Maryland",
         "country": "United States",
         "email": "andrew.middleton@archbalt.org",
