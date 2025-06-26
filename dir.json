@@ -1,5 +1,5 @@
 {
-    "release": 1750962201,
+    "release": 1750973042,
     "locations": [
       {
         "name": "Aarhus Seaman's Center",
@@ -1367,16 +1367,16 @@
         "gmap": "NqjBv1MyFvMAffvv9"
       },
       {
-        "name": "DMG Interpersonal",
+        "name": "Seamen's Christian Friend Society",
         "coordinates": [
           53.541519,
           8.581137
         ],
         "city": "Bremerhaven",
         "country": "Germany",
-        "website": "dmgint.de",
-        "email": "office@bremenports.de",
-        "phone": "+49 7265 959100",
+        "website": "scfc.org",
+        "email": "breitenmoser@web.de",
+        "phone": "+49-177-739-7938",
         "whatsapp": "+491777397938",
         "pmi": true
       },
