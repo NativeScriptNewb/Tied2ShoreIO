@@ -1,5 +1,5 @@
 {
-    "release": 1751926816,
+    "release": 1752176078,
     "locations": [
       {
         "name": "50 Miles - Seafarer's Social Service",
@@ -2197,8 +2197,8 @@
       {
         "name": "Stella Maris, Santos",
         "coordinates": [
-          23.96024,
-          -46.32799
+          -23.95911816469791,
+          -46.32845325174443
         ],
         "city": "Santos",
         "country": "Brazil",
