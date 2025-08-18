@@ -1,5 +1,5 @@
 {
-    "release": 1754507904,
+    "release": 1755549523,
     "locations": [
       {
         "name": "50 Miles - Seafarer's Social Service",
@@ -1514,6 +1514,20 @@
         "pmi": true
       },
       {
+        "name": "Seafarer's Christian Friend Society, Manila",
+        "coordinates": [
+          14.593933177122624,
+          120.97798230002266
+        ],
+        "city": "Manilla",
+        "country": "Philippines",
+        "website": "scfs.org/port/manilla",
+        "email": "Bayaniaudea@Gmail.com",
+        "phone": "+639274766410",
+        "whatsapp": "+447470099072",
+        "gmap": "XQ8n4YSzaDirDAjKA"
+      },
+      {
         "name": "Seafarer's Christian Friend Society, Montrose",
         "coordinates": [
           56.70364590404938,
@@ -1862,18 +1876,19 @@
       },
   
       {
-        "name": "Stella Maris, Dundalk",
+        "name": "Stella Maris, Baltimore",
         "coordinates": [
           39.25675625455063,
           -76.52192214749019
         ],
-        "city": "Dundalk",
+        "city": "Baltimore",
         "state": "Maryland",
         "country": "United States",
-        "email": "andrew.middleton@archbalt.org",
-        "phone": "+1-443-690-2447"
+        "email": "aosbalt@gmail.com",
+        "phone": "+1-443-690-2447",
+        "whatsapp": "+14434686220"
       },
-  
+
       {
         "name": "Stella Maris, Lake Charles",
         "coordinates": [
