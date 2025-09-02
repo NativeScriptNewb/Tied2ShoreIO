@@ -1,5 +1,5 @@
 {
-    "release": 1756414027,
+    "release": 1756776919,
     "locations": [
       {
         "name": "50 Miles - Seafarer's Social Service",
@@ -1082,16 +1082,17 @@
         "gmap": "nZjrR7W29RCjtzwu6"
       },
       {
-        "name": "Mobile Baptist Seafarer's Ministry",
+        "name": "Mobile Baptist Seafarers Ministry",
         "coordinates": [
-          30.656086,
-          -88.146572
+          30.656323721348418,
+          -88.14656553247261
         ],
         "city": "Mobile",
         "state": "Alabama",
         "country": "United States",
+        "email": "vlyndall@mobilebaptists.org",
         "website": "mobilebaptists.org/seafarers-ministry/",
-        "phone": "1-251-433-7953",
+        "phone": "1-251-661-7111",
         "whatsapp": "+12513287118",
         "pmi": true
       },
