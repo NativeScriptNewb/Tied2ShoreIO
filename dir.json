@@ -1,5 +1,5 @@
 {
-  "release": 1757704165,
+  "release": 1757972288,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -551,6 +551,23 @@
       "id": 40
     },
     {
+      "name": "Flying Angel Seafarers Club",
+      "coordinates": [
+        49.016819540923905,
+        -123.1563842176222
+      ],
+      "city": "Delta",
+      "state": "British Columbia",
+      "country": "Canada",
+      "website": "flyingangel.ca/locations-info/roberts-bank-centre",
+      "email": "m2svancouver@gmail.com",
+      "phone": "+1-604-253-4421",
+      "whatsapp": "+16049929867",
+      "gmap": "SGxfxLso8Z2G5rhG7",
+      "gmapID": "ChIJuwiIW2vkhVQRz_MSoiIyEYI",
+      "id": 197
+    },
+    {
       "name": "Mission to Seafarers, Halifax",
       "coordinates": [
         44.63533307561809,
@@ -586,17 +603,17 @@
     {
       "name": "Saguenay International Seafarers' Ministry",
       "coordinates": [
-        48.2505,
-        -70.9919
+        48.34443097364492,
+        -70.8827881908798
       ],
       "city": "La Baie",
       "state": "Quebec",
       "country": "Canada",
-      "website": "facebook.com/missioninternationaledesmarinsausaguenay/",
+      "website": "facebook.com/missioninternationaledesmarinsausaguenay",
       "email": "seamensg@gmail.com",
       "phone": "+1-418-817-3244",
-      "gmap": "MsaS5umV3pBimw9SA",
-      "gmapID": "ChIJk1qPtu8ApkwR6I7ygxD9KYM",
+      "gmap": "PYfx67Z8A3XhMVmv6",
+      "gmapID": "ChIJ-7-feKoewEwReJqFjhntIsk",
       "id": 43
     },
     {
@@ -659,6 +676,21 @@
       "id": 47
     },
     {
+      "name": "Mission to Seafarers, Oshawa",
+      "coordinates": [
+        43.873573789456216,
+        -78.82618548263002
+      ],
+      "city": "Oshawa",
+      "state": "Ontario",
+      "country": "Canada",
+      "website": "mtsso.org/oshawa-port",
+      "email": "mtssontario@gmail.com",
+      "phone": "+1-647-332-4182",
+      "whatsapp": "+16473324182",
+      "id": 198
+    },
+    {
       "name": "Upper Room Seafarers Center",
       "coordinates": [
         49.22961777907196,
@@ -706,8 +738,8 @@
     {
       "name": "Saint John Seafarers' Mission",
       "coordinates": [
-        45.26162669859324,
-        -66.07360546069563
+        45.983720422306156,
+        -66.16186236130244
       ],
       "city": "Saint John",
       "state": "New Brunswick",
@@ -715,7 +747,26 @@
       "website": "sjseafarers.com",
       "email": "seaf@nb.aibn.com",
       "phone": "+1-506-635-1731",
+      "gmap": "qotvrj6NBMA3XpDK6",
+      "gmapID": "ChIJ-Ykzso-0p0wRCJ1Z3Wzwi6Q",
       "id": 51
+    },
+    {
+      "name": "International Sailors' Society Canada",
+      "coordinates": [
+        43.00544114796254,
+        -82.38062940287446
+      ],
+      "city": "Sarnia",
+      "state": "Ontario",
+      "country": "Canada",
+      "website": "missiontoseafarers.org/sarnia",
+      "email": "sarnia@missiontoseafarers.ca",
+      "phone": "+1-519-344-1983",
+      "whatsapp": "+12263496032",
+      "gmap": "1uPMcZCCYjA8Uz7w7",
+      "gmapID": "ChIJAQAk466EJYgR-KMnvqwiTeY",
+      "id": 199
     },
     {
       "name": "Stella Maris, Sept-Îles",
@@ -820,17 +871,18 @@
       "id": 58
     },
     {
-      "name": "Ministry to Seafarers",
+      "name": "Flying Angel Seafarers Club",
       "coordinates": [
-        49.285940974890536,
-        -123.09497066233259
+        49.28612730049231,
+        -123.09485951534202
       ],
       "city": "Vancouver",
       "state": "British Columbia",
       "country": "Canada",
-      "website": "ministrytoseafarers.com",
-      "email": "crcvanportchaplain@gmail.com",
+      "website": "flyingangel.ca/locations-info/vancouver-waterfront",
+      "email": "m2svancouver@gmail.com",
       "phone": "+1-604-253-4421",
+      "whatsapp": "+16049929867",
       "gmap": "MpL7y94DGL2BzZqr6",
       "gmapID": "ChIJH--8inNxhlQRHhzXKVzUODY",
       "id": 59
@@ -2108,18 +2160,20 @@
       "id": 150
     },
     {
-      "name": "International Seafarers' Center, Brunswick",
+      "name": "International Seafarers' Center",
       "coordinates": [
-        31.133249327465986,
-        -81.48988584782431
+        31.53664498423685,
+        -81.51214141437934
       ],
       "city": "Brunswick",
-      "state": "Virginia",
+      "state": "Georgia",
       "country": "United States",
       "website": "seafarerscenter.org",
       "email": "info@seafarerscenter.org",
       "phone": "+1-912-267-0631",
-      "id": 151
+      "gmap": "UNaKTPpgZPESn22L6",
+      "gmapID": "ChIJyzFcokPY5IgRHqB0kENdR1U",
+      "id": 200
     },
     {
       "name": "Canaveral Port Ministry",
@@ -2181,6 +2235,20 @@
       "email": "director@seafarersfriend.org",
       "phone": "+1-617-889-3222",
       "id": 155
+    },
+    {
+      "name": "Cleveland Seamen's Service",
+      "coordinates": [
+        41.506365962725475,
+        -81.7017358299188
+      ],
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "website": "facebook.com/groups/1568473917374549",
+      "email": "seamensservicecle@hotmail.com",
+      "phone": "+1-216-621-4107",
+      "id": 201
     },
     {
       "name": "Corpus Christi International Seamen’s Center",
