@@ -1,5 +1,5 @@
 {
-  "release": 1758128759,
+  "release": 1758142267,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -333,18 +333,6 @@
       "gmap": "1b17CixaPmY9c9R57",
       "gmapID": "ChIJJ1Olh3MXE2sRHB27K9Pl-M0",
       "id": 24
-    },
-    {
-      "name": "The Flying Angel Centre",
-      "coordinates": [
-        -42.88481,
-        147.33232
-      ],
-      "city": "Port Lincoln",
-      "country": "Australia",
-      "email": "hobart@mts.org.au",
-      "phone": "+61 3 6234 6016",
-      "id": 25
     },
     {
       "name": "Port Lincoln Mission to Seafarers",
@@ -2707,6 +2695,21 @@
       "email": "aosusa@sbcglobal.net",
       "phone": "+1-409-985-4545",
       "id": 184
+    },
+    {
+      "name": "Portland Seafarers Mission",
+      "coordinates": [
+        45.5476590940265,
+        -122.70353169206446
+      ],
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States",
+      "website": "portlandseafarersmission.org",
+      "email": "PORTSEAFARERS@YAHOO.COM",
+      "phone": "+1-503-283-8203",
+      "gmap": "ujbRTojpzkGKhNfu5",
+      "gmapID": "ChIJAQCwktgJlVQRg4USSj_m0Dg"
     },
     {
       "name": "International Seamen's Center at Burns Harbor",
