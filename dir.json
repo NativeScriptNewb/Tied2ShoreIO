@@ -1,5 +1,5 @@
 {
-  "release": 1757972288,
+  "release": 1758128759,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -47,6 +47,7 @@
       "city": "Brisbane",
       "country": "Australia",
       "website": "mtsbrisbane.org.au",
+      "email": "tfa@mtsbrisbane.org.au",
       "phone": "+61738951181",
       "gmap": "wKvgc5BNm4FCoSPX7",
       "gmapID": "ChIJcZz0dkjgk2sRYcluMWnZTjU",
@@ -73,6 +74,7 @@
       "city": "Bunbury",
       "country": "Australia",
       "website": "missiontoseafarers.org/bunbury",
+      "email": "flyingangelby@bigpond.com",
       "phone": "+61897212370",
       "gmap": "1QXycPuqWs8LP2ZJ9",
       "gmapID": "ChIJC5PUrTcdLioRDVSlhwuX2g0",
@@ -101,6 +103,7 @@
       "city": "Dampier",
       "country": "Australia",
       "website": "dampierseafarers.org",
+      "email": "steve@dampierseafarers.org",
       "phone": "+61891831424",
       "gmap": "8QFimYQnbwg2BNZUA",
       "gmapID": "ChIJIVu86Qk89isRgAQaXTkCaFA",
@@ -186,6 +189,7 @@
       "city": "Geraldton",
       "country": "Australia",
       "website": "geraldtonseafarers.org",
+      "email": "info@geraldtonseafarers.org",
       "phone": "+61899213272",
       "gmap": "F2Qfn4Qppa61eRJ78",
       "gmapID": "ChIJ2eavTo5G2isR0mYjrfHniJY",
@@ -240,6 +244,7 @@
       "city": "Hobart",
       "country": "Australia",
       "website": "mts.org.au/hobart",
+      "email": "hobart@mts.org.au",
       "phone": "+61362346016",
       "gmap": "fTEGAtFiEJ1G7dRN8",
       "gmapID": "ChIJ3efsdYZ1bqoRp0bHUBFL0fY",
