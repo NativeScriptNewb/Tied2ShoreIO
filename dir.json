@@ -427,6 +427,7 @@
       "city": "Al Hidd",
       "country": "Bahrain",
       "phone": "+97317162030",
+      "whatsapp": "+97333402317",
       "gmap": "ApZpzBTWHm5r3Np97",
       "gmapID": "ChIJ43XonM0AST4Rwwn-ZoTT8oI",
       "id": 32
@@ -475,16 +476,17 @@
       "id": 35
     },
     {
-      "name": "Setlla Maris, Gent",
+      "name": "Stella Maris, Gent",
       "coordinates": [
         51.07336926841993,
         3.7473601286093
       ],
       "country": "Belgium",
-      "city": "Gent",
-      "phone": "+3292511763",
+      "city": "Ghent",
+      "phone": "+329251763",
       "email": "stellamarisgent@proximus.be",
       "website": "stellamarisgent.be",
+      "whatsapp": "+32476502229",
       "gmap": "Wr7ENu1r7MZVgnrG8",
       "gmapID": "ChIJRRCtR9R2w0cRqmv4qSIc9Jg",
       "id": 36
