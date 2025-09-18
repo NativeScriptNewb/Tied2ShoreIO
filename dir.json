@@ -1,5 +1,5 @@
 {
-  "release": 1758203781,
+  "release": 1758204646,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -329,6 +329,7 @@
       "state": "New South Wales",
       "country": "Australia",
       "website": "missiontoseafarers.org",
+      "email": "tthemisspk@gmail.com",
       "phone": "+61242746498",
       "gmap": "1b17CixaPmY9c9R57",
       "gmapID": "ChIJJ1Olh3MXE2sRHB27K9Pl-M0",
@@ -384,7 +385,7 @@
       "state": "New South Wales",
       "country": "Australia",
       "website": "missiontoseafarers.org/sydney",
-      "email": "sydney@missiontoseafarers.org",
+      "whatsapp": "+61405458388",
       "phone": "+61292815433",
       "gmap": "mR7vmx1F9iZ6kDFq7",
       "gmapID": "ChIJdXtWfjyuEmsR9ASoPmbxGG0",
@@ -399,6 +400,7 @@
       "city": "Townsville",
       "country": "Australia",
       "website": "missiontoseafarers.org/townsville",
+      "email": "mtstownsville@hotmail.com",
       "phone": "+61747722774",
       "gmap": "nZjrR7W29RCjtzwu6",
       "gmapID": "ChIJc1SbxjT_1WsRWIbbbv3-Zo8",
@@ -413,6 +415,7 @@
       "city": "Victoria",
       "country": "Australia",
       "website": "missiontoseafarers.com.au",
+      "email": "info@missiontoseafarers.com.au",
       "phone": "+61396297083",
       "gmap": "JSqSqwTXQBeJd2CG9",
       "gmapID": "ChIJr0ZwSVdd1moR9-R3SCCpspw",
@@ -542,7 +545,6 @@
       "country": "Brazil",
       "city": "Vitoria",
       "phone": "+552730382811",
-      "email": "afdesouza@sailors-society.org",
       "id": 40
     },
     {
