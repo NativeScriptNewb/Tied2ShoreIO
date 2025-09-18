@@ -1,5 +1,5 @@
 {
-  "release": 1758205520,
+  "release": 1758207391,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1028,6 +1028,19 @@
       "gmap": "s2N7vdyoXdHdokEw6",
       "gmapID": "ChIJrxKYVkZeEEgRgigXEktrn28",
       "id": 68
+    },
+    {
+      "name": "Seamen's club Marseille",
+      "coordinates": [
+        43.34124693022428,
+        5.338959561559992
+      ],
+      "city": "Marseille",
+      "country": "France",
+      "phone": "+33612487016",
+      "website": "seamensclubmarseille.org",
+      "gmap": "xBRWgqrKf6zQbEyU6",
+      "gmapID": "ChIJdRr6kezAyRIRVy-oJksc9-E"
     },
     {
       "name": "Association Rouennaise des Amis des Marins (ARAM)",
