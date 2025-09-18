@@ -1,5 +1,5 @@
 {
-  "release": 1758204646,
+  "release": 1758205520,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -495,20 +495,35 @@
       "id": 36
     },
     {
-      "name": "Bermuda Sailors' Home",
+      "name": "The Bermuda Sailors' Home",
       "coordinates": [
-        32.29414079221906,
-        -64.78879616931643
+        32.29410487439997,
+        -64.78887647440563
       ],
-      "city": "Pembroke",
-      "state": "HM Bermuda",
+      "city": "Hamilton",
       "country": "Bermuda",
       "website": "bermudasailorshome.com",
       "email": "bermudasailorshome@gmail.com",
       "phone": "+1-441-295-5598",
+      "whatsapp": "+14413352383",
       "gmap": "7nwXPovTaBaUVYbaA",
       "gmapID": "ChIJFQJz4BIULYoR5Uv-E_NeYH4",
       "id": 37
+    },
+    {
+      "name": "The Media Lounge (Bermuda Sailors' Home Dockyard location)",
+      "coordinates": [
+        32.327980125981775,
+        -64.83357364685426
+      ],
+      "city": "Sandys",
+      "country": "Bermuda",
+      "website": "bermudasailorshome.com",
+      "email": "bermudasailorshome@gmail.com",
+      "phone": "+1-441-707-0734",
+      "whatsapp": "+14413352383",
+      "gmap": "L2iuj96hLiXBwnXcA",
+      "gmapID": "ChIJ_Q3mbfARLYoRmAQuuX42kE0"
     },
     {
       "name": "Setlla Maris, Rio de Janeiro",
