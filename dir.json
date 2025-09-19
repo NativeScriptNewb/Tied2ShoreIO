@@ -1,5 +1,5 @@
 {
-  "release": 1758217103,
+  "release": 1758300656,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -278,15 +278,18 @@
       "id": 20
     },
     {
-      "name": "Mission to Seafarers, New Castle",
+      "name": "Mission to Seafarers Newcastle",
       "coordinates": [
         -32.919593720133854,
         151.75916433874974
       ],
-      "city": "New Castle",
+      "city": "Newcastle",
+      "state": "NSW",
       "country": "Australia",
       "website": "mtsnewcastle.org.au",
+      "email": "admin@mtsnewcastle.org.au",
       "phone": "+61249615007",
+      "whatsapp": "+61432668587",
       "gmap": "oHSefCKbGSV5ia2UA",
       "gmapID": "ChIJrxvtAFoUc2sRRhoEiPnAG3g",
       "id": 21
@@ -523,7 +526,8 @@
       "phone": "+1-441-707-0734",
       "whatsapp": "+14413352383",
       "gmap": "L2iuj96hLiXBwnXcA",
-      "gmapID": "ChIJ_Q3mbfARLYoRmAQuuX42kE0"
+      "gmapID": "ChIJ_Q3mbfARLYoRmAQuuX42kE0",
+      "id": 202
     },
     {
       "name": "Setlla Maris, Rio de Janeiro",
@@ -704,19 +708,6 @@
       "id": 198
     },
     {
-      "name": "Upper Room Seafarers Center",
-      "coordinates": [
-        49.22961777907196,
-        -124.81111399930896
-      ],
-      "city": "Port Alberni",
-      "state": "British Columbia",
-      "country": "Canada",
-      "website": "facebook.com/Upper-Room-Seafarers-Center-Port-Alberni-1670483929937006",
-      "email": "pastor@avcrc.org",
-      "id": 48
-    },
-    {
       "name": "Seafarers Mission Prince Rupert",
       "coordinates": [
         54.31378668656037,
@@ -880,7 +871,7 @@
       "state": "Quebec",
       "country": "Canada",
       "email": "foyerdesmarins@gmail.com",
-      "phone": "+1 819 373 7187",
+      "phone": "+1-819-373-7187",
       "id": 58
     },
     {
@@ -1042,7 +1033,8 @@
       "website": "seamensclubmarseille.org",
       "email": "seamenmarseille@wanadoo.fr",
       "gmap": "xBRWgqrKf6zQbEyU6",
-      "gmapID": "ChIJdRr6kezAyRIRVy-oJksc9-E"
+      "gmapID": "ChIJdRr6kezAyRIRVy-oJksc9-E",
+      "id": 203
     },
     {
       "name": "Association Rouennaise des Amis des Marins (ARAM)",
@@ -2731,21 +2723,6 @@
       "id": 184
     },
     {
-      "name": "Portland Seafarers Mission",
-      "coordinates": [
-        45.5476590940265,
-        -122.70353169206446
-      ],
-      "city": "Portland",
-      "state": "Oregon",
-      "country": "United States",
-      "website": "portlandseafarersmission.org",
-      "email": "PORTSEAFARERS@YAHOO.COM",
-      "phone": "+1-503-283-8203",
-      "gmap": "ujbRTojpzkGKhNfu5",
-      "gmapID": "ChIJAQCwktgJlVQRg4USSj_m0Dg"
-    },
-    {
       "name": "International Seamen's Center at Burns Harbor",
       "coordinates": [
         41.623522,
@@ -2758,6 +2735,22 @@
       "phone": "+1-219-201-2273",
       "pmi": true,
       "id": 185
+    },
+    {
+      "name": "Portland Seafarers Mission",
+      "coordinates": [
+        45.5476590940265,
+        -122.70353169206446
+      ],
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States",
+      "website": "portlandseafarersmission.org",
+      "email": "PORTSEAFARERS@YAHOO.COM",
+      "phone": "+1-503-283-8203",
+      "gmap": "ujbRTojpzkGKhNfu5",
+      "gmapID": "ChIJAQCwktgJlVQRg4USSj_m0Dg",
+      "id": 204
     },
     {
       "name": "Portsmouth Seafarers' Center",
