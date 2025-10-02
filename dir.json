@@ -482,7 +482,7 @@
       "id": 35
     },
     {
-      "name": "Stella Maris, Gent",
+      "name": "Stella Maris, Ghent",
       "coordinates": [
         51.07336926841993,
         3.7473601286093
@@ -946,6 +946,19 @@
       "gmap": "dyDxj5fBB1wZUN1h7",
       "gmapID": "ChIJ9S2O6IXtkkYRpGUCb-6BPUs",
       "id": 63
+    },
+    {
+      "name": "Paldiski Evangeelne Meremisjon",
+      "coordinates": [
+        59.354570943361246,
+        24.052892315171974
+      ],
+      "city": "Paldiski",
+      "country": "Estonia",
+      "email": "furian@deutsche-evangelische-seemannsmission.de",
+      "gmap": "LUwi62cc3zaYSQNWA",
+      "gmapID": "ChIJ9TUWDj2nkkYR8FQkWMY4_dE",
+      "id": 205
     },
     {
       "name": "Finnish Seamen's Mission",
