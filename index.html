@@ -9,8 +9,7 @@
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      /* Background image placeholder. Replace URL with your image path */
-      background: url('./background.jpg') no-repeat center center fixed;
+      background: url('./background.jpeg') no-repeat center;
       background-size: cover;
       color: #333;
     }
@@ -19,23 +18,37 @@
       padding-top: 2rem 1rem;
       padding-bottom: 2rem 1rem;
       /* Slight opacity to help readability on a background image */
-      background-color: rgba(255, 255, 255, 0.9);
+      background-color: rgb(255, 255, 255);
       border-bottom: 1px solid #eaeaea;
     }
+    header img {
+      margin-top: 15px;
+      margin-bottom: -15px;
+    }
     header h1 {
-      font-size: 2.5rem;
+      font-size: 2rem;
     }
     main {
-      padding: 2rem;
+      padding: 3rem;
       text-align: center;
-      /* Apply a light, semi-transparent background for contrast */
-      background-color: rgba(249, 249, 249, 0.9);
-      margin: 2rem auto;
-      max-width: 1200px;
-      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.25);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      margin: 6rem auto;
+      max-width: 1000px;
+      border-radius: 20px;
+      box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);
+    }
+    .main-text {
+      background: rgba(255, 255, 255, 0.656);
+      border-radius: 15px;
+      padding: 1.2rem;
+      margin-bottom: 2.5rem;
+      text-align: left;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     }
     .buttons {
-      margin: 0;
+      margin-bottom: 2rem;
     }
     .btn {
       display: inline-block;
@@ -52,18 +65,25 @@
       background-color: #0056b3;
     }
     /* Screenshots container styling */
-    .screenshots {
+    .screenshots-container {
       display: flex;
       justify-content: center;
-      align-items: center;
-      gap: 1rem;
-      margin-top: 2rem;
+      gap: 2rem;
     }
-    .screenshots img {
-      width: 30%;
+    .screenshots-container img {
+      width: 100%;
       max-width: 300px;
       border: 2px solid #ddd;
       border-radius: 8px;
+    }
+    .screenshots-container div {
+      background: rgba(255, 255, 255, 0.656);
+      border-radius: 15px;
+      padding: .6rem;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      flex: 1;
+      max-width: 300px;
     }
     footer {
       background-color: rgba(255, 255, 255, 0.9);
@@ -90,6 +110,34 @@
       margin-left: 1rem;
       margin-bottom: 1rem;
     }
+    @media (max-width: 768px) {
+      body {
+        background: url('./backgroundBlur.jpeg') no-repeat center;
+        background-size: 100% 100%;
+      }
+      .buttons {
+        margin-left: -2rem;
+        margin-right: -2rem;
+        display: flex;
+        flex-wrap: nowrap; /* prevents wrapping */
+      }
+      main {
+        margin-top: 0;
+        margin-bottom: 0;
+        border-radius: 0px;
+      }
+      main p {
+        font-size: 1.2rem;
+      }
+      .screenshots-container {
+        flex-direction: column;
+        align-items: center; /* center items vertically */
+      }
+
+      .screenshots-container > div {
+        max-width: 90%; /* so each image block fills most of the screen */
+      }
+    }
   </style>
 </head>
 <body>
@@ -99,36 +147,66 @@
   </header>
 
   <main>
+
+    <div class="main-text">
+      <p>A <u>free</u> offline app made just for seafarers.
+        With over 200 seafarer centers within
+        the directory and 7 ebooks - all included.</p>
+          <ul>
+            <li>
+              <p><b>Works immediately</b> - no regstration required!</p>
+            </li>
+            <li>
+              <p><b>Small file size</b> (around 30MB on Android and 80MB on iOS).</p>
+            </li>
+            <li>
+              <p><b>Automatic directory updates</b> ensure your device is always syncronized.</p>
+            </li>
+          </ul>
+    </div>
+
+
     <div class="buttons">
-        
-        <!-- Google Play Store Link-->
-        <a href="https://play.google.com/store/apps/details?id=com.globalmaritimeministries.tied2shore" 
-          class="btn" id="android-btn">Download for Android
-          <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M19.7277 17.3005L3.496 33.576C2.72018 32.8402 2.3009 31.8309 2.3009 30.7372V5.20985C2.3009 4.09546 2.74127 3.08592 3.53819 2.32928L19.7277 17.3005Z" fill="#2299F8"/>
-            <path d="M33.7573 17.9733C33.7573 19.4455 32.96 20.749 31.6387 21.4854L27.0259 24.0505L21.3005 18.7513L19.7278 17.3005L25.7882 11.2234L31.6387 14.4617C32.96 15.1982 33.7573 16.5016 33.7573 17.9733Z" fill="#FFC107"/>
-            <path d="M19.7277 17.3005L3.53821 2.32923C3.74781 2.11857 4.02069 1.9295 4.29329 1.76131C5.61426 0.962352 7.20817 0.940977 8.57104 1.69838L25.7882 11.2234L19.7277 17.3005Z" fill="#5ACF5F"/>
-            <path d="M27.0258 24.0506L8.57099 34.2489C7.92109 34.6276 7.18667 34.7955 6.47385 34.7955C5.71911 34.7955 4.96431 34.6063 4.29325 34.186C3.9992 34.0177 3.72667 33.8074 3.49597 33.576L19.7277 17.3004L21.3004 18.7513L27.0258 24.0506Z" fill="#F84437"/>
-          </svg>
-        </a>
+      <!-- Google Play Store Link-->
+      <a href="https://play.google.com/store/apps/details?id=com.globalmaritimeministries.tied2shore" 
+        class="btn" id="android-btn">Download for Android
+        <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M19.7277 17.3005L3.496 33.576C2.72018 32.8402 2.3009 31.8309 2.3009 30.7372V5.20985C2.3009 4.09546 2.74127 3.08592 3.53819 2.32928L19.7277 17.3005Z" fill="#2299F8"/>
+          <path d="M33.7573 17.9733C33.7573 19.4455 32.96 20.749 31.6387 21.4854L27.0259 24.0505L21.3005 18.7513L19.7278 17.3005L25.7882 11.2234L31.6387 14.4617C32.96 15.1982 33.7573 16.5016 33.7573 17.9733Z" fill="#FFC107"/>
+          <path d="M19.7277 17.3005L3.53821 2.32923C3.74781 2.11857 4.02069 1.9295 4.29329 1.76131C5.61426 0.962352 7.20817 0.940977 8.57104 1.69838L25.7882 11.2234L19.7277 17.3005Z" fill="#5ACF5F"/>
+          <path d="M27.0258 24.0506L8.57099 34.2489C7.92109 34.6276 7.18667 34.7955 6.47385 34.7955C5.71911 34.7955 4.96431 34.6063 4.29325 34.186C3.9992 34.0177 3.72667 33.8074 3.49597 33.576L19.7277 17.3004L21.3004 18.7513L27.0258 24.0506Z" fill="#F84437"/>
+        </svg>
+      </a>
+
+      <!-- Apple App Store Link -->  
+      <a href="https://apps.apple.com/app/6744415965" 
+        class="btn" id="ios-btn">Download for iOS 
+        <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M22.6667 6.6387C23.7612 5.22345 24.5899 3.22144 24.29 1.17773C22.501 1.30191 20.4104 2.4499 19.1919 3.94488C18.0805 5.30121 17.1663 7.31552 17.5225 9.27302C19.477 9.3342 21.4967 8.15878 22.6667 6.6387Z" fill="black"/>
+          <path d="M31.3594 12.4655C29.6415 10.3057 27.228 9.05225 24.9482 9.05225C21.939 9.05225 20.6661 10.4973 18.5753 10.4973C16.4196 10.4973 14.7815 9.05661 12.1792 9.05661C9.62293 9.05661 6.90085 10.6234 5.17475 13.3021C2.74862 
+          17.0746 3.16402 24.1672 7.09597 30.2084C8.50292 32.3702 10.382 34.8009 12.84 34.822C15.0269 34.8427 15.6434 33.415 18.6069 33.4004C21.5699 33.3836 22.1322 34.8411 24.3151 34.8178C26.7751 34.7987 28.7569 32.1048 30.164 
+          29.9434C31.1726 28.3937 31.5483 27.6138 32.3301 25.864C26.6407 23.692 25.7286 15.5795 31.3594 12.4655Z" fill="black"/>
+        </svg>
+      </a>
+    </div>
+
+    <div class="screenshots-container">
+      <div>
+        <img src="./1.jpg" alt="App Screenshot 1">
+        <p>Over 200 locations in the directory to help you go ashore!</p>
+      </div>
       
-        <!-- Apple App Store Link -->  
-        <a href="https://apps.apple.com/app/6744415965" 
-          class="btn" id="ios-btn">Download for iOS 
-          <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M22.6667 6.6387C23.7612 5.22345 24.5899 3.22144 24.29 1.17773C22.501 1.30191 20.4104 2.4499 19.1919 3.94488C18.0805 5.30121 17.1663 7.31552 17.5225 9.27302C19.477 9.3342 21.4967 8.15878 22.6667 6.6387Z" fill="black"/>
-            <path d="M31.3594 12.4655C29.6415 10.3057 27.228 9.05225 24.9482 9.05225C21.939 9.05225 20.6661 10.4973 18.5753 10.4973C16.4196 10.4973 14.7815 9.05661 12.1792 9.05661C9.62293 9.05661 6.90085 10.6234 5.17475 13.3021C2.74862 
-            17.0746 3.16402 24.1672 7.09597 30.2084C8.50292 32.3702 10.382 34.8009 12.84 34.822C15.0269 34.8427 15.6434 33.415 18.6069 33.4004C21.5699 33.3836 22.1322 34.8411 24.3151 34.8178C26.7751 34.7987 28.7569 32.1048 30.164 
-            29.9434C31.1726 28.3937 31.5483 27.6138 32.3301 25.864C26.6407 23.692 25.7286 15.5795 31.3594 12.4655Z" fill="black"/>
-          </svg>
-        </a>
+      <div>
+        <img src="./2.jpg" alt="App Screenshot 2">
+        <p>Find and access contact information for each location while offline!</p>
+      </div>
+
+      <div>
+        <img src="./3.jpg" alt="App Screenshot 3">
+        <p>Pickup where you last left off with the included e-reader.</p>
+      </div>
     </div>
-    <!-- Placeholder container for three app screenshots -->
-    <div class="screenshots">
-      <img src="./1.jpg" alt="App Screenshot 1">
-      <img src="./2.jpg" alt="App Screenshot 2">
-      <img src="./3.jpg" alt="App Screenshot 3">
-    </div>
+
   </main>
 
   <footer>
@@ -145,7 +223,7 @@
         <dt>Is the app free?</dt>
         <dd>Yes! Tied2Shore was developed and funded by Global Maritime Ministries (in partnership with Port Ministries International). Our mission is to serve seafarers while exemplifying Christ.</dd>
         <dt>How can I get support?</dt>
-        <dd>For any questions or assistance, please email us at .</dd>
+        <dd>For any questions or assistance, please email us at <a href="mailto:support@tied2shore.com">support@tied2shore.com</a>.</dd>
         <dt>How can I help?</dt>
         <dd>Do you know of any seafarer centers not in the directory? Send us an <a href="mailto:support@tied2shore.com">email</a> and let us know so we can add it to the directory!</dd>
         <dt>How can I share Tied2Shore with others?</dt>
