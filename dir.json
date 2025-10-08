@@ -1,5 +1,5 @@
 {
-  "release": 1759930530,
+  "release": 1759933019,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1971,6 +1971,21 @@
       "id": 134
     },
     {
+      "name": "QVSR Bristol Seafarers Centre",
+      "coordinates": [
+        51.49009975849826,
+        -2.7205389853249664
+      ],
+      "city": "Bristol",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-bristol",
+      "email": "qvsrbristol@qvsr.org.uk",
+      "phone": "+44 1275 374895",
+      "gmap": "TmspUQ9bE7x1guBt9",
+      "gmapID": "ChIJT6EXx13tcUgR1HxBC-zLUIw",
+      "id": 206
+    },
+    {
       "name": "Stella Maris, Fawley",
       "coordinates": [
         50.735,
@@ -1983,6 +1998,22 @@
       "id": 135
     },
     {
+      "name": "QVSR Felixstowe Seafarers Centre",
+      "coordinates": [
+        51.94765172009412,
+        1.3245964416829243
+      ],
+      "city": "Felixstowe",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-felixstowe",
+      "email": "qvsrfelixstowe@qvsr.org.uk",
+      "phone": "+44 1394 613502",
+      "whatsapp": "+447968306381",
+      "gmap": "8ZhXKqBitPQe5xzWA",
+      "gmapID": "ChIJoQLBxz532UcRldi4lgu_48o",
+      "id": 207
+    },
+    {
       "name": "Stella Maris, Hull",
       "coordinates": [
         53.767,
@@ -1993,6 +2024,22 @@
       "email": "anne.mclaren@stellamarismail.org",
       "phone": "+44 7906 661 633",
       "id": 136
+    },
+    {
+      "name": "QVSR Immingham Seafarers Centre",
+      "coordinates": [
+        53.62908487088095,
+        -0.188939273580919
+      ],
+      "city": "Immingham",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-immingham",
+      "email": "qvsrimmingham@qvsr.org.uk",
+      "phone": "+44 1469 574195",
+      "whatsapp": "+447380540023",
+      "gmap": "g8xJBnbYMLu4nj4v5",
+      "gmapID": "ChIJYw2KqxKaeEgRY1Ddb9Pg1aQ",
+      "id": 208
     },
     {
       "name": "Stella Maris, King's Lynn",
@@ -2083,6 +2130,34 @@
       "email": "info@stellamarissouthampton.org.uk",
       "phone": "+44 23 8022 5065",
       "id": 143
+    },
+    {
+      "name": "QVSR London Gateway Seafarers Centre",
+      "coordinates": [
+        51.504760781996026,
+        0.5050343487115334
+      ],
+      "city": "Stanford-Le-Hope",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-london-gateway",
+      "email": "londontilbury@qvsr.org.uk",
+      "phone": "+44 1375 840454",
+      "id": 209
+    },
+    {
+      "name": "QVSR London Tilbury Seafarers Centre",
+      "coordinates": [
+        51.46373041950748,
+        0.3471680407993505
+      ],
+      "city": "Tilbury",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-london-tilbury",
+      "email": "londontilbury@qvsr.org.uk",
+      "phone": "+44 1375 840454",
+      "gmap": "GbUPz521pnWQqck96",
+      "gmapID": "ChIJ9VNnHka22EcRbjtctNrWvJY",
+      "id": 210
     },
     {
       "name": "Baltimore Baptist Port Ministry",
