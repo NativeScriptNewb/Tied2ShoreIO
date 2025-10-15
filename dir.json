@@ -1,5 +1,5 @@
 {
-  "release": 1759933019,
+  "release": 1760538118,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -388,9 +388,10 @@
       "city": "Sydney",
       "state": "New South Wales",
       "country": "Australia",
-      "website": "missiontoseafarers.org/sydney",
-      "whatsapp": "+61405458388",
-      "phone": "+61292815433",
+      "website": "missiontoseafarerssydney.org.au",
+      "email": "enquiries@missiontoseafarers.org.au",
+      "whatsapp": "+61292413009",
+      "phone": "+61402588116",
       "gmap": "mR7vmx1F9iZ6kDFq7",
       "gmapID": "ChIJdXtWfjyuEmsR9ASoPmbxGG0",
       "id": 29
@@ -1844,14 +1845,34 @@
     {
       "name": "Stella Maris, Barcelona",
       "coordinates": [
-        41.3851,
-        2.1734
+        41.37042849633992,
+        2.173895942328994
       ],
       "city": "Barcelona",
       "country": "Spain",
-      "email": "cruceros@stellamarisbarcelona.org",
-      "phone": "+34 699 842 796",
+      "website": "stellamarisbarcelona.org",
+      "email": "stellamaris@stellamarisbarcelona.org",
+      "phone": "+34934431965",
+      "whatsapp": "+34649825618",
+      "gmap": "fEoDduVnVR98kfaS7",
+      "gmapID": "ChIJzYg9UEWipBIRjSFK4xV7-kc",
       "id": 125
+    },
+    {
+      "name": "Stella Maris, Barcelona",
+      "coordinates": [
+        41.35721608688274,
+        2.1770219619770974
+      ],
+      "city": "Barcelona",
+      "country": "Spain",
+      "website": "stellamarisbarcelona.org",
+      "email": "cruceros@stellamarisbarcelona.org",
+      "phone": "+34 93 221 25 21",
+      "whatsapp": "+34699842796",
+      "gmap": "MnGZmX5r8ShC5YmeA",
+      "gmapID": "ChIJWVgU2zaipBIRmj-qrBtRmPU",
+      "id": 211
     },
     {
       "name": "Stella Maris, Castellón",
