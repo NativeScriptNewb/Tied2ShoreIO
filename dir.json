@@ -1,5 +1,5 @@
 {
-  "release": 1760538118,
+  "release": 1760548039,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1456,6 +1456,20 @@
       "email": "revjosephborg@gmail.com",
       "phone": "+356 9987 9947",
       "id": 97
+    },
+    {
+      "name": "Port Louis Seafarers Centre",
+      "coordinates": [
+        -20.144678396360373,
+        57.50274936989115
+      ],
+      "city": "Port Louis",
+      "country": "Mauritius",
+      "email": "lamer@intnet.mu",
+      "phone": "+ 230 217 43 30",
+      "gmap": "nKq1FYyRt7QpvoXH8",
+      "gmapID": "ChIJpclaAqRRfCER_Hu8iPU1kNk",
+      "id": 212
     },
     {
       "name": "Seamen's Centre Veracruz",
