@@ -1,5 +1,5 @@
 {
-  "release": 1760548039,
+  "release": 1760628308,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -595,8 +595,9 @@
       "state": "Nova Scotia",
       "country": "Canada",
       "website": "missiontoseafarershalifax.ca",
-      "email": "hglenn@bellaliant.com",
+      "email": "hglenn@missiontoseafarershalifax.ca",
       "phone": "+1-902-422-7790",
+      "whatsapp": "+19024561658",
       "gmap": "CSb1TDHigpJSULp67",
       "gmapID": "ChIJBcyqp0giWksRyw29JxYeoug",
       "id": 41
@@ -2530,6 +2531,7 @@
       "website": "houstonseafarers.com",
       "email": "dana@houisc.org",
       "phone": "+1-713-672-0511",
+      "whatsapp": "+17136720511",
       "gmap": "tXjpB7qP7WEPvs42A",
       "gmapID": "ChIJMUdv91O8QIYR4q2EYCS3NRc",
       "id": 164
