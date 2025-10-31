@@ -1,5 +1,5 @@
 {
-  "release": 1760628308,
+  "release": 1761918698,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -102,10 +102,12 @@
         116.70380442301405
       ],
       "city": "Dampier",
+      "state": "Western Australia",
       "country": "Australia",
       "website": "dampierseafarers.org",
-      "email": "steve@dampierseafarers.org",
+      "email": "transit@dampierseafarers.org",
       "phone": "+61891831424",
+      "whatsapp": "+61458704359",
       "gmap": "8QFimYQnbwg2BNZUA",
       "gmapID": "ChIJIVu86Qk89isRgAQaXTkCaFA",
       "id": 8
