@@ -1,5 +1,5 @@
 {
-  "release": 1761918698,
+  "release": 1761926103,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1421,6 +1421,20 @@
       "email": "parrocchiasangennaro@gmail.com",
       "phone": "+39 3394265140",
       "id": 94
+    },
+    {
+      "name": "Venice Seamen's Club",
+      "coordinates": [
+        45.438838888616246,
+        12.311962439077579
+      ],
+      "city": "Venice",
+      "country": "Italy",
+      "website": "veniceseamensclub.wordpress.com",
+      "email": "veniceseamensclub@gmail.com",
+      "phone": "+393491492468",
+      "whatsapp": "+393491492468",
+      "id": 213
     },
     {
       "name": "Stella Maris, Tokyo",
