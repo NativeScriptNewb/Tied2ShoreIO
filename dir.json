@@ -1,5 +1,5 @@
 {
-  "release": 1761940165,
+  "release": 1762197337,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -427,6 +427,23 @@
       "gmap": "JSqSqwTXQBeJd2CG9",
       "gmapID": "ChIJr0ZwSVdd1moR9-R3SCCpspw",
       "id": 31
+    },
+    {
+      "name": "Mission to Seafarers, Port Walcott",
+      "coordinates": [
+        -20.67524439964667,
+        117.13770735767257
+      ],
+      "city": "Wickham",
+      "state": "Western Australia",
+      "country": "Australia",
+      "website": "mtsnwa.org/portwalcott",
+      "email": "transit@mtsportwalcott.org",
+      "phone": "+61460889523",
+      "whatsapp": "+61460889523",
+      "gmap": "mEo6JGuFzHXgjAns9",
+      "gmapID": "ChIJHXRQ-_8L9isR8eXb_Q7s3OI",
+      "id": 214
     },
     {
       "name": "Bahrain Seafarers' Centre",
