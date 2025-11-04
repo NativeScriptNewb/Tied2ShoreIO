@@ -1,5 +1,5 @@
 {
-  "release": 1762197337,
+  "release": 1762285024,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -954,6 +954,20 @@
       "gmap": "9BLdqQMnDQ65qKDTA",
       "gmapID": "ChIJS-IVPswgS0YR53CU72S7Lyk",
       "id": 62
+    },
+    {
+      "name": "Danish Seamen's Mission",
+      "coordinates": [
+        55.70728815532522,
+        9.541606791601957
+      ],
+      "city": "Vejle",
+      "country": "Denmark",
+      "email": "Info@somandsmissionen.dk",
+      "phone": "+4533932543",
+      "gmap": "zwGzusF5bM8LJUAe6",
+      "gmapID": "ChIJ9UtLLj1TUkYRM9SaCSvUKUM",
+      "id": 215
     },
     {
       "name": "Estonian Seamen's Mission NGO",
