@@ -1,5 +1,5 @@
 {
-  "release": 1762285024,
+  "release": 1762469640,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -940,6 +940,20 @@
       "gmap": "iBjwTcR4ob8qu3nC9",
       "gmapID": "ChIJIfydUKQ_TEYRFmxuiHDf4VM",
       "id": 61
+    },
+    {
+      "name": "Aalborg Seamen's Club",
+      "coordinates": [
+        57.046671077843044,
+        9.934914826497412
+      ],
+      "city": "Aalborg",
+      "country": "Denmark",
+      "website": "kompashotel.dk/en/seaman-aalborg",
+      "email": "carsten@seaman-aalborg.dk",
+      "phone": "+4525739740",
+      "gmap": "CzfjsMJDuvogFroJ9",
+      "gmapID": "ChIJDUapKgAzSUYRLwXUGyjd45Q"
     },
     {
       "name": "Port of Esbjerg International Seamen's Center",
@@ -1974,6 +1988,20 @@
       "gmap": "6TCeQmdJMeUdMqbRA",
       "gmapID": "ChIJqWa45iZZ4joRwaXnuRe4Cm0",
       "id": 128
+    },
+    {
+      "name": "Seamen's Church",
+      "coordinates": [
+        55.68221921081698,
+        12.59124490994798
+      ],
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "phone": "+4533130370",
+      "website": "hotel-bethel.dk/en/info/somandskirken",
+      "emai": "info@hotel-bethel.dk",
+      "gmap": "EhNXELEgCxEHAsXKA",
+      "gmapID": "ChIJEcc0Lj1TUkYRFJTT1XhrP_Y"
     },
     {
       "name": "Johannisborg Seamen's Club",
