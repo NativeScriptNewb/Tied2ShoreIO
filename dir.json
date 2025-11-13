@@ -26,14 +26,14 @@
       "id": 2
     },
     {
-      "name": "Bell Bay Seafarers Mission",
+      "name": "Bell Ray Seafarers Mission",
       "coordinates": [
         -41.1310730900819,
         146.86580693393216
       ],
       "city": "Bell Ray",
       "country": "Australia",
-      "website": "mts.org.au/bellbay.html",
+      "website": "mts.org.au/bell-bay",
       "phone": "+61363824124",
       "gmapID": "ChIJ-zMs_k8heqoRfEtG-xR-iCk",
       "id": 3
@@ -89,7 +89,7 @@
       ],
       "city": "Burnie",
       "country": "Australia",
-      "website": "mts.org.au/burnie",
+      "website": "mtsburnie.com",
       "phone": "+61417586970",
       "gmap": "bNEqknjWozMBhyX29",
       "gmapID": "ChIJxQ5qINXre6oRNg8yEOIj9G0",
@@ -104,7 +104,7 @@
       "city": "Dampier",
       "state": "Western Australia",
       "country": "Australia",
-      "website": "dampierseafarers.org",
+      "website": "mtsnwa.org/dampier",
       "email": "transit@dampierseafarers.org",
       "phone": "+61891831424",
       "whatsapp": "+61458704359",
@@ -169,7 +169,7 @@
       "id": 12
     },
     {
-      "name": "Flying Angel Club, Albany",
+      "name": "Flying Angel Club, Fremantle",
       "coordinates": [
         -32.045055255914015,
         115.75237065784553
@@ -334,7 +334,7 @@
       "city": "Port Kembla",
       "state": "New South Wales",
       "country": "Australia",
-      "website": "missiontoseafarers.org",
+      "website": "mts.org.au/port-kembla",
       "email": "tthemisspk@gmail.com",
       "phone": "+61242746498",
       "gmap": "1b17CixaPmY9c9R57",
@@ -474,7 +474,7 @@
       "id": 33
     },
     {
-      "name": "Seamens Club, Antwerp",
+      "name": "Antwerp Seafarers' Center",
       "coordinates": [
         51.2443777156331,
         4.420829810787593
@@ -482,25 +482,13 @@
       "city": "Antwerp",
       "state": "Flanders",
       "country": "Belgium",
-      "website": "missiontoseafarers.org/antwerp",
-      "email": "antwerp@missiontoseafarers.org",
-      "phone": "+32471571219",
+      "website": "aposmar.be",
+      "email": "contact@aposmar.be",
+      "phone": "+3232333475",
       "whatsapp": "+32471571219",
       "gmap": "cdTy8qCbLh4q5MWH8",
       "gmapID": "ChIJq_fPbFX2w0cREosntMsO7jQ",
       "id": 34
-    },
-    {
-      "name": "Stella Maris, Antwerp",
-      "coordinates": [
-        51.2194,
-        4.4025
-      ],
-      "city": "Antwerp",
-      "country": "Belgium",
-      "email": "aposmar.antwerpen@skynet.be",
-      "phone": "+32 49 881 0724",
-      "id": 35
     },
     {
       "name": "Stella Maris, Ghent",
@@ -551,7 +539,7 @@
       "id": 202
     },
     {
-      "name": "Setlla Maris, Rio de Janeiro",
+      "name": "Stella Maris, Rio de Janeiro",
       "coordinates": [
         -22.9572,
         -43.18295
@@ -700,21 +688,6 @@
       "id": 46
     },
     {
-      "name": "Stella Maris, Oshawa",
-      "coordinates": [
-        43.8973,
-        -78.8662
-      ],
-      "city": "Oshawa",
-      "state": "Ontario",
-      "country": "Canada",
-      "website": "missiontoseafarers.ca/GreatLakes.html",
-      "email": "alban.soares@gmail.com",
-      "phone": "+1-905-686-0775",
-      "whatsapp": "+12899911228",
-      "id": 47
-    },
-    {
       "name": "Mission to Seafarers, Oshawa",
       "coordinates": [
         43.873573789456216,
@@ -778,10 +751,10 @@
       "id": 51
     },
     {
-      "name": "International Sailors' Society Canada",
+      "name": "Mission to Seafarers, Sarnia",
       "coordinates": [
-        43.00544114796254,
-        -82.38062940287446
+        42.98469698854814,
+        -82.41646371480768
       ],
       "city": "Sarnia",
       "state": "Ontario",
@@ -790,8 +763,6 @@
       "email": "sarnia@missiontoseafarers.ca",
       "phone": "+1-519-344-1983",
       "whatsapp": "+12263496032",
-      "gmap": "1uPMcZCCYjA8Uz7w7",
-      "gmapID": "ChIJAQAk466EJYgR-KMnvqwiTeY",
       "id": 199
     },
     {
@@ -849,24 +820,10 @@
       "state": "Ontario",
       "country": "Canada",
       "website": "mtsso.org",
-      "email": "deacon_michaelho@yahoo.com",
-      "phone": "+1-416-469-5391",
+      "phone": "+1-647-295-3219",
       "gmap": "jp1EvCrsTrHRqwRc9",
       "gmapID": "ChIJmRXfJh3L1IkR6khzM_xj0qE",
       "id": 55
-    },
-    {
-      "name": "Stella Maris, Toronto",
-      "coordinates": [
-        43.6399,
-        -79.3675
-      ],
-      "city": "Toronto",
-      "state": "Ontario",
-      "country": "Canada",
-      "email": "deacon_michaelho@yahoo.com",
-      "phone": "+1-647-628-0533",
-      "id": 56
     },
     {
       "name": "Foyer des marins Seamen's Club",
@@ -879,7 +836,7 @@
       "country": "Canada",
       "website": "porttr.com/en/community/seamens-club",
       "phone": "+1-819-737-7187",
-      "gmap": "hY4FeEZKsiU3skZ5A",
+      "gmap": "4GQ53uY3admrim8Y8",
       "gmapID": "ChIJo0_6hv7Fx0wRLtR1n1vH34Q",
       "id": 57
     },
@@ -991,7 +948,6 @@
       ],
       "city": "Maardu",
       "country": "Estonia",
-      "email": "seamenscenter@gmail.com",
       "phone": "+3726319996",
       "gmap": "dyDxj5fBB1wZUN1h7",
       "gmapID": "ChIJ9S2O6IXtkkYRpGUCb-6BPUs",
@@ -1011,46 +967,112 @@
       "id": 205
     },
     {
-      "name": "Finnish Seamen's Mission",
+      "name": "Hamina-Kotka Sailor's Church",
       "coordinates": [
-        60.56972,
-        27.18809
+        60.53225586553767,
+        27.168797613463486
       ],
       "city": "Hamina",
       "country": "Finland",
-      "email": "hamina@merimieskirkko.fi",
+      "website": "merimieskirkko.fi",
+      "email": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/hamina-kotka",
       "phone": "+358405398143",
+      "whatsapp": "+358405398143",
+      "gmap": "DeZYdFHYBnzzdeycA",
+      "gmapID": "ChIJUdH6oRsOkUYRxUMEqYO4X4U",
       "id": 64
     },
     {
-      "name": "The Finnish Seamen's Mission",
+      "name": "Vuosaari Sailor's Church",
       "coordinates": [
-        60.222025615491134,
-        25.174379832313345
+        60.22198239221676,
+        25.17415370924836
       ],
       "city": "Helsinki",
-      "state": "Uusimaa",
       "country": "Finland",
-      "phone": "+358405115298",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/vuosaari",
+      "phone": "+358 40 547 6936",
+      "whatsapp": "+358405476936",
       "email": "vuosaari@merimieskirkko.fi",
-      "gmap": "LHGakFGUvmV9u8U37",
+      "gmap": "wX1M55o6ofw2p7hj6",
       "gmapID": "ChIJEdYAULYLkkYR5DzB-Z-Zums",
       "id": 65
     },
     {
-      "name": "Seamen's Mission Kemi-Tornio",
+      "name": "Kemi-Tornio Sailor's Church",
       "coordinates": [
         65.66575,
         24.52029
       ],
       "city": "Kemi",
-      "state": "Lapland",
       "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/kemi-tornio/",
       "email": "kemi@merimieskirkko.fi",
       "phone": "+358 400 227 250",
+      "whatsapp": "+358400227250",
       "gmap": "iJFGWrGvGvvTicjy6",
       "gmapID": "ChIJe1Wl53C0KkQRwNxBLEvQ8_g",
       "id": 66
+    },
+        {
+      "name": "Kokkola Sailor's Church",
+      "coordinates": [
+        63.841696698099376,
+        23.02746275410984
+      ],
+      "city": "Kokkola",
+      "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/kokkola",
+      "phone": "+358 50 4521 989",
+      "email": "kokkola@merimieskirkko.fi",
+      "whatsapp": "+358504521989",
+      "gmap": "vcPwY24UCNoivj3r6",
+      "gmapID": "ChIJn3vx3lpPh0YROJBUdc-DU3Q"
+    },
+    {
+      "name": "Oulu Sailor's Church",
+      "coordinates": [
+        64.99950626648015,
+        25.461552931986834
+      ],
+      "city": "Oulo",
+      "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/oulu",
+      "email": "oulu@merimieskirkko.fi",
+      "phone": "+358400371574",
+      "whatsapp": "+358400371574",
+      "gmap": "SdTg3LAAgMoprhjk8",
+      "gmapID": "ChIJucJ_AOkygEYRgVU3KhkiqGc"
+    },
+    {
+      "name": "Rauma Sailor's Church",
+      "coordinates": [
+        61.1289340658461,
+        21.44410588650884
+      ],
+      "city": "Rauma",
+      "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/rauma",
+      "email": "rauma@merimieskirkko.fi",
+      "phone": "+358 400 53 83 66",
+      "whatsapp": "+358400538366",
+      "gmap": "hL71hofYNhzaaKWf7",
+      "gmapID": "ChIJW3uL9Y9_iUYRUv3MtO9cnUQ"
+    },
+    {
+      "name": "Turku Sailor's Church",
+      "coordinates": [
+        60.449849244819376,
+        22.199776584623
+      ],
+      "city": "Rahtarikuja",
+      "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/turku",
+      "email": "turku@merimieskirkko.fi",
+      "phone": "+358 400 224 248",
+      "whatsapp": "+358400224248",
+      "gmap": "RHGr8HWmViSk5ES18",
+      "gmapID": "ChIJUdxZb213jEYRuqj3cvmwSCw"
     },
     {
       "name": "Seamen's Club de Brest",
@@ -1117,19 +1139,6 @@
       "id": 69
     },
     {
-      "name": "Deutsche Seemannsmission, Altona",
-      "coordinates": [
-        53.54456734751137,
-        9.945672215547345
-      ],
-      "city": "Altona",
-      "country": "Germany",
-      "email": "nordkirche@seemannsmission.org",
-      "phone": "+4940306220",
-      "gmap": "KetDyrfRTQDpcZCZ6",
-      "id": 70
-    },
-    {
       "name": "Seamen's Christian Friend Society",
       "coordinates": [
         53.541519,
@@ -1137,7 +1146,7 @@
       ],
       "city": "Bremerhaven",
       "country": "Germany",
-      "website": "scfs.org",
+      "website": "scfs.org/port/bremerhaven",
       "email": "breitenmoser@web.de",
       "phone": "+49-177-739-7938",
       "whatsapp": "+491777397938",
@@ -1175,17 +1184,19 @@
       "id": 73
     },
     {
-      "name": "DUCKDALBEN International Seamen's Club",
+      "name": "Duckdalben",
       "coordinates": [
-        53.52069391965819,
-        9.921802212307629
+        53.52063193755129,
+        9.92183026893795
       ],
       "city": "Hamburg",
       "country": "Germany",
       "website": "duckdalben.de",
       "email": "cu@duckdalben.de",
       "phone": "+49407401661",
+      "whatsapp": "+49407401661",
       "gmap": "Yheu8reGi1JRVLGE8",
+      "gmapID": "ChIJFdMPAl6FsUcRSpb65rmujjk",
       "id": 74
     },
     {
@@ -1232,8 +1243,20 @@
       "gmapID": "ChIJ5c__NHmPsUcR3TNX2fsXsVw",
       "id": 77
     },
+        {
+      "name": "50 miles, Nordenham",
+      "coordinates": [
+        53.487865254842134,
+        8.485990985609888
+      ],
+      "city": "Nordenham",
+      "country": "Germany",
+      "website": "50miles.de",
+      "email": "info@50miles.de",
+      "phone": "+4944140573566"
+    },
     {
-      "name": "50 Miles - Seafarer's Social Service",
+      "name": "50 Miles, Oldenburg",
       "coordinates": [
         53.11102353553946,
         8.210482568879282
@@ -1242,7 +1265,7 @@
       "country": "Germany",
       "website": "50miles.de",
       "email": "info@50miles.de",
-      "phone": "+4944140573566",
+      "phone": "+4917356003750",
       "gmap": "zaRorXp6W5jrHS6M6",
       "gmapID": "ChIJYSnmRljftkcRTqpybU9DLJ8",
       "id": 78
@@ -1884,9 +1907,11 @@
       "city": "Durban",
       "country": "South Africa",
       "website": "durbanseafarersmission.org.za",
+      "email": "info@durbanseafarersmission.org.za",
       "phone": "+27314661326",
-      "gmap": "osJgNf2NM5rEeBw2A",
-      "gmapID": "ChIJFdMPAl6FsUcRSpb65rmujjk",
+      "whatsapp": "+27823784486",
+      "gmap": "c6RvAbNraBjoNXu27",
+      "gmapID": "ChIJS9AQIGup9x4RaO_SVo1nYuY",
       "id": 122
     },
     {
