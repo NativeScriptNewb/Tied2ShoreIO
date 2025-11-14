@@ -1,5 +1,5 @@
 {
-  "release": 1763160532,
+  "release": 1763163400,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -884,6 +884,21 @@
       "id": 60
     },
     {
+      "name": "Aalborg Seamen's Club",
+      "coordinates": [
+        57.046671077843044,
+        9.934914826497412
+      ],
+      "city": "Aalborg",
+      "country": "Denmark",
+      "website": "kompashotel.dk/en/seaman-aalborg",
+      "email": "carsten@seaman-aalborg.dk",
+      "phone": "+4525739740",
+      "gmap": "CzfjsMJDuvogFroJ9",
+      "gmapID": "ChIJDUapKgAzSUYRLwXUGyjd45Q",
+      "id": 216
+    },
+    {
       "name": "Aarhus Seaman's Center",
       "coordinates": [
         56.15299,
@@ -899,18 +914,19 @@
       "id": 61
     },
     {
-      "name": "Aalborg Seamen's Club",
+      "name": "Seamen's Church",
       "coordinates": [
-        57.046671077843044,
-        9.934914826497412
+        55.68221921081698,
+        12.59124490994798
       ],
-      "city": "Aalborg",
+      "city": "Copenhagen",
       "country": "Denmark",
-      "website": "kompashotel.dk/en/seaman-aalborg",
-      "email": "carsten@seaman-aalborg.dk",
-      "phone": "+4525739740",
-      "gmap": "CzfjsMJDuvogFroJ9",
-      "gmapID": "ChIJDUapKgAzSUYRLwXUGyjd45Q"
+      "phone": "+4533130370",
+      "website": "hotel-bethel.dk/en/info/somandskirken",
+      "emai": "info@hotel-bethel.dk",
+      "gmap": "EhNXELEgCxEHAsXKA",
+      "gmapID": "ChIJEcc0Lj1TUkYRFJTT1XhrP_Y",
+      "id": 217
     },
     {
       "name": "Port of Esbjerg International Seamen's Center",
@@ -1014,7 +1030,7 @@
       "gmapID": "ChIJe1Wl53C0KkQRwNxBLEvQ8_g",
       "id": 66
     },
-        {
+    {
       "name": "Kokkola Sailor's Church",
       "coordinates": [
         63.841696698099376,
@@ -1027,7 +1043,8 @@
       "email": "kokkola@merimieskirkko.fi",
       "whatsapp": "+358504521989",
       "gmap": "vcPwY24UCNoivj3r6",
-      "gmapID": "ChIJn3vx3lpPh0YROJBUdc-DU3Q"
+      "gmapID": "ChIJn3vx3lpPh0YROJBUdc-DU3Q",
+      "id": 218
     },
     {
       "name": "Oulu Sailor's Church",
@@ -1042,22 +1059,8 @@
       "phone": "+358400371574",
       "whatsapp": "+358400371574",
       "gmap": "SdTg3LAAgMoprhjk8",
-      "gmapID": "ChIJucJ_AOkygEYRgVU3KhkiqGc"
-    },
-    {
-      "name": "Rauma Sailor's Church",
-      "coordinates": [
-        61.1289340658461,
-        21.44410588650884
-      ],
-      "city": "Rauma",
-      "country": "Finland",
-      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/rauma",
-      "email": "rauma@merimieskirkko.fi",
-      "phone": "+358 400 53 83 66",
-      "whatsapp": "+358400538366",
-      "gmap": "hL71hofYNhzaaKWf7",
-      "gmapID": "ChIJW3uL9Y9_iUYRUv3MtO9cnUQ"
+      "gmapID": "ChIJucJ_AOkygEYRgVU3KhkiqGc",
+      "id": 219
     },
     {
       "name": "Turku Sailor's Church",
@@ -1072,7 +1075,24 @@
       "phone": "+358 400 224 248",
       "whatsapp": "+358400224248",
       "gmap": "RHGr8HWmViSk5ES18",
-      "gmapID": "ChIJUdxZb213jEYRuqj3cvmwSCw"
+      "gmapID": "ChIJUdxZb213jEYRuqj3cvmwSCw",
+      "id": 220
+    },
+    {
+      "name": "Rauma Sailor's Church",
+      "coordinates": [
+        61.1289340658461,
+        21.44410588650884
+      ],
+      "city": "Rauma",
+      "country": "Finland",
+      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/rauma",
+      "email": "rauma@merimieskirkko.fi",
+      "phone": "+358 400 53 83 66",
+      "whatsapp": "+358400538366",
+      "gmap": "hL71hofYNhzaaKWf7",
+      "gmapID": "ChIJW3uL9Y9_iUYRUv3MtO9cnUQ",
+      "id": 221
     },
     {
       "name": "Seamen's Club de Brest",
@@ -1243,7 +1263,7 @@
       "gmapID": "ChIJ5c__NHmPsUcR3TNX2fsXsVw",
       "id": 77
     },
-        {
+    {
       "name": "50 miles, Nordenham",
       "coordinates": [
         53.487865254842134,
@@ -1253,7 +1273,8 @@
       "country": "Germany",
       "website": "50miles.de",
       "email": "info@50miles.de",
-      "phone": "+4944140573566"
+      "phone": "+4944140573566",
+      "id": 222
     },
     {
       "name": "50 Miles, Oldenburg",
@@ -2026,20 +2047,6 @@
       "id": 128
     },
     {
-      "name": "Seamen's Church",
-      "coordinates": [
-        55.68221921081698,
-        12.59124490994798
-      ],
-      "city": "Copenhagen",
-      "country": "Denmark",
-      "phone": "+4533130370",
-      "website": "hotel-bethel.dk/en/info/somandskirken",
-      "emai": "info@hotel-bethel.dk",
-      "gmap": "EhNXELEgCxEHAsXKA",
-      "gmapID": "ChIJEcc0Lj1TUkYRFJTT1XhrP_Y"
-    },
-    {
       "name": "Johannisborg Seamen's Club",
       "coordinates": [
         58.600131009526244,
@@ -2126,7 +2133,8 @@
       "city": "Berkeley",
       "country": "United Kingdom",
       "website": "qvsr.org.uk/qvsr-bristol",
-      "phone": "+44 1275 374895"
+      "phone": "+44 1275 374895",
+      "id": 223
     },
     {
       "name": "QVSR Bristol Seafarers Centre",
@@ -2209,7 +2217,8 @@
       "country": "United Kingdom",
       "website": "qvsr.org.uk/qvsr-felixstowe",
       "phone": "+44 7968 306381",
-      "whatsapp": "+447968306381"
+      "whatsapp": "+447968306381",
+      "id": 224
     },
     {
       "name": "Stella Maris, King's Lynn",
