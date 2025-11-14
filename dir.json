@@ -1,5 +1,5 @@
 {
-  "release": 1762469640,
+  "release": 1763160532,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1298,14 +1298,14 @@
       "id": 80
     },
     {
-      "name": "Mariner's Club, Kwai Chung",
+      "name": "The Mariners",
       "coordinates": [
         22.34616480875111,
         114.12431619815149
       ],
       "city": "Kwai Chung",
       "country": "Hong Kong",
-      "website": "themarinersclubhk.org",
+      "website": "themariners.hk/en",
       "email": "chaplaincy@themariners.hk",
       "phone": "+85221632333",
       "gmap": "fCw1zHokW1HmbRLz7",
@@ -1357,14 +1357,13 @@
       "id": 84
     },
     {
-      "name": "Seafares Club JNPA",
+      "name": "Seafarers Club JNPA",
       "coordinates": [
         18.937166310954822,
         72.94925990537666
       ],
       "city": "Sheva",
       "country": "India",
-      "website": "seafarersclubjnpa.in",
       "email": "admin@seafarersclubjnpa.in",
       "phone": "+91 22 27244561",
       "gmap": "ogZivVTjafF8812x9",
@@ -1372,7 +1371,7 @@
       "id": 85
     },
     {
-      "name": "Seafarer's Christian Friend Society, Cork",
+      "name": "Seafarers' Christian Friend Society, Cork",
       "coordinates": [
         51.84872806338216,
         -8.301206807860565
@@ -1389,7 +1388,7 @@
       "id": 86
     },
     {
-      "name": "Seafarer's Christian Friend Society, Dublin",
+      "name": "Seafarers' Christian Friend Society, Dublin",
       "coordinates": [
         53.35500025549186,
         -6.213326780482319
@@ -1445,13 +1444,16 @@
     {
       "name": "Stella Maris, Livorno",
       "coordinates": [
-        43.5485,
-        10.3106
+        43.55282399133224,
+        10.301222826364533
       ],
       "city": "Livorno",
       "country": "Italy",
-      "email": "fraike.trinitari86@gmail.com",
-      "phone": "+39 3317210869",
+      "website": "stellamarislivorno.org",
+      "email": "italy@stellamaris.tv",
+      "phone": "+390805210605",
+      "gmap": "93SMhD7NXjm4NY5y5",
+      "gmapID": "ChIJg8BBsI_r1RIRn3dnZgxQS9E",
       "id": 91
     },
     {
@@ -1469,13 +1471,15 @@
     {
       "name": "Stella Maris, Monfalcone",
       "coordinates": [
-        45.83,
-        13.536
+        45.7910897575332,
+        13.560644583943319
       ],
       "city": "Monfalcone",
       "country": "Italy",
-      "email": "monfalcone@stellamaris.tv",
-      "phone": "+39 32 0093 2048",
+      "website": "stellamaris.tv/monfalcone",
+      "email": "stellamarismonfalcone@gmail.com",
+      "phone": "+39 340 966 2271",
+      "whatsapp": "+393409662271",
       "id": 93
     },
     {
@@ -1486,8 +1490,9 @@
       ],
       "city": "Napoli",
       "country": "Italy",
-      "email": "parrocchiasangennaro@gmail.com",
-      "phone": "+39 3394265140",
+      "email": "giovannisantilli@libero.it",
+      "phone": "+393299012983",
+      "whatsapp": "+393299012983",
       "id": 94
     },
     {
@@ -1652,15 +1657,18 @@
     {
       "name": "Stella Maris, Wellington",
       "coordinates": [
-        -41.29109,
-        174.77873
+        -41.277935822215674,
+        174.78485489899208
       ],
       "city": "Wellington",
       "state": "New Zealand",
       "country": "New Zealand",
-      "website": "stellamaris.org.nz/",
-      "email": "info@stellamaris.org.nz",
-      "phone": "+64 4 385 4005",
+      "website": "aos.org.nz/wellington",
+      "email": "yoseceleste@gmail.com",
+      "phone": "+6421894030",
+      "whatsapp": "+6421894030",
+      "gmap": "jcm114U1731JyxLo9",
+      "gmapID": "ChIJ1-qZesevOG0RtT_G_mqGCzc",
       "id": 104
     },
     {
@@ -1730,7 +1738,7 @@
       "id": 109
     },
     {
-      "name": "Seafarer's Christian Friend Society, Manila",
+      "name": "Seafarers' Christian Friend Society, Manila",
       "coordinates": [
         14.593933177122624,
         120.97798230002266
@@ -1739,8 +1747,7 @@
       "country": "Philippines",
       "website": "scfs.org/port/manilla",
       "email": "Bayaniaudea@Gmail.com",
-      "phone": "+639274766410",
-      "whatsapp": "+447470099072",
+      "phone": "+639274764106",
       "gmap": "XQ8n4YSzaDirDAjKA",
       "gmapID": "ChIJ8U7l4yLKlzMRW8NhysqxvUM",
       "id": 110
@@ -1828,7 +1835,7 @@
       "id": 116
     },
     {
-      "name": "Seafarer's Christian Friend Society, Aberdeen",
+      "name": "Seafarers' Christian Friend Society, Aberdeen",
       "coordinates": [
         57.14121937222071,
         -2.0735205902195264
@@ -1842,7 +1849,7 @@
       "id": 117
     },
     {
-      "name": "Seafarer's Christian Friend Society, Montrose",
+      "name": "Seafarers' Christian Friend Society, Montrose",
       "coordinates": [
         56.70364590404938,
         -2.463897489627815
@@ -1944,7 +1951,7 @@
       "id": 124
     },
     {
-      "name": "Stella Maris, Barcelona",
+      "name": "Stella Maris, Barcelona (Club and Accomodations)",
       "coordinates": [
         41.37042849633992,
         2.173895942328994
@@ -1960,7 +1967,7 @@
       "id": 125
     },
     {
-      "name": "Stella Maris, Barcelona",
+      "name": "Stella Maris, Barcelona (Cruise Ship Terminal)",
       "coordinates": [
         41.35721608688274,
         2.1770219619770974
@@ -1990,13 +1997,17 @@
     {
       "name": "Stella Maris, Tarragona",
       "coordinates": [
-        41.1189,
-        1.2445
+        41.10904976002791,
+        1.2498447537234096
       ],
       "city": "Tarragona",
       "country": "Spain",
+      "website": "stellamaristarragona.cat",
       "email": "stellamaris@arqtgn.cat",
       "phone": "+34 639 978 982",
+      "whatsapp": "+34639978982",
+      "gmap": "Fj3Esckm3ppUYtNXA",
+      "gmapID": "ChIJDSFU7tXioxIRRv7juNBa0tA",
       "id": 127
     },
     {
@@ -2107,6 +2118,17 @@
       "id": 134
     },
     {
+      "name": "QVSR Sharpness (Communications Cabin)",
+      "coordinates": [
+        51.72206113737858,
+        -2.4752857742982064
+      ],
+      "city": "Berkeley",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-bristol",
+      "phone": "+44 1275 374895"
+    },
+    {
       "name": "QVSR Bristol Seafarers Centre",
       "coordinates": [
         51.49009975849826,
@@ -2176,6 +2198,18 @@
       "gmap": "g8xJBnbYMLu4nj4v5",
       "gmapID": "ChIJYw2KqxKaeEgRY1Ddb9Pg1aQ",
       "id": 208
+    },
+    {
+      "name": "QVSR Ipswich Seafarers' Centre",
+      "coordinates": [
+        52.04647972560556,
+        1.1626699223564612
+      ],
+      "city": "Ipswich",
+      "country": "United Kingdom",
+      "website": "qvsr.org.uk/qvsr-felixstowe",
+      "phone": "+44 7968 306381",
+      "whatsapp": "+447968306381"
     },
     {
       "name": "Stella Maris, King's Lynn",
@@ -2262,9 +2296,8 @@
       "city": "Southampton",
       "state": "England",
       "country": "United Kingdom",
-      "website": "stellamarissouthampton.org.uk/",
-      "email": "info@stellamarissouthampton.org.uk",
-      "phone": "+44 23 8022 5065",
+      "email": "luke.phillips@stellamarismail.org",
+      "phone": "+44 7843 739579",
       "id": 143
     },
     {
