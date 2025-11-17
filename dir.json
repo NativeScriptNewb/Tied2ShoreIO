@@ -1,5 +1,5 @@
 {
-  "release": 1763407258,
+  "release": 1763409367,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1449,19 +1449,6 @@
       "id": 88
     },
     {
-      "name": "Seafarers' Christian Friend Society, Foyle",
-      "coordinates": [
-        52.614968909544224,
-        -9.103530676692962
-      ],
-      "city": "Foyle",
-      "country": "United Kingdom",
-      "website": "scfs.org/port/foyle-port",
-      "phone": "+447702786596",
-      "whatsapp": "+447702786596",
-      "id": 225
-    },
-    {
       "name": "Seafarers' Christian Friend Society, Foynes-Limerick",
       "coordinates": [
         52.640567385298056,
@@ -2250,6 +2237,19 @@
       "id": 207
     },
     {
+      "name": "Seafarers' Christian Friend Society, Foyle",
+      "coordinates": [
+        52.614968909544224,
+        -9.103530676692962
+      ],
+      "city": "Foyle",
+      "country": "United Kingdom",
+      "website": "scfs.org/port/foyle-port",
+      "phone": "+447702786596",
+      "whatsapp": "+447702786596",
+      "id": 225
+    },
+    {
       "name": "Stella Maris, Hull",
       "coordinates": [
         53.767,
@@ -2331,6 +2331,19 @@
       "id": 139
     },
     {
+      "name": "Seafarer's Christian Friend Society, Warrenpoint",
+      "coordinates": [
+        54.10186965861828,
+        -6.259206095298669
+      ],
+      "city": "Newry",
+      "country": "United Kingdom",
+      "website": "scfs.org/port/warrenpoint-port",
+      "phone": "+447914751466",
+      "whatsapp": "+447914751466",
+      "id": 230
+    },
+    {
       "name": "Stella Maris, Plymouth",
       "coordinates": [
         50.3755,
@@ -2343,10 +2356,24 @@
       "id": 140
     },
     {
+      "name": "Seafarer's Christian Friend Society, Portsmouth",
+      "coordinates": [
+        50.81207122445278,
+        -1.0885631076817741
+      ],
+      "city": "Portsmouth",
+      "country": "United Kingdom",
+      "website": "scfs.org/port/portsmouth",
+      "email": "peter.wells@Scfs.org",
+      "phone": "+447523697995",
+      "whatsapp": "+447523697995",
+      "id": 231
+    },
+    {
       "name": "Stella Maris, Portsmouth",
       "coordinates": [
-        50.8198,
-        -1.088
+        50.80922688234056,
+        -1.0897266853003538
       ],
       "city": "Portsmouth",
       "country": "United Kingdom",
