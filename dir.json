@@ -1,5 +1,5 @@
 {
-  "release": 1763163400,
+  "release": 1763397367,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -489,6 +489,20 @@
       "gmap": "cdTy8qCbLh4q5MWH8",
       "gmapID": "ChIJq_fPbFX2w0cREosntMsO7jQ",
       "id": 34
+    },
+    {
+      "name": "Seafarers' Christian Friend Society, Ghent",
+      "coordinates": [
+        51.106642912124,
+        3.7406887163190827
+      ],
+      "city": "Ghent",
+      "country": "Belgium",
+      "website": "scfs.org/port/port-of-ghent",
+      "email": "alexander.eberson@Scfs.org",
+      "phone": "+31628780103",
+      "whatsapp": "+31628780103",
+      "id": 228
     },
     {
       "name": "Stella Maris, Ghent",
@@ -1435,6 +1449,33 @@
       "id": 88
     },
     {
+      "name": "Seafarers' Christian Friend Society, Foyle",
+      "coordinates": [
+        52.614968909544224,
+        -9.103530676692962
+      ],
+      "city": "Foyle",
+      "country": "Ireland",
+      "website": "scfs.org/port/foyle-port",
+      "phone": "+447702786596",
+      "whatsapp": "+447702786596",
+      "id": 225
+    },
+    {
+      "name": "Seafarers' Christian Friend Society, Foynes-Limerick",
+      "coordinates": [
+        52.640567385298056,
+        -9.093106516065749
+      ],
+      "city": "Foynes-Limerick",
+      "country": "Ireland",
+      "website": "scfs.org/port/foynes-limerick",
+      "email": "gordon.liston@Scfs.org",
+      "phone": "+353892513579",
+      "whatsapp": "+353892513579",
+      "id": 226
+    },
+    {
       "name": "Stella Maris, Ancona",
       "coordinates": [
         43.6167,
@@ -1772,6 +1813,19 @@
       "gmap": "XQ8n4YSzaDirDAjKA",
       "gmapID": "ChIJ8U7l4yLKlzMRW8NhysqxvUM",
       "id": 110
+    },
+    {
+      "name": "Seafarers' Christian Friend Society, Ormoc",
+      "coordinates": [
+        11.003488863580394,
+        124.60594576568741
+      ],
+      "city": "Ormoc",
+      "country": "Philippines",
+      "website": "scfs.org/port/ormoc-port",
+      "email": "ptrelmermatiga@Gmail.com",
+      "phone": "+639083138552",
+      "id": 229
     },
     {
       "name": "Stella Maris, Gdansk",
@@ -2123,6 +2177,22 @@
       "email": "fralexod@gmail.com",
       "phone": "+380 963 614002",
       "id": 134
+    },
+    {
+      "name": "Seafarers' Christian Friend Society, Belfast",
+      "coordinates": [
+        54.647201479287695,
+        -5.637945521829121
+      ],
+      "city": "Belfast",
+      "country": "United Kingdom",
+      "website": "scfs.org/port/belfast-port",
+      "email": "sam.cowan@Scfs.org",
+      "phone": "+447523697992",
+      "whatsapp": "+447523697992",
+      "gmap": "FgqG3jZAPAo9R8qh8",
+      "gmapID": "ChIJXWZ9vll3YUgRsEHhu0_LIos",
+      "id": 227
     },
     {
       "name": "QVSR Sharpness (Communications Cabin)",
