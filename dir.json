@@ -1,5 +1,5 @@
 {
-  "release": 1763676962,
+  "release": 1765377409,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -2576,6 +2576,20 @@
       "gmap": "ZBbSQBAeoYXrduZ59",
       "gmapID": "ChIJN67z106m4IgRJ3f_9OaBnSo",
       "id": 152
+    },
+    {
+      "name": "Stella Maris, St. Bernard",
+      "coordinates": [
+        29.959507995656033,
+        -89.98434947266698
+      ],
+      "city": "Chalmette",
+      "state": "Louisiana",
+      "country": "United States",
+      "email": "AVillanueva@arch-no.org",
+      "phone": "+15042566191",
+      "whatsapp": "+15042566191",
+      "id": 232
     },
     {
       "name": "Charleston Port & Seafarers Society",
