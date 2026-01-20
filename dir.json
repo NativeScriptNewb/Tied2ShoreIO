@@ -1,5 +1,5 @@
 {
-  "release": 1768943146,
+  "release": 1768947436,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -18,13 +18,14 @@
     {
       "name": "Stella Maris, Albany",
       "coordinates": [
-        -35.026,
-        117.882
+        -35.03135350399044,
+        117.89283516617301
       ],
       "city": "Albany",
       "country": "Australia",
       "email": "sma6330@yahoo.com.au",
       "phone": "+61 423 866 932",
+      "gmapID": "ChIJO4UO83UnOSoR59m8h7H_mvY",
       "id": 2
     },
     {
@@ -246,13 +247,14 @@
     {
       "name": "Stella Maris, Mackay",
       "coordinates": [
-        -21.1411,
-        149.186
+        -21.14474366311706, 
+        149.1880773317412
       ],
       "city": "Mackay",
       "country": "Australia",
       "email": "stellamarismkymanager@gmail.com",
       "phone": "+61 749 534 038",
+      "gmapID": "ChIJ2_VwbPnT22sRg9f7xPGjGpM",
       "id": 19
     },
     {
