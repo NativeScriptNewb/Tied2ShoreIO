@@ -4,13 +4,15 @@
     {
       "name": "Stella Maris, Buenos Aires",
       "coordinates": [
-        -34.6037,
-        -58.3816
+        -34.616873704162465,
+        -58.36690562263697
       ],
       "city": "Buenos Aires",
       "country": "Argentina",
       "email": "jantonio_rm@hotmail.com",
-      "phone": "+54 92914051710",
+      "phone": "+5492914051710",
+      "whatsapp": "+5491128481548",
+      "gmapID": "ChIJGW3CF9Q0o5URIp7J5BfvwEw",
       "id": 1
     },
     {
@@ -49,7 +51,6 @@
       "website": "mtsbrisbane.org.au",
       "email": "tfa@mtsbrisbane.org.au",
       "phone": "+61738951181",
-      "gmap": "wKvgc5BNm4FCoSPX7",
       "gmapID": "ChIJcZz0dkjgk2sRYcluMWnZTjU",
       "id": 4
     },
@@ -77,7 +78,6 @@
       "email": "flyingangelby@bigpond.com",
       "phone": "+61897212370",
       "whatsapp": "+61422949498",
-      "gmap": "1QXycPuqWs8LP2ZJ9",
       "gmapID": "ChIJC5PUrTcdLioRDVSlhwuX2g0",
       "id": 6
     },
@@ -91,7 +91,6 @@
       "country": "Australia",
       "website": "mtsburnie.com",
       "phone": "+61417586970",
-      "gmap": "bNEqknjWozMBhyX29",
       "gmapID": "ChIJxQ5qINXre6oRNg8yEOIj9G0",
       "id": 7
     },
@@ -108,7 +107,6 @@
       "email": "transit@dampierseafarers.org",
       "phone": "+61891831424",
       "whatsapp": "+61458704359",
-      "gmap": "8QFimYQnbwg2BNZUA",
       "gmapID": "ChIJIVu86Qk89isRgAQaXTkCaFA",
       "id": 8
     },
@@ -136,7 +134,6 @@
       "city": "Eden",
       "phone": "+61264964631",
       "email": "mtseden2551@gmail.com",
-      "gmap": "B7v9uBm2rDPz3XEn9",
       "gmapID": "ChIJ9xHQ_iCmPmsRCgHQTi9ka0U",
       "id": 10
     },
@@ -150,7 +147,6 @@
       "country": "Australia",
       "website": "mts.org.au/port-giles",
       "phone": "+61888526479",
-      "gmap": "nDFMrGND3bxHmGEo8",
       "gmapID": "ChIJ3wlUfr7qsWoRrUeiy5RsXiE",
       "id": 11
     },
@@ -164,7 +160,6 @@
       "country": "Australia",
       "website": "missiontoseafarers.org/esperance",
       "phone": "+61890716811",
-      "gmap": "LC1LPQWxZFGH4u4a9",
       "gmapID": "ChIJh36J_09HWyoRnovjfnFTZdA",
       "id": 12
     },
@@ -179,7 +174,6 @@
       "website": "flyingangel.org.au",
       "email": "staff@flyingangel.org.au",
       "phone": "+61893355000",
-      "gmap": "qjo6i46NDZmrEvJC8",
       "gmapID": "ChIJM0VWk_UmOSoRX85VCbDKmhk",
       "id": 13
     },
@@ -194,7 +188,6 @@
       "website": "geraldtonseafarers.org",
       "email": "info@geraldtonseafarers.org",
       "phone": "+61899213272",
-      "gmap": "F2Qfn4Qppa61eRJ78",
       "gmapID": "ChIJ2eavTo5G2isR0mYjrfHniJY",
       "id": 14
     },
@@ -208,7 +201,6 @@
       "country": "Australia",
       "website": "gladstonemts.org.au",
       "phone": "+61749720355",
-      "gmap": "BqUWvFP9bC5pSbLT6",
       "gmapID": "ChIJRW2q-Xt0wmsRAlWdNrZk980",
       "id": 15
     },
@@ -222,7 +214,6 @@
       "country": "Australia",
       "website": "mts.org.au/hastings",
       "phone": "+61359794327",
-      "gmap": "heqnR75X5Jwtj4cVA",
       "gmapID": "ChIJjSUGBxvn1WoR--LVqtniLns",
       "id": 16
     },
@@ -249,7 +240,6 @@
       "website": "mts.org.au/hobart",
       "email": "hobart@mts.org.au",
       "phone": "+61362346016",
-      "gmap": "fTEGAtFiEJ1G7dRN8",
       "gmapID": "ChIJ3efsdYZ1bqoRp0bHUBFL0fY",
       "id": 18
     },
@@ -276,7 +266,6 @@
       "phone": "+61417878131",
       "website": "stellamaris.org.au",
       "email": "leeanne.diano@stellamaris.org.au",
-      "gmap": "aW68yzbe6LM9uCR69",
       "gmapID": "ChIJMfZocE5d1moR9wk0jLY_5GQ",
       "id": 20
     },
@@ -293,7 +282,6 @@
       "email": "admin@mtsnewcastle.org.au",
       "phone": "+61249615007",
       "whatsapp": "+61432668587",
-      "gmap": "oHSefCKbGSV5ia2UA",
       "gmapID": "ChIJrxvtAFoUc2sRRhoEiPnAG3g",
       "id": 21
     },
@@ -307,7 +295,6 @@
       "country": "Australia",
       "website": "missiontoseafarersgeelong.org",
       "phone": "+61352786985",
-      "gmap": "ZAg6ovKjXxN6XdKA6",
       "gmapID": "ChIJJ4eT0BcX1GoRdm0e2ADjCF8",
       "id": 22
     },
@@ -321,7 +308,6 @@
       "country": "Australia",
       "website": "phseafarers.org",
       "phone": "+61891731315",
-      "gmap": "PEruv32BCeZp8Nc99",
       "gmapID": "ChIJP6CI2X9O9SsRxsZp0o5n9h8",
       "id": 23
     },
@@ -337,7 +323,6 @@
       "website": "mts.org.au/port-kembla",
       "email": "tthemisspk@gmail.com",
       "phone": "+61242746498",
-      "gmap": "1b17CixaPmY9c9R57",
       "gmapID": "ChIJJ1Olh3MXE2sRHB27K9Pl-M0",
       "id": 24
     },
@@ -363,7 +348,6 @@
       "country": "Australia",
       "website": "missiontoseafarers.org/port-pirie",
       "phone": "+61418812109",
-      "gmap": "ug39TLyJUJ4FrcBQ7",
       "gmapID": "ChIJ18WcK5p-u2oR1QhlWeLQJK0",
       "id": 27
     },
@@ -377,7 +361,6 @@
       "country": "Australia",
       "website": "missiontoseafarers.org/portland",
       "phone": "+61355231244",
-      "gmap": "FDqiLuA5KKaJK7BY6",
       "gmapID": "ChIJH1M4C0yYnaoRfW_4OfXm9yU",
       "id": 28
     },
@@ -394,7 +377,6 @@
       "email": "enquiries@missiontoseafarers.org.au",
       "whatsapp": "+61292413009",
       "phone": "+61402588116",
-      "gmap": "mR7vmx1F9iZ6kDFq7",
       "gmapID": "ChIJdXtWfjyuEmsR9ASoPmbxGG0",
       "id": 29
     },
@@ -409,7 +391,6 @@
       "website": "missiontoseafarers.org/townsville",
       "email": "mtstownsville@hotmail.com",
       "phone": "+61747722774",
-      "gmap": "nZjrR7W29RCjtzwu6",
       "gmapID": "ChIJc1SbxjT_1WsRWIbbbv3-Zo8",
       "id": 30
     },
@@ -424,7 +405,6 @@
       "website": "missiontoseafarers.com.au",
       "email": "info@missiontoseafarers.com.au",
       "phone": "+61396297083",
-      "gmap": "JSqSqwTXQBeJd2CG9",
       "gmapID": "ChIJr0ZwSVdd1moR9-R3SCCpspw",
       "id": 31
     },
@@ -441,7 +421,6 @@
       "email": "transit@mtsportwalcott.org",
       "phone": "+61460889523",
       "whatsapp": "+61460889523",
-      "gmap": "mEo6JGuFzHXgjAns9",
       "gmapID": "ChIJHXRQ-_8L9isR8eXb_Q7s3OI",
       "id": 214
     },
@@ -455,7 +434,6 @@
       "country": "Bahrain",
       "phone": "+97317162030",
       "whatsapp": "+97333402317",
-      "gmap": "ApZpzBTWHm5r3Np97",
       "gmapID": "ChIJ43XonM0AST4Rwwn-ZoTT8oI",
       "id": 32
     },
@@ -469,7 +447,6 @@
       "country": "Bangladesh",
       "phone": "+8801869303399",
       "email": "isdcbangladesh@gmail.com",
-      "gmap": "MhybtwfEmgDBHMNz8",
       "gmapID": "ChIJzZNAn-DerDARDa1fWYnEuQ4",
       "id": 33
     },
@@ -486,7 +463,6 @@
       "email": "contact@aposmar.be",
       "phone": "+3232333475",
       "whatsapp": "+32471571219",
-      "gmap": "cdTy8qCbLh4q5MWH8",
       "gmapID": "ChIJq_fPbFX2w0cREosntMsO7jQ",
       "id": 34
     },
@@ -516,7 +492,6 @@
       "email": "stellamarisgent@proximus.be",
       "website": "stellamarisgent.be",
       "whatsapp": "+32476502229",
-      "gmap": "Wr7ENu1r7MZVgnrG8",
       "gmapID": "ChIJRRCtR9R2w0cRqmv4qSIc9Jg",
       "id": 36
     },
@@ -532,7 +507,6 @@
       "email": "bermudasailorshome@gmail.com",
       "phone": "+1-441-295-5598",
       "whatsapp": "+14413352383",
-      "gmap": "7nwXPovTaBaUVYbaA",
       "gmapID": "ChIJFQJz4BIULYoR5Uv-E_NeYH4",
       "id": 37
     },
@@ -548,7 +522,6 @@
       "email": "bermudasailorshome@gmail.com",
       "phone": "+1-441-707-0734",
       "whatsapp": "+14413352383",
-      "gmap": "L2iuj96hLiXBwnXcA",
       "gmapID": "ChIJ_Q3mbfARLYoRmAQuuX42kE0",
       "id": 202
     },
@@ -574,7 +547,6 @@
       "country": "Brazil",
       "phone": "+551332348910",
       "email": "stellamarissantos@yahoo.es",
-      "gmap": "QhBbP8tzpEzayQVs8",
       "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
       "id": 39
     },
@@ -602,7 +574,6 @@
       "email": "m2svancouver@gmail.com",
       "phone": "+1-604-253-4421",
       "whatsapp": "+16049929867",
-      "gmap": "SGxfxLso8Z2G5rhG7",
       "gmapID": "ChIJuwiIW2vkhVQRz_MSoiIyEYI",
       "id": 197
     },
@@ -619,7 +590,6 @@
       "email": "hglenn@missiontoseafarershalifax.ca",
       "phone": "+1-902-422-7790",
       "whatsapp": "+19024561658",
-      "gmap": "CSb1TDHigpJSULp67",
       "gmapID": "ChIJBcyqp0giWksRyw29JxYeoug",
       "id": 41
     },
@@ -636,7 +606,6 @@
       "email": "dan.phannenhour@gmail.com",
       "phone": "+1-905-616-8985",
       "whatsapp": "+19056168985",
-      "gmap": "n2QEVdtwaTwmktURA",
       "gmapID": "ChIJ5_-A2AOcLIgR0xk0hzKWooc",
       "id": 42
     },
@@ -652,7 +621,6 @@
       "website": "facebook.com/missioninternationaledesmarinsausaguenay",
       "email": "seamensg@gmail.com",
       "phone": "+1-418-817-3244",
-      "gmap": "PYfx67Z8A3XhMVmv6",
       "gmapID": "ChIJ-7-feKoewEwReJqFjhntIsk",
       "id": 43
     },
@@ -668,7 +636,6 @@
       "website": "marinershouse.ca",
       "email": "manager@marinershouse.ca",
       "phone": "514-849-3234",
-      "gmap": "tkqbanSDXM4Cxac2A",
       "gmapID": "ChIJo4-qUFcayUwRMgVMEFwmPLc",
       "id": 44
     },
@@ -697,7 +664,6 @@
       "website": "sealight.org/index.php/en/",
       "email": "info@sealight.org",
       "phone": "+1-604-988-5084",
-      "gmap": "BNXM9NJebXguddrw7",
       "gmapID": "ChIJR0m5fFJwhlQRDZw6xE017KM",
       "id": 46
     },
@@ -728,7 +694,6 @@
       "website": "facebook.com/seafarersrupert.princerupert",
       "email": "seafarers@citywest.ca",
       "phone": "+1-250-624-6724",
-      "gmap": "a7jX222MhUwUPUF56",
       "gmapID": "ChIJm-uva6nVclQRkmaWO1uaHCw",
       "id": 49
     },
@@ -744,7 +709,6 @@
       "website": "portquebec.ca/operations/operations-portuaires/la-maison-du-marin-de-quebec",
       "email": "maisondumarin@live.ca",
       "phone": "+1-418-953-9677",
-      "gmap": "pdfh3A6kpieft5Hq7",
       "gmapID": "ChIJc4sWXwqWuEwRBWwFPbeKBu0",
       "id": 50
     },
@@ -760,7 +724,6 @@
       "website": "sjseafarers.com",
       "email": "seaf@nb.aibn.com",
       "phone": "+1-506-635-1731",
-      "gmap": "qotvrj6NBMA3XpDK6",
       "gmapID": "ChIJ-Ykzso-0p0wRCJ1Z3Wzwi6Q",
       "id": 51
     },
@@ -804,7 +767,6 @@
       "website": "sealight.org",
       "email": "info@sealight.org",
       "phone": "+1-604-583-1868",
-      "gmap": "uyjHnpr7jq5Rjz7h6",
       "gmapID": "ChIJF1mPnPnYhVQR0KYl5ghTjSE",
       "id": 53
     },
@@ -820,7 +782,6 @@
       "phone": "+18073448241",
       "website": "missiontoseafarersthunderbay.ca",
       "email": "flyingangel@tbaytel.net",
-      "gmap": "LQxZ75e7poUnYDZU9",
       "gmapID": "ChIJrW7h2REiWU0RN8MHWJskrz4",
       "id": 54
     },
@@ -835,7 +796,6 @@
       "country": "Canada",
       "website": "mtsso.org",
       "phone": "+1-647-295-3219",
-      "gmap": "jp1EvCrsTrHRqwRc9",
       "gmapID": "ChIJmRXfJh3L1IkR6khzM_xj0qE",
       "id": 55
     },
@@ -850,7 +810,6 @@
       "country": "Canada",
       "website": "porttr.com/en/community/seamens-club",
       "phone": "+1-819-737-7187",
-      "gmap": "4GQ53uY3admrim8Y8",
       "gmapID": "ChIJo0_6hv7Fx0wRLtR1n1vH34Q",
       "id": 57
     },
@@ -880,7 +839,6 @@
       "email": "m2svancouver@gmail.com",
       "phone": "+1-604-253-4421",
       "whatsapp": "+16049929867",
-      "gmap": "MpL7y94DGL2BzZqr6",
       "gmapID": "ChIJH--8inNxhlQRHhzXKVzUODY",
       "id": 59
     },
@@ -908,7 +866,6 @@
       "website": "kompashotel.dk/en/seaman-aalborg",
       "email": "carsten@seaman-aalborg.dk",
       "phone": "+4525739740",
-      "gmap": "CzfjsMJDuvogFroJ9",
       "gmapID": "ChIJDUapKgAzSUYRLwXUGyjd45Q",
       "id": 216
     },
@@ -923,7 +880,6 @@
       "email": "seamensclub.aarhus@mail.dk",
       "phone": "+4586121599",
       "website": "seamensclubaarhus.dk",
-      "gmap": "iBjwTcR4ob8qu3nC9",
       "gmapID": "ChIJIfydUKQ_TEYRFmxuiHDf4VM",
       "id": 61
     },
@@ -938,7 +894,6 @@
       "phone": "+4533130370",
       "website": "hotel-bethel.dk/en/info/somandskirken",
       "emai": "info@hotel-bethel.dk",
-      "gmap": "EhNXELEgCxEHAsXKA",
       "gmapID": "ChIJEcc0Lj1TUkYRFJTT1XhrP_Y",
       "id": 217
     },
@@ -952,7 +907,6 @@
       "country": "Denmark",
       "email": "ehswelf@mail.tdcadsl.dk",
       "phone": "+4575132859",
-      "gmap": "9BLdqQMnDQ65qKDTA",
       "gmapID": "ChIJS-IVPswgS0YR53CU72S7Lyk",
       "id": 62
     },
@@ -966,7 +920,6 @@
       "country": "Denmark",
       "email": "Info@somandsmissionen.dk",
       "phone": "+4533932543",
-      "gmap": "zwGzusF5bM8LJUAe6",
       "gmapID": "ChIJ9UtLLj1TUkYRM9SaCSvUKUM",
       "id": 215
     },
@@ -979,7 +932,6 @@
       "city": "Maardu",
       "country": "Estonia",
       "phone": "+3726319996",
-      "gmap": "dyDxj5fBB1wZUN1h7",
       "gmapID": "ChIJ9S2O6IXtkkYRpGUCb-6BPUs",
       "id": 63
     },
@@ -992,7 +944,6 @@
       "city": "Paldiski",
       "country": "Estonia",
       "email": "furian@deutsche-evangelische-seemannsmission.de",
-      "gmap": "LUwi62cc3zaYSQNWA",
       "gmapID": "ChIJ9TUWDj2nkkYR8FQkWMY4_dE",
       "id": 205
     },
@@ -1008,7 +959,6 @@
       "email": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/hamina-kotka",
       "phone": "+358405398143",
       "whatsapp": "+358405398143",
-      "gmap": "DeZYdFHYBnzzdeycA",
       "gmapID": "ChIJUdH6oRsOkUYRxUMEqYO4X4U",
       "id": 64
     },
@@ -1024,7 +974,6 @@
       "phone": "+358 40 547 6936",
       "whatsapp": "+358405476936",
       "email": "vuosaari@merimieskirkko.fi",
-      "gmap": "wX1M55o6ofw2p7hj6",
       "gmapID": "ChIJEdYAULYLkkYR5DzB-Z-Zums",
       "id": 65
     },
@@ -1040,7 +989,6 @@
       "email": "kemi@merimieskirkko.fi",
       "phone": "+358 400 227 250",
       "whatsapp": "+358400227250",
-      "gmap": "iJFGWrGvGvvTicjy6",
       "gmapID": "ChIJe1Wl53C0KkQRwNxBLEvQ8_g",
       "id": 66
     },
@@ -1056,7 +1004,6 @@
       "phone": "+358 50 4521 989",
       "email": "kokkola@merimieskirkko.fi",
       "whatsapp": "+358504521989",
-      "gmap": "vcPwY24UCNoivj3r6",
       "gmapID": "ChIJn3vx3lpPh0YROJBUdc-DU3Q",
       "id": 218
     },
@@ -1072,7 +1019,6 @@
       "email": "oulu@merimieskirkko.fi",
       "phone": "+358400371574",
       "whatsapp": "+358400371574",
-      "gmap": "SdTg3LAAgMoprhjk8",
       "gmapID": "ChIJucJ_AOkygEYRgVU3KhkiqGc",
       "id": 219
     },
@@ -1088,7 +1034,6 @@
       "email": "turku@merimieskirkko.fi",
       "phone": "+358 400 224 248",
       "whatsapp": "+358400224248",
-      "gmap": "RHGr8HWmViSk5ES18",
       "gmapID": "ChIJUdxZb213jEYRuqj3cvmwSCw",
       "id": 220
     },
@@ -1104,7 +1049,6 @@
       "email": "rauma@merimieskirkko.fi",
       "phone": "+358 400 53 83 66",
       "whatsapp": "+358400538366",
-      "gmap": "hL71hofYNhzaaKWf7",
       "gmapID": "ChIJW3uL9Y9_iUYRUv3MtO9cnUQ",
       "id": 221
     },
@@ -1120,7 +1064,6 @@
       "website": "seamensclub-brest.fr",
       "email": "seamenbrest@gmail.com",
       "phone": "+33298469599",
-      "gmap": "9KuZD53NA8Q1Byhp8",
       "gmapID": "ChIJI6EyfVu5FkgRQXVWspqaBxQ",
       "id": 67
     },
@@ -1136,7 +1079,6 @@
       "website": "marinaccueil.com",
       "email": "marinaccueil@gmail.com",
       "phone": "+33 0611949588",
-      "gmap": "s2N7vdyoXdHdokEw6",
       "gmapID": "ChIJrxKYVkZeEEgRgigXEktrn28",
       "id": 68
     },
@@ -1151,7 +1093,6 @@
       "phone": "+33612487016",
       "website": "seamensclubmarseille.org",
       "email": "seamenmarseille@wanadoo.fr",
-      "gmap": "xBRWgqrKf6zQbEyU6",
       "gmapID": "ChIJdRr6kezAyRIRVy-oJksc9-E",
       "id": 203
     },
@@ -1168,7 +1109,6 @@
       "email": "seamenrouen@modulonet.fr",
       "phone": "+33235700294",
       "whatsapp": "+33652252362",
-      "gmap": "Ghj9B9qC45FSxyMX9",
       "gmapID": "ChIJvXwn6t_d4EcRyLm2BbD-xcc",
       "id": 69
     },
@@ -1198,7 +1138,6 @@
       "website": "seemannsheim-emden.de/cms",
       "email": "emden@seemannsmission.org",
       "phone": "+49492192080",
-      "gmap": "gKN2CC3P6upYAvX99",
       "gmapID": "ChIJIQAk2Vc3tkcRsY7aTMtXmXs",
       "id": 72
     },
@@ -1213,7 +1152,6 @@
       "website": "dankirke.de",
       "email": "hamborg@dankirke.de",
       "phone": "+4940371300",
-      "gmap": "7ZjMSHGvqtaecrtaA",
       "gmapID": "ChIJdTEdaA6PsUcRWlhgUNMMWf8",
       "id": 73
     },
@@ -1229,7 +1167,6 @@
       "email": "cu@duckdalben.de",
       "phone": "+49407401661",
       "whatsapp": "+49407401661",
-      "gmap": "Yheu8reGi1JRVLGE8",
       "gmapID": "ChIJFdMPAl6FsUcRSpb65rmujjk",
       "id": 74
     },
@@ -1258,7 +1195,6 @@
       "website": "stella-maris.de",
       "email": "info@stella-maris.de",
       "phone": "+49 4041542872",
-      "gmap": "awBzqV9Zs9gycvU18",
       "gmapID": "ChIJyzj2JgyPsUcRPs4xAAFddRI",
       "id": 76
     },
@@ -1273,7 +1209,6 @@
       "website": "deutsche-seemannsmission-kiel.de",
       "email": "dsm-kiel@seemannsmission.org",
       "phone": "+49431331492",
-      "gmap": "YaDVEKocq3ibSLEAA",
       "gmapID": "ChIJ5c__NHmPsUcR3TNX2fsXsVw",
       "id": 77
     },
@@ -1301,7 +1236,6 @@
       "website": "50miles.de",
       "email": "info@50miles.de",
       "phone": "+4917356003750",
-      "gmap": "zaRorXp6W5jrHS6M6",
       "gmapID": "ChIJYSnmRljftkcRTqpybU9DLJ8",
       "id": 78
     },
@@ -1316,7 +1250,6 @@
       "website": "seemannsmission-wilhelmshaven.de",
       "email": "info@dsm-whv.de",
       "phone": "+49 4421 993450",
-      "gmap": "ZbvxLsGs7VXKZoMN8",
       "gmapID": "ChIJC1QfyeeTtkcRb6ETx4sx1gw",
       "id": 79
     },
@@ -1343,7 +1276,6 @@
       "website": "themariners.hk/en",
       "email": "chaplaincy@themariners.hk",
       "phone": "+85221632333",
-      "gmap": "fCw1zHokW1HmbRLz7",
       "gmapID": "ChIJXZH06Lb4AzQRA6ZlUy1P7rs",
       "id": 81
     },
@@ -1358,7 +1290,6 @@
       "website": "themarinersclubhk.org",
       "email": "chaplaincy@themarinersclubhk.org",
       "phone": "+85221632333",
-      "gmap": "yLiX1vtXpBGEFJT69",
       "gmapID": "ChIJj4X_H_IABDQR26FYtBKBt2Y",
       "id": 82
     },
@@ -1387,7 +1318,6 @@
       "website": "seaclub.in",
       "email": "seaclub@seaclub.in",
       "phone": "+91 2222613731",
-      "gmap": "Cax62GRQkxQsbq9i9",
       "gmapID": "ChIJHwlqYtrR5zsRoYb8Y1t7Vp4",
       "id": 84
     },
@@ -1401,7 +1331,6 @@
       "country": "India",
       "email": "admin@seafarersclubjnpa.in",
       "phone": "+91 22 27244561",
-      "gmap": "ogZivVTjafF8812x9",
       "gmapID": "ChIJ6f29FQDb5zsRJDg1cYSG1uk",
       "id": 85
     },
@@ -1417,7 +1346,6 @@
       "email": "cork@Scfs.org",
       "phone": "+353858617771",
       "whatsapp": "+353858617771",
-      "gmap": "7nvwaN3hjQuyAf4d6",
       "gmapID": "ChIJx7ey7BMjU0oROOGd4DwR2Vw",
       "pmi": true,
       "id": 86
@@ -1486,7 +1414,6 @@
       "website": "stellamaris.tv/genova",
       "email": "genoa@stellamaris.tv",
       "phone": "+39 010 26 56 84",
-      "gmap": "ios1ET2qiVBZecsk8",
       "gmapID": "ChIJywQsi0NB0xIRCYp_7kEWS6k",
       "id": 90
     },
@@ -1501,7 +1428,6 @@
       "website": "stellamarislivorno.org",
       "email": "italy@stellamaris.tv",
       "phone": "+390805210605",
-      "gmap": "93SMhD7NXjm4NY5y5",
       "gmapID": "ChIJg8BBsI_r1RIRn3dnZgxQS9E",
       "id": 91
     },
@@ -1580,7 +1506,6 @@
       "country": "Kenya",
       "website": "missiontoseafarers.org/mombasa",
       "phone": "+254720873130",
-      "gmap": "xxhPc8THCqy62uBT9",
       "gmapID": "ChIJhzJ0idUSQBgRszM0thxR5TI",
       "id": 96
     },
@@ -1606,7 +1531,6 @@
       "country": "Mauritius",
       "email": "lamer@intnet.mu",
       "phone": "+ 230 217 43 30",
-      "gmap": "nKq1FYyRt7QpvoXH8",
       "gmapID": "ChIJpclaAqRRfCER_Hu8iPU1kNk",
       "id": 212
     },
@@ -1620,7 +1544,6 @@
       "country": "Mexico",
       "email": "stellamaris.ver77@gmail.com",
       "phone": "+522299314893",
-      "gmap": "NSMoPiQSvvGeVtFPA",
       "gmapID": "ChIJP1TpBr9Gw4URWFVkVpDx1mg",
       "id": 98
     },
@@ -1637,7 +1560,6 @@
       "email": "info@seafarerscenterrotterdam.org",
       "phone": "+31 6 18861342",
       "whatsapp": "+31618861342",
-      "gmap": "psRS8eFNoH5EXviy7",
       "gmapID": "ChIJFyIr2GQ1xEcRmH_yarUhZ80",
       "id": 99
     },
@@ -1653,7 +1575,6 @@
       "email": "info@scfs-rotterdam.nl",
       "phone": "+31616077868",
       "whatsapp": "+31616077868",
-      "gmap": "vuUGrXHdHpEarBWg7",
       "gmapID": "ChIJZdBboTFFxEcRxUN7N4TxBTM",
       "pmi": true,
       "id": 100
@@ -1671,7 +1592,6 @@
       "email": "seafarersmission@xtra.co.nz",
       "phone": "+64 21 59 57 59",
       "whatsapp": "+6421595759",
-      "gmap": "J1sGGdQGmEgp9dKV8",
       "gmapID": "ChIJmzHUmv5HDW0RarXp-neFvhw",
       "id": 101
     },
@@ -1686,7 +1606,6 @@
       "website": "lytteltonseafarerscentre.com",
       "email": "lyttelton.seafarers.centre@gmail.com",
       "phone": "+64 22 311 4113",
-      "gmap": "2GCC8x9wHM2xjpo39",
       "gmapID": "ChIJm3awozEmMm0RmR_t96ukQLo",
       "id": 102
     },
@@ -1699,7 +1618,6 @@
       "city": "Dunedin",
       "country": "New Zealand",
       "email": "barton.hill@xtra.co.nz",
-      "gmap": "LpXgNb4j57PqVbRN6",
       "gmapID": "ChIJQ5gEoO1NKagRlH3McPKmLWI",
       "id": 103
     },
@@ -1716,7 +1634,6 @@
       "email": "yoseceleste@gmail.com",
       "phone": "+6421894030",
       "whatsapp": "+6421894030",
-      "gmap": "jcm114U1731JyxLo9",
       "gmapID": "ChIJ1-qZesevOG0RtT_G_mqGCzc",
       "id": 104
     },
@@ -1770,7 +1687,6 @@
       "website": "seafarerswelfarecentre.org.ph/",
       "email": "seafarerscentermanila@gmail.com",
       "phone": "+63-289270429",
-      "gmap": "LzJUPV6Fqwxp16Zu8",
       "gmapID": "ChIJJ_vlID_KlzMRXUP-uadHQ90",
       "id": 108
     },
@@ -1797,7 +1713,6 @@
       "website": "scfs.org/port/manilla",
       "email": "Bayaniaudea@Gmail.com",
       "phone": "+639274764106",
-      "gmap": "XQ8n4YSzaDirDAjKA",
       "gmapID": "ChIJ8U7l4yLKlzMRW8NhysqxvUM",
       "id": 110
     },
@@ -1848,7 +1763,6 @@
       "country": "Reunion",
       "website": "missiontoseafarers.org/reunion-island",
       "phone": "+2620262432752",
-      "gmap": "Th1HggfxT4sa3Pij8",
       "gmapID": "ChIJ5VvMRIuIgiERgRolFNCXzzE",
       "id": 113
     },
@@ -1863,7 +1777,6 @@
       "website": "constanta.seamensclub.ro",
       "email": "office@seamensclub.ro",
       "phone": "+40 241 584 800",
-      "gmap": "pR3rq7DxRYo1nmsU6",
       "gmapID": "ChIJU8VVRuvmukAR20Pq9GcHPHU",
       "id": 114
     },
@@ -1878,7 +1791,6 @@
       "website": "constanta.seamensclub.ro",
       "email": "office@seamensclub.ro",
       "phone": "+40 241 584 800",
-      "gmap": "Sey7vzYuph2qdawj9",
       "gmapID": "ChIJd8QKyD3lukAR-KXyoArDMqM",
       "id": 115
     },
@@ -1892,7 +1804,6 @@
       "country": "Russia",
       "email": "seamens_club@mail.ru",
       "phone": "+7 86167 71269",
-      "gmap": "fPYjXim7MEcVHW4L8",
       "gmapID": "ChIJM7vUegX_80AREIdp4oGr3TA",
       "id": 116
     },
@@ -1934,7 +1845,6 @@
       "website": "churchsg.dk",
       "email": "office@churchsg.dk",
       "phone": "+65 88694828",
-      "gmap": "Y3gV3muDqF3Pt46X8",
       "gmapID": "ChIJJdhPMNwb2jERg0uUc-S_knc",
       "id": 119
     },
@@ -1948,7 +1858,6 @@
       "website": "sjomannskirken.no/singapore",
       "email": "singapore@sjomannskirken.no",
       "phone": "+65 6775 7835",
-      "gmap": "QXJYS1aMSFDwiiZM6",
       "gmapID": "ChIJIS76cqsb2jER7nDgouyJ3_s",
       "id": 120
     },
@@ -1963,7 +1872,6 @@
       "email": "sosea@seacare.com.sg",
       "phone": "+65-6778-6518",
       "whatsapp": "+6584140085",
-      "gmap": "cmXPQ7PSh4xd4kEk6",
       "gmapID": "ChIJQTpuxOgb2jERcBCpR_Hz-iU",
       "id": 121
     },
@@ -1979,7 +1887,6 @@
       "email": "info@durbanseafarersmission.org.za",
       "phone": "+27314661326",
       "whatsapp": "+27823784486",
-      "gmap": "c6RvAbNraBjoNXu27",
       "gmapID": "ChIJS9AQIGup9x4RaO_SVo1nYuY",
       "id": 122
     },
@@ -1994,7 +1901,6 @@
       "website": "missiontoseafarers.org/richards-bay",
       "email": "info@seafarerscenterrotterdam.org",
       "phone": "+27357979348",
-      "gmap": "3Qqn6UfCAAmTL7e39",
       "gmapID": "ChIJ0WVW-Vki-h4Ran09_nJ8pZE",
       "id": 123
     },
@@ -2008,7 +1914,6 @@
       "state": "South Korea",
       "country": "South Korea",
       "phone": "+82-51-462-7470",
-      "gmap": "nDbqErCFLUhYdLi98",
       "gmapID": "ChIJs8lAtXzpaDURt7z0ds49Xjc",
       "id": 124
     },
@@ -2024,7 +1929,6 @@
       "email": "stellamaris@stellamarisbarcelona.org",
       "phone": "+34934431965",
       "whatsapp": "+34649825618",
-      "gmap": "fEoDduVnVR98kfaS7",
       "gmapID": "ChIJzYg9UEWipBIRjSFK4xV7-kc",
       "id": 125
     },
@@ -2040,7 +1944,6 @@
       "email": "cruceros@stellamarisbarcelona.org",
       "phone": "+34 93 221 25 21",
       "whatsapp": "+34699842796",
-      "gmap": "MnGZmX5r8ShC5YmeA",
       "gmapID": "ChIJWVgU2zaipBIRmj-qrBtRmPU",
       "id": 211
     },
@@ -2068,7 +1971,6 @@
       "email": "stellamaris@arqtgn.cat",
       "phone": "+34 639 978 982",
       "whatsapp": "+34639978982",
-      "gmap": "Fj3Esckm3ppUYtNXA",
       "gmapID": "ChIJDSFU7tXioxIRRv7juNBa0tA",
       "id": 127
     },
@@ -2083,7 +1985,6 @@
       "website": "missiontoseafarers.org/colombo",
       "email": "info@seafarerscolombo.org",
       "phone": "+94 11 245 3101",
-      "gmap": "6TCeQmdJMeUdMqbRA",
       "gmapID": "ChIJqWa45iZZ4joRwaXnuRe4Cm0",
       "id": 128
     },
@@ -2098,7 +1999,6 @@
       "website": "sjofartsverket.se/en/services/seamens-service/port-service/norrkoping",
       "email": "johannisborg@sjofartsverket.se",
       "phone": "+46 709 16 88 00",
-      "gmap": "H7t9aLB5QcZACMQ59",
       "gmapID": "ChIJZ8_cVAI7WUYRgZeCvZZgFaI",
       "id": 129
     },
@@ -2149,7 +2049,6 @@
       "website": "seemannsmission.org/stationen/lome",
       "email": "lome@seemannsmission.org",
       "phone": "+228 22275351",
-      "gmap": "WSy8K6FRjZQ5WdTp8",
       "gmapID": "ChIJRaTaK0PhIxARmeR8gGbFmBU",
       "id": 133
     },
@@ -2177,7 +2076,6 @@
       "email": "sam.cowan@Scfs.org",
       "phone": "+447523697992",
       "whatsapp": "+447523697992",
-      "gmap": "FgqG3jZAPAo9R8qh8",
       "gmapID": "ChIJXWZ9vll3YUgRsEHhu0_LIos",
       "id": 227
     },
@@ -2204,7 +2102,6 @@
       "website": "qvsr.org.uk/qvsr-bristol",
       "email": "qvsrbristol@qvsr.org.uk",
       "phone": "+44 1275 374895",
-      "gmap": "TmspUQ9bE7x1guBt9",
       "gmapID": "ChIJT6EXx13tcUgR1HxBC-zLUIw",
       "id": 206
     },
@@ -2232,7 +2129,6 @@
       "email": "qvsrfelixstowe@qvsr.org.uk",
       "phone": "+44 1394 613502",
       "whatsapp": "+447968306381",
-      "gmap": "8ZhXKqBitPQe5xzWA",
       "gmapID": "ChIJoQLBxz532UcRldi4lgu_48o",
       "id": 207
     },
@@ -2273,7 +2169,6 @@
       "email": "qvsrimmingham@qvsr.org.uk",
       "phone": "+44 1469 574195",
       "whatsapp": "+447380540023",
-      "gmap": "g8xJBnbYMLu4nj4v5",
       "gmapID": "ChIJYw2KqxKaeEgRY1Ddb9Pg1aQ",
       "id": 208
     },
@@ -2314,7 +2209,6 @@
       "website": "liverpoolseafarerscentre.org",
       "email": "admin@liverpoolseafarerscentre.org",
       "phone": "+44-300-800-8080",
-      "gmap": "nYzZZbzdrAowsBvV6",
       "gmapID": "ChIJ2ReXkW8ke0gRVM4Ky3yj5eM",
       "id": 138
     },
@@ -2430,7 +2324,6 @@
       "website": "qvsr.org.uk/qvsr-london-tilbury",
       "email": "londontilbury@qvsr.org.uk",
       "phone": "+44 1375 840454",
-      "gmap": "GbUPz521pnWQqck96",
       "gmapID": "ChIJ9VNnHka22EcRbjtctNrWvJY",
       "id": 210
     },
@@ -2462,7 +2355,6 @@
       "email": "requests@baltseafarers.org",
       "whatsapp": "+14106851240",
       "phone": "+1-410-685-1240",
-      "gmap": "RAiETS4D9khERvTP6",
       "gmapID": "ChIJrX4xgZcDyIkRLZdQ98cWkJ0",
       "id": 145
     },
@@ -2492,7 +2384,6 @@
       "website": "seafarerscenterofbeaumont.org",
       "email": "scbeaumont@sbcglobal.net",
       "phone": "+1-409-832-7794",
-      "gmap": "yMn6haKzcmSn3WxNA",
       "gmapID": "ChIJa-yt-sbKPoYR6prRXOnR_4M",
       "id": 147
     },
@@ -2508,7 +2399,6 @@
       "website": "marinershouse.org",
       "email": "jsorrentino@marinershouse.org",
       "phone": "+1-617-227-3979",
-      "gmap": "1EVsHoJf1X8FkfHR6",
       "gmapID": "ChIJR3L1Golw44kRhD3Go27_M5k",
       "id": 148
     },
@@ -2524,7 +2414,6 @@
       "website": "neseafarers.org",
       "email": "scushing@neseafarers.org",
       "phone": "1-617-443-0282",
-      "gmap": "EvnUCn58BpE8HJwm8",
       "gmapID": "ChIJpWe7wdZP5IkR26DD1tm-aKI",
       "id": 149
     },
@@ -2540,7 +2429,6 @@
       "website": "brownsvilleseafarer.com",
       "email": "palbro05@gmail.com",
       "phone": "+1-956-831-4321",
-      "gmap": "5ioZxrDokA9BtJqG8",
       "gmapID": "ChIJ1cOOvt69b4YRF9V0p__4vW4",
       "id": 150
     },
@@ -2556,7 +2444,6 @@
       "website": "seafarerscenter.org",
       "email": "info@seafarerscenter.org",
       "phone": "+1-912-267-0631",
-      "gmap": "UNaKTPpgZPESn22L6",
       "gmapID": "ChIJyzFcokPY5IgRHqB0kENdR1U",
       "id": 200
     },
@@ -2573,7 +2460,6 @@
       "email": "info@cpm.life",
       "phone": "+1-321-783-0007",
       "pmi": true,
-      "gmap": "ZBbSQBAeoYXrduZ59",
       "gmapID": "ChIJN67z106m4IgRJ3f_9OaBnSo",
       "id": 152
     },
@@ -2603,7 +2489,6 @@
       "website": "charlestonseafarers.org",
       "email": "chapssmail@gmail.com",
       "phone": "+1-843-984-6116",
-      "gmap": "ZXYZkXU4AowcgWfL8",
       "gmapID": "ChIJXby3fB9x_ogRiL7rz7FNQH4",
       "id": 153
     },
@@ -2660,7 +2545,6 @@
       "country": "United States",
       "website": "corpuschristiseamenscenter.org",
       "phone": "+1-361-883-8405",
-      "gmap": "5JoNbX5mtro9MPtT6",
       "gmapID": "ChIJBT1OWWJeaIYRRctHRVep_rM",
       "id": 156
     },
@@ -2704,7 +2588,6 @@
       "country": "United States",
       "email": "fvseafarers@gmail.com",
       "phone": "+1-360-694-9300",
-      "gmap": "TSB7UW3CfhiUf5556",
       "gmapID": "ChIJI5p0-9-olVQR3Nh8eOV1rAw",
       "id": 159
     },
@@ -2721,7 +2604,6 @@
       "email": "info@texasportministry.org",
       "phone": "+1-979-233-5641",
       "pmi": true,
-      "gmap": "hJVfnGpd5D4NosgE9",
       "gmapID": "ChIJZcAxUCprQIYRqFEmtqgeKP4",
       "id": 160
     },
@@ -2750,7 +2632,6 @@
       "website": "archgh.org/offices-ministries/clergy-formation-chaplaincy-services/port-ministry/",
       "email": "manager@galvestonseafarerscenter.org",
       "phone": "+1-281-788-8158",
-      "gmap": "qeEgj8Tnmws64mMY9",
       "gmapID": "ChIJ-wDUvWqeP4YRVgJRYCsY6M8",
       "id": 162
     },
@@ -2768,7 +2649,6 @@
       "phone": "+1-225-647-1617",
       "whatsapp": "+12254942799",
       "pmi": true,
-      "gmap": "FAn9kepTiURhGeu87",
       "gmapID": "ChIJPYBoffe1JoYRI-WUQVZcs8I",
       "id": 163
     },
@@ -2785,7 +2665,6 @@
       "email": "dana@houisc.org",
       "phone": "+1-713-672-0511",
       "whatsapp": "+17136720511",
-      "gmap": "tXjpB7qP7WEPvs42A",
       "gmapID": "ChIJMUdv91O8QIYR4q2EYCS3NRc",
       "id": 164
     },
@@ -2829,7 +2708,6 @@
       "website": "iscpolb-la.org/",
       "email": "iscpolb.la@iscpolb-la.org",
       "phone": "+1-562-432-7560",
-      "gmap": "gowniUjg198h5PAfA",
       "gmapID": "ChIJu25WQ8o23YARC2w7lkVY0uY",
       "id": 167
     },
@@ -2845,7 +2723,6 @@
       "website": "lmmsocal.com",
       "email": "LMMSOCAL@GMAIL.COM",
       "phone": "+1-562-209-1577",
-      "gmap": "nvNWgsYmbnSs8PVc9",
       "gmapID": "ChIJ__-vVco23YARNT55ynvXGb0",
       "id": 168
     },
@@ -2862,7 +2739,6 @@
       "email": "pastorvasiley@ismportmiami.org",
       "phone": "+1-305-390-7424",
       "pmi": true,
-      "gmap": "Wn3UCEoS5GfykucQA",
       "gmapID": "ChIJtZ212yK02YgRlE8UpZtt2ME",
       "id": 169
     },
@@ -2879,7 +2755,6 @@
       "website": "mobilebaptists.org/seafarers-ministry/",
       "phone": "1-251-328-7118",
       "whatsapp": "+12513287118",
-      "gmap": "ypr4PcUXEHFudi2M8",
       "gmapID": "ChIJPcBUAR9NmogRxQ-7tidXTek",
       "pmi": true,
       "id": 170
@@ -2926,7 +2801,6 @@
       "phone": "+1-504-895-2028",
       "whatsapp": "+15042554288",
       "pmi": true,
-      "gmap": "K6CGsVCxng4NVANKA",
       "gmapID": "ChIJeyiyoDekIIYRXBhMf0wkmK0",
       "id": 173
     },
@@ -2957,7 +2831,6 @@
       "website": "seamensfriend.com",
       "email": "biazonmj@juno.com",
       "phone": "+1-757-423-3107",
-      "gmap": "Aa74vKCWbwMQA5RT8",
       "gmapID": "ChIJoXEPm12YuokRhFRRx-Ak2Wo",
       "id": 175
     },
@@ -2990,7 +2863,6 @@
       "email": "rawhiipsr@gmail.com",
       "phone": "+1-510-839-2226",
       "pmi": true,
-      "gmap": "5siW8VvmKgvZsTuF6",
       "gmapID": "ChIJp-IYANp_hYARUZ_TF_xhJ0Y",
       "id": 177
     },
@@ -3007,7 +2879,6 @@
       "email": "chaplain@anchorhousemission.com",
       "phone": "+1-941-722-0764",
       "pmi": true,
-      "gmap": "heWZ2u9RQMeVZtcn8",
       "gmapID": "ChIJn_EYJv8hw4gRwHVbvhNSseA",
       "id": 178
     },
@@ -3023,7 +2894,6 @@
       "website": "neseafarers.org",
       "email": "houston@sjomannskirken.no",
       "phone": "1-281-998-8366",
-      "gmap": "jiT4aGQEVtYi15cd7",
       "gmapID": "ChIJ4f93LlKYQIYRcGwWW4VS1SE",
       "id": 179
     },
@@ -3069,7 +2939,6 @@
       "website": "ptcomfortsc.org",
       "email": "info@ptcomfortsc.org",
       "phone": "+1-361-987-0569",
-      "gmap": "WJUXBSwhzEybEikf6",
       "gmapID": "ChIJxd_RUwAFQoYR_LLApGsbuzw",
       "id": 182
     },
@@ -3085,7 +2954,6 @@
       "website": "paisc.org",
       "email": "paseafarers@sbcglobal.net",
       "phone": "1-409-982-4504",
-      "gmap": "eEJvfivajju4UFTq6",
       "gmapID": "ChIJ5-isvQK7PoYRjIgobxGKmzE",
       "id": 183
     },
@@ -3129,7 +2997,6 @@
       "website": "portlandseafarersmission.org",
       "email": "PORTSEAFARERS@YAHOO.COM",
       "phone": "+1-503-283-8203",
-      "gmap": "ujbRTojpzkGKhNfu5",
       "gmapID": "ChIJAQCwktgJlVQRg4USSj_m0Dg",
       "id": 204
     },
@@ -3162,7 +3029,6 @@
       "phone": "+1-985-210-5953",
       "whatsapp": "+19852105953",
       "pmi": true,
-      "gmap": "W1bv6LjKdNrdHxxb7",
       "gmapID": "ChIJ8YjPNXLWIIYRi9B-eVrybeo",
       "id": 187
     },
@@ -3192,7 +3058,6 @@
       "website": "seafarerspr.org",
       "email": "info@seafarerspr.org",
       "phone": "+1-787-722-7575",
-      "gmap": "NqjBv1MyFvMAffvv9",
       "gmapID": "ChIJtZDueBpvA4wRFK-G19-FEBU",
       "id": 189
     },
@@ -3209,7 +3074,6 @@
       "email": "info@maritimebethelsavannah.org",
       "phone": "+1-912-201-1099",
       "pmi": true,
-      "gmap": "PC82McKudPqLexjZ7",
       "id": 190
     },
     {
@@ -3224,7 +3088,6 @@
       "website": "mts-seattle.org",
       "email": "office@mts-seattle.org",
       "phone": "+1-206-935-3439",
-      "gmap": "1oTYmW395YMfxi9v9",
       "gmapID": "ChIJt9_RO0hAkFQRBqqCq6CjDm8",
       "id": 191
     },
@@ -3240,7 +3103,6 @@
       "website": "alaskacms.net",
       "email": "seapastor.scott@gmail.com",
       "phone": "+19072248482",
-      "gmap": "N2eqWqKNLyVnpHiu8",
       "gmapID": "ChIJ5UpNBXqcx1YRfKuaNycTA7o",
       "id": 192
     },
@@ -3257,7 +3119,6 @@
       "email": "center@tacomaseafarers.org",
       "phone": "+1-253-272-0716",
       "pmi": true,
-      "gmap": "xLXNh1bPbTupqEZS6",
       "gmapID": "ChIJnwYff8NVkFQRo-n9Ldl-Wy8",
       "id": 193
     },
@@ -3274,7 +3135,6 @@
       "email": "SteveFinnesy@gmail.com",
       "phone": "+1-813-247-5273",
       "pmi": true,
-      "gmap": "RG3RDb8L7jX6M1jJA",
       "gmapID": "ChIJ49_g6ObEwogR-1eFITG7lhQ",
       "id": 194
     },
@@ -3305,7 +3165,6 @@
       "email": "scw@scwde.org",
       "phone": "+1-302-575-1300,1",
       "whatsapp": "+13025750956 ",
-      "gmap": "qf7ddogbUaHYJZ1g7",
       "gmapID": "ChIJz8pgSFIdx4kRKx9EI9u1kyA",
       "id": 196
     }
