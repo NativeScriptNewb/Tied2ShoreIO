@@ -227,8 +227,9 @@
       ],
       "city": "Hay Point",
       "country": "Australia",
+      "website": "facebook.com/profile.php?id=100064856041471",
       "email": "stellamarismkymanager@gmail.com",
-      "phone": "+61 749 534 038",
+      "phone": "+61749534038",
       "id": 17
     },
     {
@@ -253,8 +254,9 @@
       ],
       "city": "Mackay",
       "country": "Australia",
+      "website": "facebook.com/profile.php?id=100064856041471",
       "email": "stellamarismkymanager@gmail.com",
-      "phone": "+61 749 534 038",
+      "phone": "+61749534038",
       "gmapID": "ChIJ2_VwbPnT22sRg9f7xPGjGpM",
       "id": 19
     },
@@ -527,6 +529,19 @@
       "whatsapp": "+14413352383",
       "gmapID": "ChIJ_Q3mbfARLYoRmAQuuX42kE0",
       "id": 202
+    },
+    {
+      "name": "Paranagua Seafarer's Mission",
+      "coordinates": [
+        -25.510607935166075,
+        -48.50843349990555
+      ],
+      "city": "Paranagua",
+      "country": "Brazil",
+      "email": "eduardoeduardosilva20@outlook.com",
+      "phone": "+5541984177927",
+      "whatsapp": "+5541984177927",
+      "gmapID": "ChIJ3-T61ESa25QR0i7cJtVN9wU"
     },
     {
       "name": "Stella Maris, Rio de Janeiro",
