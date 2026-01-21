@@ -24,7 +24,8 @@
       "city": "Albany",
       "country": "Australia",
       "email": "sma6330@yahoo.com.au",
-      "phone": "+61 423 866 932",
+      "phone": "+61423866932",
+      "whatsapp": "+61423866932",
       "gmapID": "ChIJO4UO83UnOSoR59m8h7H_mvY",
       "id": 2
     },
@@ -562,7 +563,9 @@
       ],
       "country": "Brazil",
       "city": "Vitoria",
-      "phone": "+552730382811",
+      "email": "ailtoncyber@hotmail.com",
+      "phone": "+5527996989359",
+      "whatsapp": "+5527996989359",
       "id": 40
     },
     {
