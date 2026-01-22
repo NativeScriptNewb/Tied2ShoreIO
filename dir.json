@@ -1,5 +1,5 @@
 {
-  "release": 1769097220,
+  "release": 1769099094,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -530,6 +530,20 @@
       "whatsapp": "+5541984177927",
       "gmapID": "ChIJ3-T61ESa25QR0i7cJtVN9wU",
       "id": 233
+    },
+    {
+      "name": "Mission to Seafarers, Recife",
+      "coordinates": [
+        -8.050253414309983,
+        -34.93871730963024
+      ],
+      "city": "Recife",
+      "country": "Brazil",
+      "website": "missiontoseafarers.org/suape",
+      "email": "mts.br@hotmail.com",
+      "phone": "+5581992199962",
+      "whatsapp": "+5581992199962",
+      "id": 234
     },
     {
       "name": "Stella Maris, Rio de Janeiro",
