@@ -1,5 +1,5 @@
 {
-  "release": 1769032737,
+  "release": 1769094147,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -220,19 +220,6 @@
       "id": 16
     },
     {
-      "name": "Stella Maris, Hay Point",
-      "coordinates": [
-        -23.398,
-        150.524
-      ],
-      "city": "Hay Point",
-      "country": "Australia",
-      "website": "facebook.com/profile.php?id=100064856041471",
-      "email": "stellamarismkymanager@gmail.com",
-      "phone": "+61749534038",
-      "id": 17
-    },
-    {
       "name": "Mission to Seafarers, Hobart",
       "coordinates": [
         -42.88465829984728,
@@ -249,7 +236,7 @@
     {
       "name": "Stella Maris, Mackay",
       "coordinates": [
-        -21.14474366311706, 
+        -21.14474366311706,
         149.1880773317412
       ],
       "city": "Mackay",
@@ -541,7 +528,8 @@
       "email": "eduardoeduardosilva20@outlook.com",
       "phone": "+5541984177927",
       "whatsapp": "+5541984177927",
-      "gmapID": "ChIJ3-T61ESa25QR0i7cJtVN9wU"
+      "gmapID": "ChIJ3-T61ESa25QR0i7cJtVN9wU",
+      "id": 233
     },
     {
       "name": "Stella Maris, Rio de Janeiro",
