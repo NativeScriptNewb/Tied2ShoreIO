@@ -1,5 +1,5 @@
 {
-  "release": 1769108638,
+  "release": 1769113917,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -55,18 +55,6 @@
       "phone": "+61738951181",
       "gmapID": "ChIJcZz0dkjgk2sRYcluMWnZTjU",
       "id": 4
-    },
-    {
-      "name": "Stella Maris, Brisbane",
-      "coordinates": [
-        -27.4698,
-        153.0251
-      ],
-      "city": "Brisbane",
-      "country": "Australia",
-      "email": "adminstellamaris@bne.centacare.net.au",
-      "phone": "+61 414 730 850",
-      "id": 5
     },
     {
       "name": "Mission to Seafarers, Bunbury",
@@ -327,7 +315,9 @@
       "city": "Port Lincoln",
       "country": "Australia",
       "email": "seafarerslincoln@bigpond.com",
-      "phone": "+61 4 2900 0407",
+      "phone": "+61436840559",
+      "whatsapp": " +61408832101",
+      "gmapID": "ChIJOUsrkbfDq2oR7w9x-9oQ35g",
       "id": 26
     },
     {
@@ -548,13 +538,16 @@
     {
       "name": "Stella Maris, Rio de Janeiro",
       "coordinates": [
-        -22.9572,
-        -43.18295
+        -22.897948496271823,
+        -43.20930773435006
       ],
       "city": "Rio Janeiro",
       "country": "Brazil",
-      "phone": "+551332237474",
-      "email": "stellamarissantos@yahoo.es",
+      "website": "facebook.com/stellamarisriodejaneiro",
+      "email": "stellamarisriodejaneiro@gmail.com",
+      "phone": "+5521981181946",
+      "whatsapp": "+5521981181946",
+      "gmapID": "ChIJNX2xTMJ_mQARkmSKbz-RqOo",
       "id": 38
     },
     {
