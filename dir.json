@@ -1,5 +1,5 @@
 {
-  "release": 1769113917,
+  "release": 1769118434,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -657,19 +657,6 @@
       "id": 44
     },
     {
-      "name": "Stella Maris, Montreal",
-      "coordinates": [
-        45.493709778929706,
-        -73.58391947232936
-      ],
-      "city": "Montreal",
-      "state": "Quebec",
-      "country": "Canada",
-      "email": "infos@diocesemontreal.org",
-      "phone": "+1-514-925-4300",
-      "id": 45
-    },
-    {
       "name": "Lighthouse Harbour Ministries",
       "coordinates": [
         49.30906130107783,
@@ -831,19 +818,6 @@
       "id": 57
     },
     {
-      "name": "Stella Maris, Trois-Rivières",
-      "coordinates": [
-        46.3433,
-        -72.562
-      ],
-      "city": "Trois-Rivières",
-      "state": "Quebec",
-      "country": "Canada",
-      "email": "foyerdesmarins@gmail.com",
-      "phone": "+1-819-373-7187",
-      "id": 58
-    },
-    {
       "name": "Flying Angel Seafarers Club",
       "coordinates": [
         49.28612730049231,
@@ -858,19 +832,6 @@
       "whatsapp": "+16049929867",
       "gmapID": "ChIJH--8inNxhlQRHhzXKVzUODY",
       "id": 59
-    },
-    {
-      "name": "Stella Maris, Vancouver",
-      "coordinates": [
-        49.28506,
-        -123.14249
-      ],
-      "city": "Vancouver",
-      "state": "British Columbia",
-      "country": "Canada",
-      "email": "dathaide@rcav.org",
-      "phone": "+1-604-817-6370",
-      "id": 60
     },
     {
       "name": "Aalborg Seamen's Club",
@@ -1451,13 +1412,15 @@
     {
       "name": "Stella Maris, Milazzo",
       "coordinates": [
-        38.21,
-        15.05
+        38.21850094636535,
+        15.244865341073343
       ],
       "city": "Milazzo",
       "country": "Italy",
+      "website": "stellamaris.tv/milazzo",
       "email": "matteo.diflavia@alice.it",
-      "phone": "+39 347 161 3769",
+      "phone": "+393471613769",
+      "whatsapp": "+393471613769",
       "id": 92
     },
     {
