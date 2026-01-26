@@ -1,5 +1,5 @@
 {
-  "release": 1769118434,
+  "release": 1769440728,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -522,7 +522,7 @@
       "id": 233
     },
     {
-      "name": "Mission to Seafarers, Recife",
+      "name": "Mission to Seafarers, Suape",
       "coordinates": [
         -8.050253414309983,
         -34.93871730963024
@@ -551,7 +551,7 @@
       "id": 38
     },
     {
-      "name": "Missionaries of Saint Charles Scalabrini",
+      "name": "Stella Maris, Santos",
       "coordinates": [
         -23.95911816469791,
         -46.32845325174443
@@ -564,6 +564,20 @@
       "whatsapp": "+5513996593733",
       "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
       "id": 39
+    },
+    {
+      "name": "Deutsche Seemannsmission, Santos",
+      "coordinates": [
+        -23.95911816469791,
+        -46.32845325174443
+      ],
+      "city": "Santos",
+      "country": "Brazil",
+      "website": "seemannsmission.org",
+      "email": "santos@seemannsmission.org",
+      "phone": "+5513974087790",
+      "whatsapp": "+5513974087790",
+      "id": 236
     },
     {
       "name": "Vitoria Seafarers' Ministry",
@@ -1351,8 +1365,22 @@
       "city": "Dublin",
       "country": "Ireland",
       "email": "rosekearney111@hotmail.com",
-      "phone": "+35 3872678236",
+      "phone": "+353872678236",
       "id": 88
+    },
+    {
+      "name": "Mission to Seafarers, Dublin",
+      "coordinates": [
+        53.35106299225511,
+        -6.218962789155271
+      ],
+      "city": "Dublin",
+      "country": "Ireland",
+      "website": "missiontoseafarersireland.ie",
+      "phone": "+35318366672",
+      "whatsapp": "+353353870666231",
+      "gmapID": "ChIJ38-NZvwOZ0gRhgP35UsSMjM",
+      "id": 235
     },
     {
       "name": "Seafarers' Christian Friend Society, Foynes-Limerick",
@@ -1418,7 +1446,7 @@
       "city": "Milazzo",
       "country": "Italy",
       "website": "stellamaris.tv/milazzo",
-      "email": "matteo.diflavia@alice.it",
+      "email": "milazzostellamaris@gmail.com",
       "phone": "+393471613769",
       "whatsapp": "+393471613769",
       "id": 92
