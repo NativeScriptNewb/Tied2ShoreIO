@@ -1357,18 +1357,6 @@
       "id": 87
     },
     {
-      "name": "Stella Maris, Dublin",
-      "coordinates": [
-        53.3498,
-        -6.2603
-      ],
-      "city": "Dublin",
-      "country": "Ireland",
-      "email": "rosekearney111@hotmail.com",
-      "phone": "+353872678236",
-      "id": 88
-    },
-    {
       "name": "Mission to Seafarers, Dublin",
       "coordinates": [
         53.35106299225511,
@@ -1653,8 +1641,10 @@
       ],
       "city": "Batangas",
       "country": "Philippines",
-      "email": "tedrasisterhelen@yahoo.com",
-      "phone": "+63 922 315 6523",
+      "website": "facebook.com/StellaMarisBatangas",
+      "email": "stellamarisbatangas@gmail.com",
+      "phone": "+639171551965",
+      "whatsapp": "+639171551965",
       "id": 105
     },
     {
