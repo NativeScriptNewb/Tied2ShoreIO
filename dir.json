@@ -1,5 +1,5 @@
 {
-  "release": 1769456922,
+  "release": 1769529854,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -136,7 +136,8 @@
       "city": "Edithburgh",
       "country": "Australia",
       "website": "mts.org.au/port-giles",
-      "phone": "+61888526479",
+      "phone": "+61416195286",
+      "whatsapp": "+61416195286",
       "gmapID": "ChIJ3wlUfr7qsWoRrUeiy5RsXiE",
       "id": 11
     },
@@ -250,7 +251,7 @@
       "id": 20
     },
     {
-      "name": "Mission to Seafarers Newcastle",
+      "name": "Mission to Seafarers, Newcastle",
       "coordinates": [
         -32.919593720133854,
         151.75916433874974
@@ -307,7 +308,7 @@
       "id": 24
     },
     {
-      "name": "Port Lincoln Mission to Seafarers",
+      "name": "Port Lincoln Mission to Seafarers,",
       "coordinates": [
         -34.7205,
         135.85816
@@ -625,7 +626,7 @@
       "id": 41
     },
     {
-      "name": "Mission to Seafarers of Southern Ontario, Hamilton",
+      "name": "Mission to Seafarers, of Southern Ontario, Hamilton",
       "coordinates": [
         43.266470274568576,
         -79.833037136197
@@ -804,7 +805,7 @@
       "id": 54
     },
     {
-      "name": "Mission to Seafarers of Southern Ontario, Toronto",
+      "name": "Mission to Seafarers, of Southern Ontario, Toronto",
       "coordinates": [
         44.7722598868353,
         -79.43589589960446
@@ -1481,6 +1482,21 @@
       "id": 213
     },
     {
+      "name": "Mission to Seafarers, Kobe",
+      "coordinates": [
+        34.68753813464768,
+        135.18619938313662
+      ],
+      "city": "Kobe",
+      "country": "Japan",
+      "phone": "+81788916927",
+      "whatsapp": "+817017485340",
+      "website": "mtsjapan.simdif.com/kobe.html",
+      "email": "kobe@mtsjapan.org",
+      "gmapID": "ChIJ63VEiAKPAGARf6g3ho9F3eg",
+      "id": 239
+    },
+    {
       "name": "Stella Maris, Tokyo",
       "coordinates": [
         35.6895,
@@ -1491,6 +1507,34 @@
       "email": "edwindurocorros@gmail.com",
       "phone": "+81 (80) 3354 3148",
       "id": 95
+    },
+    {
+      "name": "United Seamen's Service",
+      "coordinates": [
+        35.433217523294864,
+        139.66779323714604
+      ],
+      "city": "Yokohama",
+      "country": "Japan",
+      "website": "bit.ly/unitedSeamensServiceYokohama",
+      "email": "ussyokohama@gol.com",
+      "phone": "+81456232231",
+      "gmapID": "ChIJVVVFATddGGARk4FsFxZ4Fjg",
+      "id": 237
+    },
+    {
+      "name": "Mission to Seafarers, Yokohama",
+      "coordinates": [
+        35.438081167616,
+        139.65246502549164
+      ],
+      "city": "Yokohama",
+      "country": "Japan",
+      "website": "missiontoseafarers.org/yokohama",
+      "email": "andrew@mtsmail.org",
+      "phone": "+818049292763",
+      "whatsapp": "+818049292763",
+      "id": 238
     },
     {
       "name": "Mission to Seafarers, Mombasa",
@@ -1916,6 +1960,45 @@
       "id": 124
     },
     {
+      "name": "Mission to Seafarers, Busan",
+      "coordinates": [
+        35.11555200825272,
+        129.09266598375075
+      ],
+      "city": "Busan",
+      "country": "South Korea",
+      "website": "missiontoseafarers.org/busan",
+      "phone": "+82516279188",
+      "id": 240
+    },
+    {
+      "name": "Seamens's Club, Busan",
+      "coordinates": [
+        35.11038861151961,
+        128.83495333649765
+      ],
+      "city": "Busan",
+      "country": "South Korea",
+      "website": "facebook.com/clubbusannewport",
+      "email": "union7070@naver.com",
+      "phone": "+821023893248",
+      "whatsapp": "+821023893248",
+      "gmapID": "ChIJz_eZmSnbaDURaXB_FunOiQI",
+      "id": 241
+    },
+    {
+      "name": "United Seamen's Service",
+      "coordinates": [
+        35.14160104232964,
+        129.07500269297896
+      ],
+      "city": "Busan",
+      "country": "South Korea",
+      "phone": "+82516461993",
+      "gmapID": "ChIJd9HC2wrsaDURLHPrmZkL6sU",
+      "id": 242
+    },
+    {
       "name": "Stella Maris, Barcelona (Club and Accomodations)",
       "coordinates": [
         41.37042849633992,
@@ -1999,6 +2082,21 @@
       "phone": "+46 709 16 88 00",
       "gmapID": "ChIJZ8_cVAI7WUYRgZeCvZZgFaI",
       "id": 129
+    },
+    {
+      "name": "Mission to Seafarers, Bangkok",
+      "coordinates": [
+        13.708463404613644,
+        100.56385736547828
+      ],
+      "city": "Bangkok",
+      "country": "Thailand",
+      "website": "missiontoseafarers.org/bangkok",
+      "email": "mtsthaidave@gmail.com",
+      "phone": "+66922575305",
+      "whatsapp": "+66922575305",
+      "gmapID": "ChIJh_4fwTmf4jARL1mtCB8wn74",
+      "id": 243
     },
     {
       "name": "Stella Maris, Maptaput Port",
