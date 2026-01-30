@@ -66,7 +66,6 @@
     }
     /* Screenshots container styling */
     .screenshots-container {
-      margin-top: 2rem;
       display: flex;
       justify-content: center;
       gap: 2rem;
@@ -117,11 +116,11 @@
         background-size: 100% 100%;
       }
       .buttons {
-  display: flex;
-  flex-direction: column; /* ✅ stack vertically */
-  align-items: center;    /* ✅ center buttons */
-  margin-left: 0;
-  margin-right: 0;
+        justify-content: center;
+        margin-left: -3rem;
+        margin-right: -3rem;
+        display: flex;
+        flex-wrap: nowrap; /* prevents wrapping */
       }
       main {
         margin-top: 0;
@@ -169,18 +168,6 @@
 
 
     <div class="buttons">
-
-      <!-- Apple App Store Link -->  
-      <a href="https://apps.apple.com/app/6744415965" 
-        class="btn" id="ios-btn">Download for iOS 
-        <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M22.6667 6.6387C23.7612 5.22345 24.5899 3.22144 24.29 1.17773C22.501 1.30191 20.4104 2.4499 19.1919 3.94488C18.0805 5.30121 17.1663 7.31552 17.5225 9.27302C19.477 9.3342 21.4967 8.15878 22.6667 6.6387Z" fill="black"/>
-          <path d="M31.3594 12.4655C29.6415 10.3057 27.228 9.05225 24.9482 9.05225C21.939 9.05225 20.6661 10.4973 18.5753 10.4973C16.4196 10.4973 14.7815 9.05661 12.1792 9.05661C9.62293 9.05661 6.90085 10.6234 5.17475 13.3021C2.74862 
-          17.0746 3.16402 24.1672 7.09597 30.2084C8.50292 32.3702 10.382 34.8009 12.84 34.822C15.0269 34.8427 15.6434 33.415 18.6069 33.4004C21.5699 33.3836 22.1322 34.8411 24.3151 34.8178C26.7751 34.7987 28.7569 32.1048 30.164 
-          29.9434C31.1726 28.3937 31.5483 27.6138 32.3301 25.864C26.6407 23.692 25.7286 15.5795 31.3594 12.4655Z" fill="black"/>
-        </svg>
-      </a>
-
       <!-- Google Play Store Link-->
       <a href="https://play.google.com/store/apps/details?id=com.globalmaritimeministries.tied2shore" 
         class="btn" id="android-btn">Download for Android
@@ -192,25 +179,17 @@
         </svg>
       </a>
 
-      <!-- Apk Install Link-->
-      <a href="https://github.com/NativeScriptNewb/Tied2ShoreIO/releases/download/v1.1.7/t2s.apk"
-        class="btn" id="apk-btn">.apk
-        <svg
-          width="20"
-          height="20"
-          viewBox="0 0 960 960"
-          xmlns="http://www.w3.org/2000/svg"
-          aria-hidden="true">
-          <path
-            d="M140-80q-24 0-42-18t-18-42v-680q0-24 18-42t42-18h340l240 240v209h-60v-169H440v-220H140v680h460v60H140Zm60-60q4-49 30-90t68-65l-38-68q0-1 4-15 5-2 9.5-2t6.5 5l39 70q20-8 40-12.5t41-4.5q21 0 41 4.5t40 12.5l39-70 15-4q5 2 6 7t-1 9l-38 68q42 24 68 65t30 90H200Zm110-60q8 0 14-6t6-14q0-8-6-14t-14-6q-8 0-14 6t-6 14q0 8 6 14t14 6Zm180 0q8 0 14-6t6-14q0-8-6-14t-14-6q-8 0-14 6t-6 14q0 8 6 14t14 6ZM790-80 644-226l42-43 74 74v-181h60v181l74-74 42 43L790-80Z"
-            fill="currentColor"
-            transform="translate(0 960)"/>
+      <!-- Apple App Store Link -->  
+      <a href="https://apps.apple.com/app/6744415965" 
+        class="btn" id="ios-btn">Download for iOS 
+        <svg width="20" height="20" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M22.6667 6.6387C23.7612 5.22345 24.5899 3.22144 24.29 1.17773C22.501 1.30191 20.4104 2.4499 19.1919 3.94488C18.0805 5.30121 17.1663 7.31552 17.5225 9.27302C19.477 9.3342 21.4967 8.15878 22.6667 6.6387Z" fill="black"/>
+          <path d="M31.3594 12.4655C29.6415 10.3057 27.228 9.05225 24.9482 9.05225C21.939 9.05225 20.6661 10.4973 18.5753 10.4973C16.4196 10.4973 14.7815 9.05661 12.1792 9.05661C9.62293 9.05661 6.90085 10.6234 5.17475 13.3021C2.74862 
+          17.0746 3.16402 24.1672 7.09597 30.2084C8.50292 32.3702 10.382 34.8009 12.84 34.822C15.0269 34.8427 15.6434 33.415 18.6069 33.4004C21.5699 33.3836 22.1322 34.8411 24.3151 34.8178C26.7751 34.7987 28.7569 32.1048 30.164 
+          29.9434C31.1726 28.3937 31.5483 27.6138 32.3301 25.864C26.6407 23.692 25.7286 15.5795 31.3594 12.4655Z" fill="black"/>
         </svg>
       </a>
     </div>
-
-
-
 
     <div class="screenshots-container">
       <div>
@@ -242,8 +221,6 @@
         <dd>Tied2Shore is a mobile app designed to bring you closer to shore-based experiences, providing connections to seafarer services and Christian materials while at sea.</dd>
         <dt>How do I download the app?</dt>
         <dd>Simply click the buttons above to download Tied2Shore from your device’s app store.</dd>
-        <dt>I don't have accesss to the Google Play store, can I still install the app?</dt>
-        <dd>Click the ".apk" option by the download buttons at the top of this page to install directly.</dd>
         <dt>Is the app free?</dt>
         <dd>Yes! Tied2Shore was developed and funded by Global Maritime Ministries (in partnership with Port Ministries International). Our mission is to serve seafarers while exemplifying Christ.</dd>
         <dt>How can I get support?</dt>
