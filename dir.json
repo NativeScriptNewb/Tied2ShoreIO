@@ -1,5 +1,5 @@
 {
-  "release": 1769529854,
+  "release": 1770160089,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -834,6 +834,20 @@
       "whatsapp": "+16049929867",
       "gmapID": "ChIJH--8inNxhlQRHhzXKVzUODY",
       "id": 59
+    },
+    {
+      "name": "Stella Maris, Abidjan",
+      "coordinates": [
+        5.289776385410883,
+        -4.006241165605626
+      ],
+      "city": "Abidjan",
+      "country": "Cote D'ivoire",
+      "emai": "eaka@filsdelacharite.org",
+      "phone": "+2250707127104",
+      "whatsapp": "+2250707127104",
+      "gmapID": "ChIJh72-NgrpwQ8R6UQT0i2n6Lo",
+      "id": 244
     },
     {
       "name": "Aalborg Seamen's Club",
@@ -1761,14 +1775,28 @@
     {
       "name": "Stella Maris, Gdansk",
       "coordinates": [
-        54.352,
-        18.6466
+        54.40184308842679,
+        18.671710471704863
       ],
       "city": "Gdansk",
       "country": "Poland",
       "email": "nowyport@op.pl",
-      "phone": "+48 502 245 812",
+      "phone": "+48502245812",
+      "whatsapp": "+48502245812",
+      "gmapID": "ChIJ09TmKK4M_UYRmTxz8KvyEmo",
       "id": 111
+    },
+    {
+      "name": "Seamen's Club Swinoujscie",
+      "coordinates": [
+        53.909074000074,
+        14.255393788364303
+      ],
+      "city": "Swinoujscie",
+      "country": "Poland",
+      "email": "seamens.club.swinoujscie@gmail.com",
+      "website": "facebook.com/SeamensClubSwinoujscie",
+      "id": 245
     },
     {
       "name": "Stella Maris, Szczecin",
@@ -2122,16 +2150,17 @@
       "id": 132
     },
     {
-      "name": "German Seamen's Mission, Lomé",
+      "name": "Foyer des Marins",
       "coordinates": [
-        6.140623043142858,
-        1.2725676424171672
+        6.140591025464661,
+        1.2725783486315878
       ],
-      "city": "Lome",
+      "city": "Lomé",
       "country": "Togo",
       "website": "seemannsmission.org/stationen/lome",
-      "email": "lome@seemannsmission.org",
-      "phone": "+228 22275351",
+      "email": "perek5095@gmail.com",
+      "phone": "+22890878166",
+      "whatsapp": "+22890878166",
       "gmapID": "ChIJRaTaK0PhIxARmeR8gGbFmBU",
       "id": 133
     },
@@ -2913,7 +2942,8 @@
       "country": "United States",
       "website": "seamensfriend.com",
       "email": "biazonmj@juno.com",
-      "phone": "+1-757-423-3107",
+      "phone": "+17573427574",
+      "whatsapp": "+17573427574",
       "gmapID": "ChIJoXEPm12YuokRhFRRx-Ak2Wo",
       "id": 175
     },
