@@ -1800,12 +1800,12 @@
       "gmapID": "ChIJA_G4GiOn_UYReoYN4-7083U"
     },
     {
-      "name": "Seamen's Club Swinoujscie",
+      "name": "Seamen's Club Świnoujście",
       "coordinates": [
         53.909074000074,
         14.255393788364303
       ],
-      "city": "Swinoujscie",
+      "city": "Świnoujście",
       "country": "Poland",
       "email": "seamens.club.swinoujscie@gmail.com",
       "website": "facebook.com/SeamensClubSwinoujscie",
@@ -2188,6 +2188,20 @@
       "email": "fralexod@gmail.com",
       "phone": "+380 963 614002",
       "id": 134
+    },
+    {
+      "name": "Dubai International Seafarers Centre",
+      "coordinates": [
+        25.252961628146355,
+        55.28330222654211
+      ],
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "website": "dubaiseafarers.com",
+      "email": "enquiries@dubaiseafarers.com",
+      "phone": "+97143984951",
+      "whatsapp": "+971504586957",
+      "gmapID": "ChIJH4N-QRBDXz4RVXvzSZWwgz0"
     },
     {
       "name": "Seafarers' Christian Friend Society, Belfast",
