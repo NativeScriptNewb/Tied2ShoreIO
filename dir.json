@@ -1,5 +1,5 @@
 {
-  "release": 1770160089,
+  "release": 1770162277,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1797,7 +1797,8 @@
       "email": "stellam@am.gdynia.pl",
       "phone": "+48604203527",
       "whatsapp": "+48604203527",
-      "gmapID": "ChIJA_G4GiOn_UYReoYN4-7083U"
+      "gmapID": "ChIJA_G4GiOn_UYReoYN4-7083U",
+      "id": 246
     },
     {
       "name": "Seamen's Club Świnoujście",
@@ -2201,7 +2202,8 @@
       "email": "enquiries@dubaiseafarers.com",
       "phone": "+97143984951",
       "whatsapp": "+971504586957",
-      "gmapID": "ChIJH4N-QRBDXz4RVXvzSZWwgz0"
+      "gmapID": "ChIJH4N-QRBDXz4RVXvzSZWwgz0",
+      "id": 247
     },
     {
       "name": "Seafarers' Christian Friend Society, Belfast",
