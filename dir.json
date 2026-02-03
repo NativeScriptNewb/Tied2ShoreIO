@@ -1787,6 +1787,19 @@
       "id": 111
     },
     {
+      "name": "Stella Maris, Gdynia",
+      "coordinates": [
+        54.524751643258995,
+        18.542754917148443
+      ],
+      "city": "Gdynia",
+      "country": "Poland",
+      "email": "stellam@am.gdynia.pl",
+      "phone": "+48604203527",
+      "whatsapp": "+48604203527",
+      "gmapID": "ChIJA_G4GiOn_UYReoYN4-7083U"
+    },
+    {
       "name": "Seamen's Club Swinoujscie",
       "coordinates": [
         53.909074000074,
