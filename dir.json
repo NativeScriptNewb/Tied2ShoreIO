@@ -1,5 +1,5 @@
 {
-  "release": 1770313399,
+  "release": 1770835670,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1107,6 +1107,51 @@
       "id": 69
     },
     {
+      "name": "German Seaman Mission Unterweser",
+      "coordinates": [
+        53.33624999781088,
+        8.48825381098572
+      ],
+      "city": "Brake",
+      "country": "Germany",
+      "website": "wesermarsch.kirche-oldenburg.de/diakonie/arbeitsfelder/seemannsmission",
+      "email": "brake@seemannsmission.org",
+      "phone": "+494401855425",
+      "whatsapp": "+491715891415",
+      "gmapID": "ChIJGaX6RyXPtkcRIy2cXnexJUY",
+      "id": 248
+    },
+    {
+      "name": "Bremen Seamen's Mission",
+      "coordinates": [
+        53.11757310383854,
+        8.750894850037641
+      ],
+      "city": "Bremem",
+      "country": "Germany",
+      "website": "bremerseemannsmission.de",
+      "email": "bremen@seemannsmission.org",
+      "phone": "+4942169696235",
+      "whatsapp": "+491738666108",
+      "gmapID": "ChIJ77zdHDwosUcRRbUhc4uQZnk",
+      "id": 249
+    },
+    {
+      "name": "Seamen's Club Welcome Bremerhaven",
+      "coordinates": [
+        53.571268259636035,
+        8.55151604479846
+      ],
+      "city": "Bremerhaven",
+      "country": "Germany",
+      "website": "dsm-bremerhaven.de/seamens-club-welcome",
+      "emai": "welcome@seemannsmission.org",
+      "phone": "+4947142444",
+      "whatsapp": "+491718308161",
+      "gmapID": "ChIJO0u-v1ywtkcRtHVKz7qt_jw",
+      "id": 250
+    },
+    {
       "name": "Seamen's Christian Friend Society",
       "coordinates": [
         53.541519,
@@ -1122,7 +1167,37 @@
       "id": 71
     },
     {
-      "name": "Seamen's Home Emden",
+      "name": "German Seamen's Mission West Coast",
+      "coordinates": [
+        53.89489158328776,
+        9.156585624506643
+      ],
+      "city": "Brunsbüttel",
+      "country": "Germany",
+      "website": "seemannsmission-brunsbuettel.de",
+      "email": "brunsbuettel@seemannsmission.org",
+      "phone": "+49485287252",
+      "whatsapp": "+49485287252",
+      "gmapID": "ChIJAWtYF3bls0cRnW_SWYFB940",
+      "id": 251
+    },
+    {
+      "name": "Seemannsmission Cuxhaven",
+      "coordinates": [
+        53.867828604750585,
+        8.698709384790313
+      ],
+      "city": "Cuxhaven",
+      "country": "Germany",
+      "website": "seemannsmission-cuxhaven.de/en",
+      "email": "cuxhaven@seemannsmission.org",
+      "phone": "+49472156120",
+      "whatsapp": "+4915151191630",
+      "gmapID": "ChIJ13sTrXIEtEcRPViBfprJ4eQ",
+      "id": 252
+    },
+    {
+      "name": "International Seamen's Club",
       "coordinates": [
         53.347188986329364,
         7.188340609367166
@@ -1130,7 +1205,7 @@
       "city": "Emden",
       "country": "Germany",
       "website": "seemannsheim-emden.de/cms",
-      "email": "emden@seemannsmission.org",
+      "email": "info@seemannsheim-emden.de",
       "phone": "+49492192080",
       "gmapID": "ChIJIQAk2Vc3tkcRsY7aTMtXmXs",
       "id": 72
@@ -1193,18 +1268,78 @@
       "id": 76
     },
     {
+      "name": "German Seamen's Mission Hamburg Altona",
+      "coordinates": [
+        53.54450753088528,
+        9.945707845223897
+      ],
+      "city": "Hamburg",
+      "country": "Germany",
+      "website": "seemannsmission.org/stationen/altona",
+      "email": "reception@dsm-altona.org",
+      "phone": "+4940306220",
+      "gmapID": "ChIJ5c__NHmPsUcR3TNX2fsXsVw",
+      "id": 253
+    },
+    {
+      "name": "Seamen's Club Hollfast",
+      "coordinates": [
+        54.14521941703829,
+        12.107381200172831
+      ],
+      "city": "Hollfast",
+      "country": "Germany",
+      "website": "seemannsmission.org/rostock",
+      "email": "rostock@seemannsmission.org",
+      "phone": "+493816700431",
+      "whatsapp": "+493816700431",
+      "gmapID": "ChIJQ_F9mblXrEcRLhLBC18MqIg",
+      "id": 254
+    },
+    {
       "name": "Deutsche Seemannsmission, Kiel",
       "coordinates": [
-        54.36520973641666,
-        10.141699484279911
+        54.36518473509272,
+        10.141667320665903
       ],
       "city": "Kiel",
       "country": "Germany",
       "website": "deutsche-seemannsmission-kiel.de",
       "email": "dsm-kiel@seemannsmission.org",
       "phone": "+49431331492",
-      "gmapID": "ChIJ5c__NHmPsUcR3TNX2fsXsVw",
+      "whatsapp": "+ 4915140146585",
+      "gmapID": "ChIJ2fvLGaT4skcRC9WQtOi2dA4",
       "id": 77
+    },
+    {
+      "name": "Seafarers Club of Lübeck",
+      "coordinates": [
+        53.90020594826394,
+        10.786802487166193
+      ],
+      "city": "Lübeck",
+      "country": "Germany",
+      "website": "seemannsmission-luebeck.de/en",
+      "email": "luebeck@seemannsmisiion.org",
+      "phone": "+4945172991",
+      "whatsapp": "+491724044844",
+      "gmapID": "ChIJ12TWNmEKskcR02vUDFjSccs",
+      "id": 255
+    },
+    {
+      "name": "Deutsche Seemannsmission Sassnitz",
+      "coordinates": [
+        54.485212331201055,
+        13.586613759406973
+      ],
+      "city": "Neu Mukran",
+      "country": "Germany",
+      "website": "seemannsmission.org/stationen/sassnitz",
+      "email": "sassnitz-seemannsmission@gmx.de",
+      "phone": "+4915120782999",
+      "whatsapp": "+4915120782999",
+      "gmapID": "ChIJ_ymE1hVHq0cRMUYnZUazLJA",
+      "id": 256
     },
     {
       "name": "50 miles, Nordenham",
@@ -1234,6 +1369,20 @@
       "id": 78
     },
     {
+      "name": "The Seamen's Club OASIS",
+      "coordinates": [
+        53.650121718698074,
+        9.498301455182666
+      ],
+      "city": "Stade",
+      "country": "Germany",
+      "website": "seemannsmission-stade.de",
+      "email": "stade@seemannsmission.org",
+      "phone": "+4941411233",
+      "gmapID": "ChIJfYlaWsx8sUcRKrxhzaMbmow",
+      "id": 257
+    },
+    {
       "name": "Deutsche Seemannsmission, Wilhelmshaven",
       "coordinates": [
         53.53806466919884,
@@ -1242,7 +1391,7 @@
       "city": "Wilhelmshaven",
       "country": "Germany",
       "website": "seemannsmission-wilhelmshaven.de",
-      "email": "info@dsm-whv.de",
+      "email": "dsm-whv@t-online.de",
       "phone": "+49 4421 993450",
       "gmapID": "ChIJC1QfyeeTtkcRb6ETx4sx1gw",
       "id": 79
