@@ -1,5 +1,5 @@
 {
-  "release": 1771007010,
+  "release": 1771015847,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1439,18 +1439,6 @@
       "id": 79
     },
     {
-      "name": "Stella Maris, Tema",
-      "coordinates": [
-        5.6167,
-        0.0333
-      ],
-      "city": "Tema",
-      "country": "Ghana",
-      "email": "dozsylva@gmail.com",
-      "phone": "+233 0244570584",
-      "id": 80
-    },
-    {
       "name": "German Seafarer Mission Piraeus",
       "coordinates": [
         37.94255126666398,
@@ -1942,40 +1930,44 @@
     {
       "name": "Stella Maris, General Santos",
       "coordinates": [
-        6.1164,
-        125.1718
+        6.093066909676361,
+        125.15612639734101
       ],
       "city": "General Santos",
       "country": "Philippines",
+      "website": "facebook.com/profile.php/?id=100066928785627",
       "email": "StellaMaris.Gensan@gmail.com",
       "phone": "+63 917 7245253",
+      "gmapID": "ChIJg_F4cWKf9zIRYz7ZPDD0dNE",
       "id": 107
     },
     {
       "name": "Manila International Seafarers Center",
       "coordinates": [
-        14.6042,
-        120.98221
+        14.588050650713939,
+        120.96740861534441
       ],
       "city": "Manila",
       "state": "Metro Manila",
       "country": "Philippines",
-      "website": "seafarerswelfarecentre.org.ph/",
+      "website": "facebook.com/MISC.ITF",
       "email": "seafarerscentermanila@gmail.com",
-      "phone": "+63-289270429",
+      "phone": "+63289270429",
       "gmapID": "ChIJJ_vlID_KlzMRXUP-uadHQ90",
       "id": 108
     },
     {
       "name": "Stella Maris, Manila",
       "coordinates": [
-        14.5995,
-        120.9842
+        14.584753535768442,
+        120.98996867486937
       ],
       "city": "Manila",
       "country": "Philippines",
-      "email": "aosmanila.ph@gmail.com",
-      "phone": "+63 (02) 527 2638",
+      "website": "facebook.com/STELLAMARISCENTERS",
+      "email": "stellamaris.manila@gmail.com",
+      "phone": "+63284232261",
+      "gmapID": "ChIJxZo7N4rJlzMRnkE6iaE8yhc",
       "id": 109
     },
     {
@@ -2036,25 +2028,30 @@
     {
       "name": "Seamen's Club Świnoujście",
       "coordinates": [
-        53.909074000074,
-        14.255393788364303
+        53.90783363711649,
+        14.25508606014666
       ],
       "city": "Świnoujście",
       "country": "Poland",
-      "email": "seamens.club.swinoujscie@gmail.com",
       "website": "facebook.com/SeamensClubSwinoujscie",
+      "email": "seamens.club.swinoujscie@gmail.com",
+      "phone": "+48605170980",
+      "whatsapp": "+48605170980",
+      "gmapID": "ChIJ-cF7QzFfqkcRaKV7edVBgps",
       "id": 245
     },
     {
       "name": "Stella Maris, Szczecin",
       "coordinates": [
-        53.4285,
-        14.5528
+        53.42233915165429,
+        14.557629700001531
       ],
       "city": "Szczecin",
       "country": "Poland",
       "email": "stachoflis@wp.pl",
-      "phone": "+48 602 633 587",
+      "phone": "+48602633587",
+      "whatsapp": "+48602633587",
+      "gmapID": "ChIJX8FRbQUJqkcRzkPjNqIYYH8",
       "id": 112
     },
     {
