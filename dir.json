@@ -1,5 +1,5 @@
 {
-  "release": 1770835670,
+  "release": 1771007010,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -434,18 +434,16 @@
       "id": 33
     },
     {
-      "name": "Antwerp Seafarers' Center",
+      "name": "Antwerp Seafarer's Welfare",
       "coordinates": [
-        51.2443777156331,
-        4.420829810787593
+        51.244469655476145,
+        4.420923782951595
       ],
       "city": "Antwerp",
-      "state": "Flanders",
       "country": "Belgium",
-      "website": "aposmar.be",
-      "email": "contact@aposmar.be",
-      "phone": "+3232333475",
-      "whatsapp": "+32471571219",
+      "website": "facebook.com/antwerpseafarerswelfare",
+      "email": "info@antwerpharbourhotel.be",
+      "phone": "+3232275433",
       "gmapID": "ChIJq_fPbFX2w0cREosntMsO7jQ",
       "id": 34
     },
@@ -592,6 +590,21 @@
       "phone": "+5527996989359",
       "whatsapp": "+5527996989359",
       "id": 40
+    },
+    {
+      "name": "Foyer du Marin Douala",
+      "coordinates": [
+        4.051454231641694,
+        9.691495713549044
+      ],
+      "city": "Douala",
+      "country": "Cameroon",
+      "website": "seemannsmission.org/douala",
+      "email": "reception@foyer-du-marin.org",
+      "phone": "+237699915448",
+      "whatsapp": "+237699915448",
+      "gmapID": "ChIJ4YnUPPcSYRARyUHtigkYArs",
+      "id": 258
     },
     {
       "name": "Flying Angel Seafarers Club",
@@ -918,6 +931,21 @@
       "id": 215
     },
     {
+      "name": "German Seafarers Centre",
+      "coordinates": [
+        31.198630177987294,
+        29.920417925392094
+      ],
+      "city": "Alexandria",
+      "country": "Egypt",
+      "website": "seemannsmission.org/stationen/alexandria",
+      "email": "alexandria@seemannsmission.org",
+      "phone": "+201224001633",
+      "whatsapp": "+201224001633",
+      "gmapID": "ChIJMXDBWITD9RQRTwJW-pJHi1E",
+      "id": 259
+    },
+    {
       "name": "Estonian Seamen's Mission NGO",
       "coordinates": [
         59.48226,
@@ -1060,6 +1088,20 @@
       "phone": "+33298469599",
       "gmapID": "ChIJI6EyfVu5FkgRQXVWspqaBxQ",
       "id": 67
+    },
+    {
+      "name": "Le Havre Seamen's Club",
+      "coordinates": [
+        49.48538844935641,
+        0.11667666846339825
+      ],
+      "city": "Le Havre",
+      "country": "France",
+      "website": "seamensclub.fr",
+      "phone": "+33235218079",
+      "whatsapp": "+33689211623",
+      "gmapID": "ChIJYcOzO9wv4EcRbDGltLaca4M",
+      "id": 260
     },
     {
       "name": "Lorient Seamen's Club",
@@ -1409,6 +1451,20 @@
       "id": 80
     },
     {
+      "name": "German Seafarer Mission Piraeus",
+      "coordinates": [
+        37.94255126666398,
+        23.638301381371893
+      ],
+      "city": "Piraeus",
+      "country": "Greece",
+      "website": "seemannsmission.org/stationen/piraeus",
+      "email": "piraeus@seemanssmission.org",
+      "phone": "+302104287566",
+      "whatsapp": "+306944346119",
+      "id": 261
+    },
+    {
       "name": "The Mariners",
       "coordinates": [
         22.34616480875111,
@@ -1543,7 +1599,7 @@
       ],
       "city": "Ancona",
       "country": "Italy",
-      "website": "stellamaris.tv/genova",
+      "website": "stellamaris.tv/ancona",
       "email": "dinoreporter@gmail.com",
       "phone": "+39 33 5593 8197",
       "id": 89
@@ -1551,14 +1607,14 @@
     {
       "name": "Stella Maris, Genova",
       "coordinates": [
-        44.4056,
-        8.9463
+        44.42193036488792,
+        8.912383193486939
       ],
       "city": "Genova",
       "country": "Italy",
       "website": "stellamaris.tv/genova",
       "email": "genoa@stellamaris.tv",
-      "phone": "+39 010 26 56 84",
+      "phone": "+39010265684",
       "gmapID": "ChIJywQsi0NB0xIRCYp_7kEWS6k",
       "id": 90
     },
@@ -1738,6 +1794,21 @@
       "id": 98
     },
     {
+      "name": "Deutsches Seemannsheim Amsterdam",
+      "coordinates": [
+        52.364744582881,
+        4.899340259485135
+      ],
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "website": "seemannsheim.amsterdam",
+      "email": "shipvisitor@seemannsheim.amsterdam",
+      "phone": "+31653310693",
+      "whatsapp": "+31653310693",
+      "gmapID": "ChIJYx0OyZUJxkcRsL_CtNc5IsY",
+      "id": 262
+    },
+    {
       "name": "Seafarers Club Rotterdam",
       "coordinates": [
         51.909218508991785,
@@ -1826,6 +1897,19 @@
       "whatsapp": "+6421894030",
       "gmapID": "ChIJ1-qZesevOG0RtT_G_mqGCzc",
       "id": 104
+    },
+    {
+      "name": "The Seafarers Mission - Panama",
+      "coordinates": [
+        9.132109616354652,
+        -79.80652788981693
+      ],
+      "country": "Panama",
+      "website": "facebook.com/profile.php/?id=100067748305057",
+      "email": "ian.hcervantes@missiontoseafarers.org",
+      "phone": "+50766408919",
+      "whatsapp": "+50766408919",
+      "id": 263
     },
     {
       "name": "Stella Maris, Batangas",
@@ -2119,8 +2203,8 @@
       "city": "Richards Bay",
       "country": "South Africa",
       "website": "missiontoseafarers.org/richards-bay",
-      "email": "info@seafarerscenterrotterdam.org",
       "phone": "+27357979348",
+      "whatsapp": "+27827445554",
       "gmapID": "ChIJ0WVW-Vki-h4Ran09_nJ8pZE",
       "id": 123
     },
