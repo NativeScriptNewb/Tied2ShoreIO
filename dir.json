@@ -1,5 +1,5 @@
 {
-  "release": 1771015847,
+  "release": 1771612070,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1976,7 +1976,7 @@
         14.593933177122624,
         120.97798230002266
       ],
-      "city": "Manilla",
+      "city": "Manila",
       "country": "Philippines",
       "website": "scfs.org/port/manilla",
       "email": "Bayaniaudea@Gmail.com",
@@ -3174,6 +3174,21 @@
       "pmi": true,
       "gmapID": "ChIJeyiyoDekIIYRXBhMf0wkmK0",
       "id": 173
+    },
+    {
+      "name": "Seafarers International House",
+      "coordinates": [
+        40.737649392273944,
+        -73.998216322338
+      ],
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "website": "sihnyc.org",
+      "email": "port-mission@sihnyc.org",
+      "number": "+12126774800",
+      "whatsapp": "+12035707759",
+      "id": 264
     },
     {
       "name": "The Seamen's Church Institute of New York and New Jersey",
