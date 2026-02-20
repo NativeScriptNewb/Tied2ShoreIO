@@ -1,5 +1,5 @@
 {
-  "release": 1771612070,
+  "release": 1771624677,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1691,16 +1691,19 @@
       "id": 239
     },
     {
-      "name": "Stella Maris, Tokyo",
+      "name": "Mission to Seafarers, Tokyo",
       "coordinates": [
-        35.6895,
-        139.6917
+        35.6392718878588,
+        139.75379099604166
       ],
       "city": "Tokyo",
       "country": "Japan",
-      "email": "edwindurocorros@gmail.com",
-      "phone": "+81 (80) 3354 3148",
-      "id": 95
+      "website": "mtsjapan.org",
+      "email": "misaki@mtsjapan.org",
+      "phone": "+818035084443",
+      "whatsapp": "+818035084443",
+      "gmapID": "ChIJ-aDqcjaKGGARPaDXyxvlSyU",
+      "id": 265
     },
     {
       "name": "United Seamen's Service",
@@ -1731,6 +1734,21 @@
       "id": 238
     },
     {
+      "name": "Stella Maris, Yokohama",
+      "coordinates": [
+        35.442403235485436,
+        139.62701115423346
+      ],
+      "city": "Yokohama",
+      "country": "Japan",
+      "website": "aosyokohama.jp",
+      "email": "shnoella@yahoo.com",
+      "phone": "+81453087200",
+      "whatsapp": "+818033996551",
+      "gmapID": "ChIJVaVseItcGGARvaTquJoZE6w",
+      "id": 266
+    },
+    {
       "name": "Mission to Seafarers, Mombasa",
       "coordinates": [
         -4.060363091923793,
@@ -1752,7 +1770,7 @@
       "city": "Grand Harbour & Free Port",
       "country": "Malta",
       "email": "revjosephborg@gmail.com",
-      "phone": "+356 9987 9947",
+      "phone": "+35699879947",
       "id": 97
     },
     {
@@ -2290,13 +2308,16 @@
     {
       "name": "Stella Maris, Castellón",
       "coordinates": [
-        39.9864,
-        -0.0513
+        39.977865731001216,
+        0.0161488557528136
       ],
       "city": "Castellón",
       "country": "Spain",
+      "website": "stellamariscastellon.org/en",
       "email": "info@stellamariscastellon.org",
-      "phone": "+34 679 42 00 45",
+      "phone": "+34964636769",
+      "whatsapp": "+34627884409",
+      "gmapID": "ChIJxUpKg_P_nxIRXWMyvswEP-Y",
       "id": 126
     },
     {
@@ -2360,13 +2381,14 @@
     {
       "name": "Stella Maris, Maptaput Port",
       "coordinates": [
-        12,
-        100
+        12.669876033773834,
+        101.14425033628441
       ],
       "city": "Maptaput Port",
       "country": "Thailand",
-      "email": "ekapop.p@hotmail.com",
-      "phone": "+668 4543 4333",
+      "email": "apinyatajit@hotmail.com",
+      "phone": "+66845434333",
+      "whatsapp": "+66814012816",
       "id": 130
     },
     {
@@ -2411,8 +2433,8 @@
     {
       "name": "Stella Maris, Odesa",
       "coordinates": [
-        46.4825,
-        30.7233
+        46.484777784991344,
+        30.74599763463443
       ],
       "city": "Odesa",
       "country": "Ukraine",
@@ -2459,7 +2481,7 @@
       "city": "Berkeley",
       "country": "United Kingdom",
       "website": "qvsr.org.uk/qvsr-bristol",
-      "phone": "+44 1275 374895",
+      "phone": "+441275374895",
       "id": 223
     },
     {
@@ -2479,13 +2501,15 @@
     {
       "name": "Stella Maris, Fawley",
       "coordinates": [
-        50.735,
-        -1.3
+        50.8309540772511,
+        -1.351555046814397
       ],
       "city": "Fawley",
       "country": "United Kingdom",
-      "email": "charles.stuart@stellamarismail.org",
-      "phone": "+44 7843 739 579",
+      "email": "luke.phillips@stellamarismail.org",
+      "phone": "+447843739579",
+      "whatsapp": "+447843739579",
+      "gmapID": "ChIJ6XwqlZF7dEgRLZLUt-c1O4M",
       "id": 135
     },
     {
@@ -2519,13 +2543,15 @@
     {
       "name": "Stella Maris, Hull",
       "coordinates": [
-        53.767,
-        -0.327
+        53.7452744025522,
+        -0.27843895830403675
       ],
       "city": "Hull",
       "country": "United Kingdom",
       "email": "anne.mclaren@stellamarismail.org",
-      "phone": "+44 7906 661 633",
+      "phone": "+447906661633",
+      "whatsapp": "+447906661633",
+      "gmapID": "ChIJz9Rs3Y29eEgRvmOY1I5e3o4",
       "id": 136
     },
     {
@@ -2559,13 +2585,14 @@
     {
       "name": "Stella Maris, King's Lynn",
       "coordinates": [
-        52.752,
-        0.395
+        52.76000177464786,
+        0.39640378811304405
       ],
       "city": "King's Lynn",
       "country": "United Kingdom",
       "email": "julian.wong@stella",
-      "phone": "+44 7758 356 372",
+      "phone": "+447758356372",
+      "whatsapp": "+447758356372",
       "id": 137
     },
     {
