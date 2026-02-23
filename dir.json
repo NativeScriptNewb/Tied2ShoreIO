@@ -1,5 +1,5 @@
 {
-  "release": 1771624677,
+  "release": 1771883523,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -958,14 +958,17 @@
       "id": 63
     },
     {
-      "name": "Paldiski Evangeelne Meremisjon",
+      "name": "Paldiski Seamens Mission",
       "coordinates": [
         59.354570943361246,
         24.052892315171974
       ],
       "city": "Paldiski",
       "country": "Estonia",
-      "email": "furian@deutsche-evangelische-seemannsmission.de",
+      "website": "facebook.com/profile.php?id=100064507970625",
+      "email": "paldiskiseamens@gmail.com",
+      "phone": "+37251966787",
+      "whatsapp": "+37251966787",
       "gmapID": "ChIJ9TUWDj2nkkYR8FQkWMY4_dE",
       "id": 205
     },
@@ -1291,7 +1294,8 @@
       "country": "Germany",
       "website": "scfs.org/port/hamburg-port",
       "email": "scfs.martin.otto@gmx.de",
-      "phone": "+49 17 9399 4456",
+      "phone": "+491793994456",
+      "whatsapp": "+491793994456",
       "pmi": true,
       "id": 75
     },
@@ -1384,16 +1388,17 @@
       "id": 256
     },
     {
-      "name": "50 miles, Nordenham",
+      "name": "20 miles, Nordenham",
       "coordinates": [
         53.487865254842134,
         8.485990985609888
       ],
       "city": "Nordenham",
       "country": "Germany",
-      "website": "50miles.de",
-      "email": "info@50miles.de",
+      "website": "ihuss.org/en",
+      "email": "info@ihuss.org",
       "phone": "+4944140573566",
+      "whatsapp": "+491735603750",
       "id": 222
     },
     {
@@ -1404,9 +1409,10 @@
       ],
       "city": "Oldenburg",
       "country": "Germany",
-      "website": "50miles.de",
-      "email": "info@50miles.de",
+      "website": "ihuss.org/en",
+      "email": "info@ihuss.org",
       "phone": "+4917356003750",
+      "whatsapp": "+491735603750",
       "gmapID": "ChIJYSnmRljftkcRTqpybU9DLJ8",
       "id": 78
     },
@@ -1479,20 +1485,6 @@
       "phone": "+85221632333",
       "gmapID": "ChIJj4X_H_IABDQR26FYtBKBt2Y",
       "id": 82
-    },
-    {
-      "name": "Mission to Seafarers, Mumbai",
-      "coordinates": [
-        18.9313584550062,
-        72.95844271164556
-      ],
-      "city": "Mumbai",
-      "state": "Maharashtra",
-      "country": "India",
-      "website": "missiontoseafarers.org/mumbai",
-      "email": "mumbai@missiontoseafarers.org",
-      "phone": "+91-970-263-2497",
-      "id": 83
     },
     {
       "name": "Prince of Wales Seamen's Club",
@@ -1589,7 +1581,8 @@
       "country": "Italy",
       "website": "stellamaris.tv/ancona",
       "email": "dinoreporter@gmail.com",
-      "phone": "+39 33 5593 8197",
+      "phone": "+393355938197",
+      "whatsapp": "+393355938197",
       "id": 89
     },
     {
@@ -2583,6 +2576,7 @@
       "country": "United Kingdom",
       "email": "john.fogarty@stellamarismail.org",
       "phone": "+447986723015",
+      "whatsapp": "+447986723015",
       "id": 139
     },
     {
@@ -2607,7 +2601,8 @@
       "city": "Plymouth",
       "country": "United Kingdom",
       "email": "ann.donnelly@stellamarismail.org",
-      "phone": "+44 7718268904",
+      "phone": "+447718268904",
+      "whatsapp": "+447718268904",
       "id": 140
     },
     {
@@ -2625,40 +2620,31 @@
       "id": 231
     },
     {
-      "name": "Stella Maris, Portsmouth",
-      "coordinates": [
-        50.80922688234056,
-        -1.0897266853003538
-      ],
-      "city": "Portsmouth",
-      "country": "United Kingdom",
-      "email": "charles.stuart@stellamarismail.org",
-      "phone": "+44 7843 739 579",
-      "id": 141
-    },
-    {
       "name": "Mission to Seafarers, Southampton",
       "coordinates": [
-        50.927046196659944,
-        -1.463581729711038
+        50.89808430157897,
+        -1.3975818342606496
       ],
       "city": "Southampton",
       "country": "United Kingdom",
       "website": "missiontoseafarers.org/southampton",
-      "phone": "+7774328595",
+      "phone": "+447442794694",
+      "whatsapp": "+447442794694",
       "id": 142
     },
     {
       "name": "Stella Maris, Southampton",
       "coordinates": [
-        50.90772,
-        -1.39629
+        50.89955748947235,
+        -1.4055039067359745
       ],
       "city": "Southampton",
       "state": "England",
       "country": "United Kingdom",
       "email": "luke.phillips@stellamarismail.org",
-      "phone": "+44 7843 739579",
+      "phone": "+447843739579",
+      "whatsapp": "+447843739579",
+      "gmapID": "ChIJxdhZBwB3dEgRluQCTwQ2TZU",
       "id": 143
     },
     {
@@ -2934,7 +2920,8 @@
       "state": "Florida",
       "country": "United States",
       "email": "SeafarersMinistryPoF@gmail.com",
-      "phone": "+1-904-885-0428",
+      "phone": "+19048850428",
+      "whatsapp": "+19048850428",
       "pmi": true,
       "id": 158
     },
@@ -2978,7 +2965,9 @@
       "state": "Florida",
       "country": "United States",
       "email": "padre@seafarershouse.org",
-      "phone": "+1-252-259-1413",
+      "phone": "+12522591413",
+      "whatsapp": " +12522591413",
+      "gmapID": "ChIJDbqa7XQA2YgRQ5A9l2YJnRs",
       "id": 161
     },
     {
@@ -3525,7 +3514,8 @@
       "state": "Alabama",
       "country": "United States",
       "email": "cecilafayard@msn.com",
-      "phone": "+1-662-417-6089",
+      "phone": "+16624176089",
+      "whatsapp": "+16624176089",
       "pmi": true,
       "id": 195
     },
