@@ -1970,7 +1970,7 @@
       "country": "Philippines",
       "website": "facebook.com/MISC.ITF",
       "email": "seafarerscentermanila@gmail.com",
-      "phone": "+63289270429",
+      "phone": "+639399230226",
       "gmapID": "ChIJJ_vlID_KlzMRXUP-uadHQ90",
       "id": 108
     },
@@ -2364,7 +2364,7 @@
       "id": 129
     },
     {
-      "name": "Mission to Seafarers, Bangkok",
+      "name": "Bangkok Seafarers' Center",
       "coordinates": [
         13.708463404613644,
         100.56385736547828
@@ -2377,43 +2377,6 @@
       "whatsapp": "+66922575305",
       "gmapID": "ChIJh_4fwTmf4jARL1mtCB8wn74",
       "id": 243
-    },
-    {
-      "name": "Stella Maris, Maptaput Port",
-      "coordinates": [
-        12.669876033773834,
-        101.14425033628441
-      ],
-      "city": "Maptaput Port",
-      "country": "Thailand",
-      "email": "apinyatajit@hotmail.com",
-      "phone": "+66845434333",
-      "whatsapp": "+66814012816",
-      "id": 130
-    },
-    {
-      "name": "Stella Maris, Rayong",
-      "coordinates": [
-        12.682,
-        101.2789
-      ],
-      "city": "Rayong",
-      "country": "Thailand",
-      "email": "ekapop.p@hotmail.com",
-      "phone": "+668 4543 4333",
-      "id": 131
-    },
-    {
-      "name": "Stella Maris, Samae San",
-      "coordinates": [
-        12.51,
-        101
-      ],
-      "city": "Samae San",
-      "country": "Thailand",
-      "email": "ekapop.p@hotmail.com",
-      "phone": "+668 4543 4333",
-      "id": 132
     },
     {
       "name": "Foyer des Marins",
