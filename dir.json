@@ -1,5 +1,5 @@
 {
-  "release": 1771883523,
+  "release": 1771965568,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -847,6 +847,19 @@
       "whatsapp": "+16049929867",
       "gmapID": "ChIJH--8inNxhlQRHhzXKVzUODY",
       "id": 59
+    },
+    {
+      "name": "Stella Maris, Cartagena",
+      "coordinates": [
+        10.383142702899999,
+        -75.53925383120358
+      ],
+      "city": "Cartagena",
+      "country": "Columbia",
+      "website": "facebook.com/josenorman.sernarios",
+      "email": "noseri24684@gmail.com",
+      "whatsapp": "+573135629377",
+      "id": 267
     },
     {
       "name": "Stella Maris, Abidjan",
@@ -1933,9 +1946,10 @@
       "city": "Cebu City",
       "state": "Cebu",
       "country": "Philippines",
-      "website": "stellamariscebu.org",
+      "website": "facebook.com/aosstellamaris",
       "email": "aosstellamariscebu@gmail.com",
-      "phone": "+63-32-383-6052",
+      "phone": "+63323836052",
+      "gmapID": "ChIJpcSX2mWZqTMRO6YIDRejUa8",
       "id": 106
     },
     {
@@ -2232,12 +2246,12 @@
     {
       "name": "Mission to Seafarers, Busan",
       "coordinates": [
-        35.11555200825272,
-        129.09266598375075
+        35.111738637518606,
+        129.09588456490565
       ],
       "city": "Busan",
       "country": "South Korea",
-      "website": "missiontoseafarers.org/busan",
+      "website": "facebook.com/fabusan",
       "phone": "+82516279188",
       "id": 240
     },
@@ -2438,6 +2452,7 @@
       "country": "United Kingdom",
       "website": "qvsr.org.uk/qvsr-bristol",
       "phone": "+441275374895",
+      "whatsapp": "+447920426321",
       "id": 223
     },
     {
@@ -2451,6 +2466,7 @@
       "website": "qvsr.org.uk/qvsr-bristol",
       "email": "qvsrbristol@qvsr.org.uk",
       "phone": "+44 1275 374895",
+      "whatsapp": "+447920426321",
       "gmapID": "ChIJT6EXx13tcUgR1HxBC-zLUIw",
       "id": 206
     },
@@ -2657,7 +2673,8 @@
       "country": "United Kingdom",
       "website": "qvsr.org.uk/qvsr-london-gateway",
       "email": "londontilbury@qvsr.org.uk",
-      "phone": "+44 1375 840454",
+      "phone": "+441375840454",
+      "whatsapp": "+447801978101",
       "id": 209
     },
     {
@@ -2671,6 +2688,7 @@
       "website": "qvsr.org.uk/qvsr-london-tilbury",
       "email": "londontilbury@qvsr.org.uk",
       "phone": "+44 1375 840454",
+      "whatsapp": "+447801978101",
       "gmapID": "ChIJ9VNnHka22EcRbjtctNrWvJY",
       "id": 210
     },
