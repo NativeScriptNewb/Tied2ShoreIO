@@ -453,6 +453,7 @@
         51.106642912124,
         3.7406887163190827
       ],
+      "logo": "SCFS",
       "city": "Ghent",
       "country": "Belgium",
       "website": "scfs.org/port/port-of-ghent",
@@ -1215,6 +1216,7 @@
         53.541519,
         8.581137
       ],
+      "logo": "SCFS",
       "city": "Bremerhaven",
       "country": "Germany",
       "website": "scfs.org/port/bremerhaven",
@@ -1303,6 +1305,7 @@
         53.516022,
         9.94503
       ],
+      "logo": "SCFS",
       "city": "Hamburg",
       "country": "Germany",
       "website": "scfs.org/port/hamburg-port",
@@ -1532,6 +1535,7 @@
         51.84872806338216,
         -8.301206807860565
       ],
+      "logo": "SCFS",
       "city": "Cork",
       "country": "Ireland",
       "website": "scfs.org/port/cork-port",
@@ -1548,6 +1552,7 @@
         53.35500025549186,
         -6.213326780482319
       ],
+      "logo": "SCFS",
       "city": "Dublin",
       "country": "Ireland",
       "website": "scfs.org/port/dublin-port",
@@ -1576,6 +1581,7 @@
         52.640567385298056,
         -9.093106516065749
       ],
+      "logo": "SCFS",
       "city": "Foynes-Limerick",
       "country": "Ireland",
       "website": "scfs.org/port/foynes-limerick",
@@ -1842,6 +1848,7 @@
         51.90265404809254,
         4.238832978215365
       ],
+      "logo": "SCFS",
       "city": "Rotterdam",
       "country": "Netherlands",
       "website": "scfs-rotterdam.nl",
@@ -2001,6 +2008,7 @@
         14.593933177122624,
         120.97798230002266
       ],
+      "logo": "SCFS",
       "city": "Manila",
       "country": "Philippines",
       "website": "scfs.org/port/manilla",
@@ -2015,6 +2023,7 @@
         11.003488863580394,
         124.60594576568741
       ],
+      "logo": "SCFS",
       "city": "Ormoc",
       "country": "Philippines",
       "website": "scfs.org/port/ormoc-port",
@@ -2153,6 +2162,7 @@
         56.70364590404938,
         -2.463897489627815
       ],
+      "logo": "SCFS",
       "city": "Montrose",
       "country": "Scotland",
       "website": "scfs.org/port/montrose",
@@ -2433,6 +2443,7 @@
         54.647201479287695,
         -5.637945521829121
       ],
+      "logo": "SCFS",
       "city": "Belfast",
       "country": "United Kingdom",
       "website": "scfs.org/port/belfast-port",
@@ -2505,6 +2516,7 @@
         52.614968909544224,
         -9.103530676692962
       ],
+      "logo": "SCFS",
       "city": "Foyle",
       "country": "United Kingdom",
       "website": "scfs.org/port/foyle-port",
@@ -2601,6 +2613,7 @@
         54.10186965861828,
         -6.259206095298669
       ],
+      "logo": "SCFS",
       "city": "Newry",
       "country": "United Kingdom",
       "website": "scfs.org/port/warrenpoint-port",
@@ -2627,6 +2640,7 @@
         50.81207122445278,
         -1.0885631076817741
       ],
+      "logo": "SCFS",
       "city": "Portsmouth",
       "country": "United Kingdom",
       "website": "scfs.org/port/portsmouth",
