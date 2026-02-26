@@ -1,8 +1,5 @@
 {
-  "release": 1771965568,
-  "logos": [
-    
-  ],
+  "release": 1772132170,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -3160,6 +3157,7 @@
     },
     {
       "name": "Global Maritime Ministries, New Orleans",
+      "logo": "GMM",
       "coordinates": [
         29.91861403787935,
         -90.09082389999494
@@ -3404,6 +3402,7 @@
     },
     {
       "name": "Global Maritime Ministries, River Parishes",
+      "logo": "GMM",
       "coordinates": [
         30.054560720252844,
         -90.55399456135721
