@@ -1,13 +1,7 @@
 {
     "version": "1.1.7",
-
     "directory": {
-        "lastModified": 1772212588,
+        "lastModified": 1772737250,
         "latestVersionURL": "https://raw.githubusercontent.com/NativeScriptNewb/Tied2ShoreIO/refs/heads/main/test-dir.json"
-    },
-
-    "logos": {
-        "lastModified": 1772212588,
-        "latestVersionURL": "https://raw.githubusercontent.com/NativeScriptNewb/Tied2ShoreIO/refs/heads/main/logos.json"
     }
 }
