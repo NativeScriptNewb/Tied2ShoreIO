@@ -1,5 +1,5 @@
 {
-  "release": 1772737250,
+  "release": 1772759171,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -561,11 +561,13 @@
       "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
       "id": 39,
       "name1": "Stella Maris, Santos",
+      "logo1": "GMM",
       "website1": "facebook.com/stellamarissantosbr",
       "phone1": "+5513996593733",
       "email1": "stellamarissantos@yahoo.es",
       "whatsapp1": "+5513996593733",
       "name2": "Deutsche Seemannsmission, Santos",
+      "logo2": "SCFS",
       "website2": "seemannsmission.org",
       "email2": "santos@seemannsmission.org",
       "phone2": "+5513974087790",
