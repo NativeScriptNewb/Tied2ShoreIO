@@ -1,5 +1,5 @@
 {
-  "release": 1773951325,
+  "release": 1774037617,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -552,55 +552,34 @@
     },
     {
       "name": "Santos Seafarer Center",
-      "sharedName":"Santos Seafarer Center",
       "sharedLogo": "MBSM",
       "coordinates": [
         -23.95911816469791,
         -46.32845325174443
       ],
-      "city": "Santos",
-      "country": "Brazil",
-      "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
-      "id": 39,
-      "name1": "Stella Maris, Santos",
-      "pmi1": true,
-      "website1": "facebook.com/stellamarissantosbr",
-      "phone1": "+5513996593733",
-      "email1": "stellamarissantos@yahoo.es",
-      "whatsapp1": "+5513996593733",
-      "name2": "Deutsche Seemannsmission, Santos",
-      "website2": "seemannsmission.org",
-      "email2": "santos@seemannsmission.org",
-      "phone2": "+5513974087790",
-      "whatsapp2": "+5513974087790"
-    },
-    {
-      "name": "Stella Maris, Santos",
-      "coordinates": [
-        -23.95911816469791,
-        -46.32845325174443
+      "entities": [
+        {
+          "name": "Stella Maris, Santos",
+          "logo": "MBSM",
+          "website": "facebook.com/stellamarissantosbr",
+          "phone": "+5513996593733",
+          "email": "stellamarissantos@yahoo.es",
+          "whatsapp": "+5513996593733",
+          "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
+          "id": 39
+        },
+        {
+          "name": "Deutsche Seemannsmission, Santos",
+          "logo": "GMM",
+          "website": "seemannsmission.org",
+          "email": "santos@seemannsmission.org",
+          "phone": "+5513974087790",
+          "whatsapp": "+5513974087790"
+      }
       ],
       "city": "Santos",
       "country": "Brazil",
-      "website": "facebook.com/stellamarissantosbr",
-      "phone": "+5513996593733",
-      "email": "stellamarissantos@yahoo.es",
-      "whatsapp": "+5513996593733",
       "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
-      "id": 39
-    },
-    {
-      "name": "Deutsche Seemannsmission, Santos",
-      "coordinates": [
-        -23.95911816469791,
-        -46.32845325174443
-      ],
-      "city": "Santos",
-      "country": "Brazil",
-      "website": "seemannsmission.org",
-      "email": "santos@seemannsmission.org",
-      "phone": "+5513974087790",
-      "whatsapp": "+5513974087790",
       "id": 236
     },
     {
