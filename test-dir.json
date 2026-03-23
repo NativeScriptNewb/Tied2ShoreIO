@@ -1,5 +1,5 @@
 {
-  "release": 1774037617,
+  "release": 1774282317,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -557,7 +557,7 @@
         -23.95911816469791,
         -46.32845325174443
       ],
-      "entities": [
+      "orgs": [
         {
           "name": "Stella Maris, Santos",
           "logo": "SCFS",
