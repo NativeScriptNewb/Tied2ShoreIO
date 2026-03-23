@@ -560,13 +560,11 @@
       "entities": [
         {
           "name": "Stella Maris, Santos",
-          "logo": "MBSM",
+          "logo": "SCFS",
           "website": "facebook.com/stellamarissantosbr",
           "phone": "+5513996593733",
           "email": "stellamarissantos@yahoo.es",
-          "whatsapp": "+5513996593733",
-          "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
-          "id": 39
+          "whatsapp": "+5513996593733"
         },
         {
           "name": "Deutsche Seemannsmission, Santos",
