@@ -1,5 +1,5 @@
 {
-  "release": 1774282317,
+  "release": 1774984429,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -552,7 +552,7 @@
     },
     {
       "name": "Santos Seafarer Center",
-      "sharedLogo": "MBSM",
+      "logo": "MBSM",
       "coordinates": [
         -23.95911816469791,
         -46.32845325174443
@@ -568,7 +568,6 @@
         },
         {
           "name": "Deutsche Seemannsmission, Santos",
-          "logo": "GMM",
           "website": "seemannsmission.org",
           "email": "santos@seemannsmission.org",
           "phone": "+5513974087790",
