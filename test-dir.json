@@ -1,5 +1,5 @@
 {
-  "release": 1774984429,
+  "release": 1776105720,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -559,15 +559,14 @@
       ],
       "orgs": [
         {
-          "name": "Stella Maris, Santos",
-          "logo": "SCFS",
+          "name": "Stella Maris",
           "website": "facebook.com/stellamarissantosbr",
           "phone": "+5513996593733",
           "email": "stellamarissantos@yahoo.es",
           "whatsapp": "+5513996593733"
         },
         {
-          "name": "Deutsche Seamannsmission, Santos",
+          "name": "Deutsche Seamannsmission",
           "website": "seemannsmission.org",
           "email": "santos@seemannsmission.org",
           "phone": "+5513974087790",
