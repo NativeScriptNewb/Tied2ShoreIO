@@ -1,5 +1,5 @@
 {
-  "release": 1776181146,
+  "release": 1776188580,
   "locations": [
     {
       "name": "Imaginery Center",
@@ -50,6 +50,38 @@
         {
           "name": "Alicia",
           "website": "google.com",
+          "whatsapp": "+12252062403"
+        }
+      ]
+    },
+            {
+      "name": "Another Test",
+      "logo": "SCFS",
+      "coordinates": [
+        -34.616873704162465,
+        -58.36690562263697
+      ],
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "email": "jantonio_rm@hotmail.com",
+      "phone": "+5492914051710",
+      "whatsapp": "+5491128481548",
+      "gmapID": "ChIJGW3CF9Q0o5URIp7J5BfvwEw",
+      "orgs": [
+        {
+          "name": "Global Maritime Ministries",
+          "logo": "GMM",
+          "website": "google.com",
+          "phone": "9855366060",
+          "email": "yep@yahoo.com",
+          "whatsapp": "+12252062403"
+        },
+        {
+          "name": "Alicia",
+          "logo": "MBSM",
+          "website": "google.com",
+          "email": "Alicia@sm.org",
+          "phone": "+1-206-935-3439",
           "whatsapp": "+12252062403"
         }
       ]
