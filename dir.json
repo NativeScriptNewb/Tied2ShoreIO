@@ -1,5 +1,5 @@
 {
-  "release": 1776203146,
+  "release": 1776204336,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -550,6 +550,33 @@
       "id": 38
     },
     {
+      "name": "Santos Seafarer Center",
+      "coordinates": [
+        -23.95911816469791,
+        -46.32845325174443
+      ],
+      "city": "Santos",
+      "country": "Brazil",
+      "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
+      "id": 268,
+      "orgs": [
+        {
+          "name": "Stella Maris",
+          "website": "facebook.com/stellamarissantosbr",
+          "phone": "+5513996593733",
+          "email": "stellamarissantos@yahoo.es",
+          "whatsapp": "+5513996593733"
+        },
+        {
+          "name": "Deutsche Seamannsmission",
+          "website": "seemannsmission.org",
+          "email": "santos@seemannsmission.org",
+          "phone": "+5513974087790",
+          "whatsapp": "+5513974087790"
+        }
+      ]
+    },
+    {
       "name": "Stella Maris, Santos",
       "coordinates": [
         -23.95911816469791,
@@ -561,7 +588,6 @@
       "phone": "+5513996593733",
       "email": "stellamarissantos@yahoo.es",
       "whatsapp": "+5513996593733",
-      "gmapID": "ChIJIQR-PwkDzpQRhEp5XJmcZUI",
       "id": 39
     },
     {
