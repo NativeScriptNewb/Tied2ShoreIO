@@ -1,5 +1,5 @@
 {
-  "release": 1776188580,
+  "release": 1776201532,
   "locations": [
     {
       "name": "Imaginery Center",
@@ -43,6 +43,7 @@
       "orgs": [
         {
           "name": "Global Maritime Ministries",
+          "pmi": true,
           "logo": "GMM",
           "website": "google.com",
           "whatsapp": "+12252062403"
