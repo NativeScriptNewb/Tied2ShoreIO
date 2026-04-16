@@ -1,9 +1,37 @@
 {
-  "release": 1776201532,
+  "release": 1776358690,
   "locations": [
     {
-      "name": "Imaginery Center",
-      "logo": "MBSM",
+      "name": "Failing Location Logo - PMI",
+      "logo": "BCM",
+      "coordinates": [
+        -34.616873704162465,
+        -58.36690562263697
+      ],
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "email": "jantonio_rm@hotmail.com",
+      "phone": "+5492914051710",
+      "whatsapp": "+5491128481548",
+      "gmapID": "ChIJGW3CF9Q0o5URIp7J5BfvwEw",
+      "pmi": true,
+      "orgs": [
+        {
+          "name": "Organization1",
+          "logo": "GMM",
+          "website": "google.com",
+          "whatsapp": "+12252062403"
+        },
+        {
+          "name": "Organization2",
+          "website": "google.com",
+          "whatsapp": "+12252062403"
+        }
+      ]
+    },
+        {
+      "name": "Failing Location Logo - !PMI",
+      "logo": "BCM",
       "coordinates": [
         -34.616873704162465,
         -58.36690562263697
@@ -28,8 +56,8 @@
         }
       ]
     },
-        {
-      "name": "Wayne's World",
+    {
+      "name": "",
       "coordinates": [
         -34.616873704162465,
         -58.36690562263697
