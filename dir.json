@@ -1,5 +1,5 @@
 {
-  "release": 1776204336,
+  "release": 1776371068,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -449,6 +449,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Ghent",
+      "logo": "SCFS",
       "coordinates": [
         51.106642912124,
         3.7406887163190827
@@ -575,34 +576,6 @@
           "whatsapp": "+5513974087790"
         }
       ]
-    },
-    {
-      "name": "Stella Maris, Santos",
-      "coordinates": [
-        -23.95911816469791,
-        -46.32845325174443
-      ],
-      "city": "Santos",
-      "country": "Brazil",
-      "website": "facebook.com/stellamarissantosbr",
-      "phone": "+5513996593733",
-      "email": "stellamarissantos@yahoo.es",
-      "whatsapp": "+5513996593733",
-      "id": 39
-    },
-    {
-      "name": "Deutsche Seemannsmission, Santos",
-      "coordinates": [
-        -23.95911816469791,
-        -46.32845325174443
-      ],
-      "city": "Santos",
-      "country": "Brazil",
-      "website": "seemannsmission.org",
-      "email": "santos@seemannsmission.org",
-      "phone": "+5513974087790",
-      "whatsapp": "+5513974087790",
-      "id": 236
     },
     {
       "name": "Vitoria Seafarers' Ministry",
@@ -1237,6 +1210,7 @@
     },
     {
       "name": "Seamen's Christian Friend Society",
+      "logo": "SCFS",
       "coordinates": [
         53.541519,
         8.581137
@@ -1325,6 +1299,7 @@
     },
     {
       "name": "Seafarer's Christian Friend Society, Hamburg",
+      "logo": "SCFS",
       "coordinates": [
         53.516022,
         9.94503
@@ -1554,6 +1529,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Cork",
+      "logo": "SCFS",
       "coordinates": [
         51.84872806338216,
         -8.301206807860565
@@ -1570,6 +1546,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Dublin",
+      "logo": "SCFS",
       "coordinates": [
         53.35500025549186,
         -6.213326780482319
@@ -1598,6 +1575,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Foynes-Limerick",
+      "logo": "SCFS",
       "coordinates": [
         52.640567385298056,
         -9.093106516065749
@@ -1864,6 +1842,7 @@
     },
     {
       "name": "Seamen's Christian Friend Society Rotterdam",
+      "logo": "SCFS",
       "coordinates": [
         51.90265404809254,
         4.238832978215365
@@ -2023,6 +2002,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Manila",
+      "logo": "SCFS",
       "coordinates": [
         14.593933177122624,
         120.97798230002266
@@ -2037,6 +2017,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Ormoc",
+      "logo": "SCFS",
       "coordinates": [
         11.003488863580394,
         124.60594576568741
@@ -2159,6 +2140,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Aberdeen",
+      "logo": "SCFS",
       "coordinates": [
         57.14121937222071,
         -2.0735205902195264
@@ -2173,6 +2155,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Montrose",
+      "logo": "SCFS",
       "coordinates": [
         56.70364590404938,
         -2.463897489627815
@@ -2453,6 +2436,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Belfast",
+      "logo": "SCFS",
       "coordinates": [
         54.647201479287695,
         -5.637945521829121
@@ -2525,6 +2509,7 @@
     },
     {
       "name": "Seafarers' Christian Friend Society, Foyle",
+      "logo": "SCFS",
       "coordinates": [
         52.614968909544224,
         -9.103530676692962
@@ -2621,6 +2606,7 @@
     },
     {
       "name": "Seafarer's Christian Friend Society, Warrenpoint",
+      "logo": "SCFS",
       "coordinates": [
         54.10186965861828,
         -6.259206095298669
@@ -2647,6 +2633,7 @@
     },
     {
       "name": "Seafarer's Christian Friend Society, Portsmouth",
+      "logo": "SCFS",
       "coordinates": [
         50.81207122445278,
         -1.0885631076817741
@@ -3136,6 +3123,7 @@
     },
     {
       "name": "Mobile Baptist Seafarers Ministry",
+      "logo": "MBSM",
       "coordinates": [
         30.656323721348418,
         -88.14656553247261
@@ -3181,6 +3169,7 @@
     },
     {
       "name": "Global Maritime Ministries, New Orleans",
+      "logo": "GMM",
       "coordinates": [
         29.91861403787935,
         -90.09082389999494
@@ -3425,6 +3414,7 @@
     },
     {
       "name": "Global Maritime Ministries, River Parishes",
+      "logo": "GMM",
       "coordinates": [
         30.054560720252844,
         -90.55399456135721
