@@ -1,4 +1,5 @@
-{
+{ 
+  "testBuild": true,
   "release": 1776358690,
   "locations": [
     {
