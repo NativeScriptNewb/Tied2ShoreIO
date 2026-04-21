@@ -1,5 +1,5 @@
 {
-  "release": 1776371068,
+  "release": 1776791031,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1103,6 +1103,21 @@
       "phone": "+33298469599",
       "gmapID": "ChIJI6EyfVu5FkgRQXVWspqaBxQ",
       "id": 67
+    },
+    {
+      "name": "Seamen's Club Dunkerque",
+      "coordinates": [
+        51.00466769757192,
+        2.200853913773302
+      ],
+      "city": "Dunkirk",
+      "country": "France",
+      "website": "facebook.com/seamensclubdk",
+      "email": "contact@seamensdk.fr",
+      "phone": "+33660433498",
+      "whatsapp": "+33660433498",
+      "gmapID": "ChIJoe0peUth3EcR3WQB4mnefZ4",
+      "id": 269
     },
     {
       "name": "Le Havre Seamen's Club",
@@ -3016,6 +3031,7 @@
     },
     {
       "name": "Gonzales Seafarer Center",
+      "logo": "GSC",
       "coordinates": [
         30.234916609398628,
         -90.9066900441609
