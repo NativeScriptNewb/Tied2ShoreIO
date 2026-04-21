@@ -1,5 +1,5 @@
 {
-  "release": 1776791031,
+  "release": 1776792071,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1938,9 +1938,24 @@
       ],
       "country": "Panama",
       "website": "facebook.com/profile.php/?id=100067748305057",
-      "email": "ian.hcervantes@missiontoseafarers.org",
       "phone": "+50766408919",
       "whatsapp": "+50766408919",
+      "orgs": [
+        {
+          "name": "Mission to Seafarers",
+          "website": "missiontoseafarers.org/panama",
+          "email": "ian.hcervantes@missiontoseafarers.org",
+          "phone": "+50764956119",
+          "whatsapp": "+50764956119"
+        },
+        {
+          "name": "Deutsche Seamensmission",
+          "website": "seemannsmission.org/panama",
+          "email": "andrea.meenken@seemannsmission.org",
+          "phone": "+50764520905",
+          "whatsapp": "+50764520905"
+        }
+      ],
       "id": 263
     },
     {
