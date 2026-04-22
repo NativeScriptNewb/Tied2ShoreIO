@@ -1,5 +1,5 @@
 {
-  "release": 1776792071,
+  "release": 1776887478,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -1840,6 +1840,36 @@
       "id": 262
     },
     {
+      "name": "Seamen's Centre Moerdijk",
+      "coordinates": [
+        51.68841035485893,
+        4.613516835597032
+      ],
+      "city": "Moerdijk",
+      "country": "Netherlands",
+      "website": "sos-zeevarenden.nl",
+      "email": "info@sos-zeevarenden.nl",
+      "phone": "+31611070913",
+      "whatsapp": "+31611070913",
+      "gmapID": "ChIJJWYQG24kxEcRWHmUaAGB5nI",
+      "id": 270
+    },
+    {
+      "name": "International Seafarers' Center The Bridge",
+      "coordinates": [
+        51.9141530778977,
+        4.099508870437494
+      ],
+      "city": "Oostvoorne",
+      "country": "Netherlands",
+      "website": "isc-thebridge.com",
+      "email": "communicatie@isc-thebridge.com",
+      "phone": "+31632274725",
+      "whatsapp": "+31632274725",
+      "gmapID": "ChIJt6TF7wRTxEcRszXJgQ51Fyc",
+      "id": 271
+    },
+    {
       "name": "Seafarers Club Rotterdam",
       "coordinates": [
         51.909218508991785,
@@ -1857,7 +1887,7 @@
     },
     {
       "name": "Seamen's Christian Friend Society Rotterdam",
-      "logo": "SCFS",
+      "logo": "SCFS-R",
       "coordinates": [
         51.90265404809254,
         4.238832978215365
@@ -3000,6 +3030,7 @@
     },
     {
       "name": "Texas Port Ministries, Freeport",
+      "logo": "TPM",
       "coordinates": [
         28.9404057551689,
         -95.3507497037524
