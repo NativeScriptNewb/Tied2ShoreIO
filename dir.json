@@ -1,5 +1,5 @@
 {
-  "release": 1776890096,
+  "release": 1776979287,
   "locations": [
     {
       "name": "Stella Maris, Buenos Aires",
@@ -2435,6 +2435,34 @@
       "phone": "+46 709 16 88 00",
       "gmapID": "ChIJZ8_cVAI7WUYRgZeCvZZgFaI",
       "id": 129
+    },
+    {
+      "name": "Seafarers and Fishermen Service Center",
+      "coordinates": [
+        22.56678574632043,
+        120.31537886137772
+      ],
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "website": "pctsfsc.org.tw",
+      "email": "sfsc@ms54.hinet.net",
+      "phone": "+88678227296",
+      "gmapID": "ChIJ1aSUXh4DbjQRghKjiC2dzes",
+      "id": 272
+    },
+    {
+      "name": "Stella Maris, Kaohsiung",
+      "coordinates": [
+        22.624510312033333,
+        120.27937919836768
+      ],
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "website": "aos-khh.weebly.com",
+      "email": "stella.maris.khh@gmail.com",
+      "phone": "+88675331840",
+      "gmapID": "ChIJN0Cf9bMFbjQR6RXDrQxEAU4",
+      "id": 273
     },
     {
       "name": "Bangkok Seafarers' Center",
