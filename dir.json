@@ -1,6 +1,20 @@
 {
-  "release": 1776979287,
+  "release": 1777044241,
   "locations": [
+    {
+      "name": "Mission to Seafarers, Buenos Aires",
+      "coordinates": [
+        -34.604195278097436,
+        -58.3709012027159
+      ],
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "website": "missiontoseafarers.org/buenos-aires",
+      "phone": "+5491154019534",
+      "whatsapp": "+5491154019534",
+      "gmapID": "ChIJp82SVi01o5URv61AUyviwMg",
+      "id": 274
+    },
     {
       "name": "Stella Maris, Buenos Aires",
       "coordinates": [
@@ -16,6 +30,21 @@
       "id": 1
     },
     {
+      "name": "Mission to Seafarers, Albany",
+      "coordinates": [
+        -35.03201535342021,
+        117.89325827274872
+      ],
+      "city": "Albany",
+      "country": "Australia",
+      "website": "mts.org.au/albany",
+      "email": "markgdougan@gmail.com",
+      "phone": "+61429851111",
+      "whatsapp": "+61429851111",
+      "gmapID": "ChIJ2ZuaHgDfOCoREAm1WG2yVc0",
+      "id": 275
+    },
+    {
       "name": "Stella Maris, Albany",
       "coordinates": [
         -35.03135350399044,
@@ -23,6 +52,7 @@
       ],
       "city": "Albany",
       "country": "Australia",
+      "website": "stellamarisaustralia.org/contact",
       "email": "sma6330@yahoo.com.au",
       "phone": "+61423866932",
       "whatsapp": "+61423866932",
@@ -37,13 +67,15 @@
       ],
       "city": "Bell Ray",
       "country": "Australia",
+      "email": "markgdougan@gmail.com",
       "website": "mts.org.au/bell-bay",
-      "phone": "+61363824124",
+      "phone": "+61423770307",
+      "whatsapp": "+61423770307",
       "gmapID": "ChIJ-zMs_k8heqoRfEtG-xR-iCk",
       "id": 3
     },
     {
-      "name": "Mission to Seafarers, Brisbane",
+      "name": "The Seafarers Centre at Fisherman Islands",
       "coordinates": [
         -27.382708688835017,
         153.1675967232094
@@ -53,11 +85,12 @@
       "website": "mtsbrisbane.org.au",
       "email": "tfa@mtsbrisbane.org.au",
       "phone": "+61738951181",
+      "whatsapp": "+61402127965",
       "gmapID": "ChIJcZz0dkjgk2sRYcluMWnZTjU",
       "id": 4
     },
     {
-      "name": "Mission to Seafarers, Bunbury",
+      "name": "Bunbury Seafarers Centre",
       "coordinates": [
         -33.31969742446577,
         115.63665081754071
@@ -81,6 +114,7 @@
       "country": "Australia",
       "website": "mtsburnie.com",
       "phone": "+61417586970",
+      "whatsapp": "+61418332473",
       "gmapID": "ChIJxQ5qINXre6oRNg8yEOIj9G0",
       "id": 7
     },
@@ -101,7 +135,7 @@
       "id": 8
     },
     {
-      "name": "Darwin Port Welfare Centre",
+      "name": "Darwin Seafarers Centre",
       "coordinates": [
         -12.48912,
         130.89273
@@ -111,19 +145,35 @@
       "website": "mtsdarwin.org/",
       "email": "admin@mtsdarwin.org",
       "phone": "+61428803935",
+      "whatsapp": "+61467847916",
       "gmapID": "ChIJNzBs42OXwCwRh-Xe3TYKD_w",
       "id": 9
     },
     {
+      "name": "Devonport Seafarers Centre",
+      "coordinates": [
+        -41.18316069707051,
+        146.36241107213658
+      ],
+      "city": "Devonport",
+      "country": "Australia",
+      "website": "facebook.com/mtsdevonport",
+      "email": "devonport@mts.org.au",
+      "phone": "+61498362796",
+      "id": 276
+    },
+    {
       "name": "Mission to Seafarers, Eden",
       "coordinates": [
-        37.06641,
-        149.91071
+        -37.06688878188034,
+        149.91061549733158
       ],
       "country": "Australia",
       "city": "Eden",
-      "phone": "+61264964631",
       "email": "mtseden2551@gmail.com",
+      "website": "facebook.com/MTSEden",
+      "phone": "+61264964631",
+      "whatsapp": "+61497783223",
       "gmapID": "ChIJ9xHQ_iCmPmsRCgHQTi9ka0U",
       "id": 10
     },
@@ -142,7 +192,7 @@
       "id": 11
     },
     {
-      "name": "Mission to Seafarers, Esperance",
+      "name": "Esperance Seafarers' Centre",
       "coordinates": [
         -33.86925723986692,
         121.89056961907153
@@ -151,6 +201,7 @@
       "country": "Australia",
       "website": "missiontoseafarers.org/esperance",
       "phone": "+61890716811",
+      "whatsapp": "+61439545128",
       "gmapID": "ChIJh36J_09HWyoRnovjfnFTZdA",
       "id": 12
     },
@@ -169,7 +220,21 @@
       "id": 13
     },
     {
-      "name": "Mission to Seafarers, Geraldton",
+      "name": "The Mission to Seafarers",
+      "coordinates": [
+        -38.099425084011955,
+        144.3690842659518
+      ],
+      "city": "Geelong",
+      "country": "Australia",
+      "website": "missiontoseafarersgeelong.org",
+      "phone": "+61352786985",
+      "whatsapp": "+61412779306",
+      "gmapID": "ChIJJ4eT0BcX1GoRdm0e2ADjCF8",
+      "id": 22
+    },
+    {
+      "name": "Mission to Seafarers",
       "coordinates": [
         -28.77618780556322,
         114.60441202695249
@@ -179,6 +244,7 @@
       "website": "geraldtonseafarers.org",
       "email": "info@geraldtonseafarers.org",
       "phone": "+61899213272",
+      "whatsapp": "+61466128285",
       "gmapID": "ChIJ2eavTo5G2isR0mYjrfHniJY",
       "id": 14
     },
@@ -265,19 +331,6 @@
       "whatsapp": "+61432668587",
       "gmapID": "ChIJrxvtAFoUc2sRRhoEiPnAG3g",
       "id": 21
-    },
-    {
-      "name": "Mission to Seafarers, Geelong",
-      "coordinates": [
-        -38.099425084011955,
-        144.3690842659518
-      ],
-      "city": "North Shore",
-      "country": "Australia",
-      "website": "missiontoseafarersgeelong.org",
-      "phone": "+61352786985",
-      "gmapID": "ChIJJ4eT0BcX1GoRdm0e2ADjCF8",
-      "id": 22
     },
     {
       "name": "Port Hedland Seafarers Centre",
