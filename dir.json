@@ -1,5 +1,5 @@
 {
-  "release": 1777044241,
+  "release": 1777057497,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -10,6 +10,7 @@
       "city": "Buenos Aires",
       "country": "Argentina",
       "website": "missiontoseafarers.org/buenos-aires",
+      "email": "marceloignaciocenturion@gmail.com",
       "phone": "+5491154019534",
       "whatsapp": "+5491154019534",
       "gmapID": "ChIJp82SVi01o5URv61AUyviwMg",
@@ -28,6 +29,21 @@
       "whatsapp": "+5491128481548",
       "gmapID": "ChIJGW3CF9Q0o5URIp7J5BfvwEw",
       "id": 1
+    },
+    {
+      "name": "Stella Maris Seafarers' Centre",
+      "coordinates": [
+        -34.80491271236308,
+        138.5008554122967
+      ],
+      "city": "Adelaide",
+      "country": "Australia",
+      "website": "stellamarisptadl.org",
+      "email": "stellamarisadl@internode.on.net",
+      "phone": "+61871277899",
+      "whatsapp": "+61413393019",
+      "gmapID": "ChIJlzMaV-rHsGoR4EQJ9waP8uU",
+      "id": 277
     },
     {
       "name": "Mission to Seafarers, Albany",
@@ -60,19 +76,45 @@
       "id": 2
     },
     {
-      "name": "Bell Ray Seafarers Mission",
+      "name": "Bell Bay Seafarers Mission",
       "coordinates": [
         -41.1310730900819,
         146.86580693393216
       ],
       "city": "Bell Ray",
       "country": "Australia",
-      "email": "markgdougan@gmail.com",
-      "website": "mts.org.au/bell-bay",
-      "phone": "+61423770307",
-      "whatsapp": "+61423770307",
       "gmapID": "ChIJ-zMs_k8heqoRfEtG-xR-iCk",
+      "orgs": [
+        {
+          "name": "Mission to Seafarers",
+          "website": "mts.org.au/bell-bay",
+          "email": "markgdougan@gmail.com",
+          "phone": "+61363824914",
+          "whatsapp": "+61 438134376"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "stellamarisaustralia.org/contact",
+          "email": "renato57chevy@hotmail.com",
+          "phone": "+61428774633"
+        }
+      ],
       "id": 3
+    },
+    {
+      "name": "Seafarers and Maritime Workers Centre",
+      "coordinates": [
+        -33.965753387250736,
+        151.21980413068883
+      ],
+      "city": "Botany",
+      "country": "Australia",
+      "website": "stellamarisaustralia.org/contact",
+      "email": "srmaryleahy@gmail.com",
+      "phone": "+61418724713",
+      "whatsapp": "+61418724713",
+      "gmapID": "ChIJG4MwQwCxEmsRXo1dfhmtkls",
+      "id": 278
     },
     {
       "name": "The Seafarers Centre at Fisherman Islands",
@@ -97,12 +139,23 @@
       ],
       "city": "Bunbury",
       "country": "Australia",
-      "website": "mtsbunbury.org.au/",
-      "email": "flyingangelby@bigpond.com",
-      "phone": "+61897212370",
-      "whatsapp": "+61422949498",
       "gmapID": "ChIJC5PUrTcdLioRDVSlhwuX2g0",
-      "id": 6
+      "id": 6,
+      "orgs": [
+        {
+          "name": "Misstion to Seafarers",
+          "website": "mtsbunbury.org.au",
+          "email": "flyingangelby@bigpond.com",
+          "phone": "+61897212370",
+          "whatsapp": "+61422949498"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "stellamarisaustralia.org/contact",
+          "email": "HJO12612@bigpond.net.au",
+          "phone": "+61412640595"
+        }
+      ]
     },
     {
       "name": "Mission to Seafarers, Burnie",
@@ -119,7 +172,21 @@
       "id": 7
     },
     {
-      "name": "Mission to Seafarers, Dampier",
+      "name": "The Mission to Seafarers",
+      "coordinates": [
+        -32.1232593124285,
+        133.67336100058972
+      ],
+      "city": "Ceduna",
+      "country": "Australia",
+      "website": "mts.org.au/thevenard",
+      "email": "thevenard@mts.org.au",
+      "phone": "+61499899134",
+      "whatsapp": "+61408837819",
+      "id": 279
+    },
+    {
+      "name": "Dampier Seafarers' Centre",
       "coordinates": [
         -20.66435786365786,
         116.70380442301405
@@ -185,10 +252,10 @@
       ],
       "city": "Edithburgh",
       "country": "Australia",
-      "website": "mts.org.au/port-giles",
-      "phone": "+61416195286",
+      "website": "facebook.com/portgiles.mts",
+      "phone": "+61888526479",
       "whatsapp": "+61416195286",
-      "gmapID": "ChIJ3wlUfr7qsWoRrUeiy5RsXiE",
+      "gmapID": "ChIJE5zXmtXrsWoRy3vwIZCU4XU",
       "id": 11
     },
     {
@@ -213,10 +280,22 @@
       ],
       "city": "Fremantle",
       "country": "Australia",
-      "website": "flyingangel.org.au",
-      "email": "staff@flyingangel.org.au",
-      "phone": "+61893355000",
       "gmapID": "ChIJM0VWk_UmOSoRX85VCbDKmhk",
+      "orgs": [
+        {
+          "name": "Mission to Seafarers",
+          "website": "flyingangel.org.au",
+          "email": "staff@flyingangel.org.au",
+          "phone": "+61893355000"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "stellamaris.perthcatholic.org.au",
+          "email": "stella.maris@perthcatholic.org.au",
+          "phone": "+61417182497",
+          "whatsapp": "+61417182497"
+        }
+      ],
       "id": 13
     },
     {
@@ -285,11 +364,12 @@
       "website": "mts.org.au/hobart",
       "email": "hobart@mts.org.au",
       "phone": "+61362346016",
+      "whatsapp": "+61437077753",
       "gmapID": "ChIJ3efsdYZ1bqoRp0bHUBFL0fY",
       "id": 18
     },
     {
-      "name": "Stella Maris, Mackay",
+      "name": "Seafarers's Center Mackay",
       "coordinates": [
         -21.14474366311706,
         149.1880773317412
@@ -297,8 +377,9 @@
       "city": "Mackay",
       "country": "Australia",
       "website": "facebook.com/profile.php?id=100064856041471",
-      "email": "stellamarismkymanager@gmail.com",
+      "email": "stellamarismky@gmail.com",
       "phone": "+61749534038",
+      "whatsapp": "+610412184074",
       "gmapID": "ChIJ2_VwbPnT22sRg9f7xPGjGpM",
       "id": 19
     },
@@ -310,26 +391,38 @@
       ],
       "country": "Australia",
       "city": "Melbourne",
-      "phone": "+61417878131",
       "website": "stellamaris.org.au",
       "email": "leeanne.diano@stellamaris.org.au",
+      "phone": "+61417878131",
+      "whatsapp": "+61417878131",
       "gmapID": "ChIJMfZocE5d1moR9wk0jLY_5GQ",
       "id": 20
     },
     {
-      "name": "Mission to Seafarers, Newcastle",
+      "name": "Newcastle Seafarers' Centre",
       "coordinates": [
         -32.919593720133854,
         151.75916433874974
       ],
       "city": "Newcastle",
-      "state": "NSW",
       "country": "Australia",
-      "website": "mtsnewcastle.org.au",
-      "email": "admin@mtsnewcastle.org.au",
-      "phone": "+61249615007",
-      "whatsapp": "+61432668587",
       "gmapID": "ChIJrxvtAFoUc2sRRhoEiPnAG3g",
+      "orgs": [
+        {
+          "name": "Mission to Seafarers",
+          "website": "mtsnewcastle.org.au",
+          "email": "admin@mtsnewcastle.org.au",
+          "phone": "+61249615007",
+          "whatsapp": "+61432668587"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "stellamaris.perthcatholic.org.au",
+          "email": "Mark.spencer1@mn.catholic.org.au",
+          "phone": "+61408895951",
+          "whatsapp": "+61417182497"
+        }
+      ],
       "id": 21
     },
     {
@@ -340,13 +433,25 @@
       ],
       "city": "Port Hedland",
       "country": "Australia",
-      "website": "phseafarers.org",
-      "phone": "+61891731315",
       "gmapID": "ChIJP6CI2X9O9SsRxsZp0o5n9h8",
+      "orgs": [
+        {
+          "name": "Mission to Seafarers",
+          "website": "phseafarers.org",
+          "email": "admin@phseafarers.org",
+          "phone": "+61891731315"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "stellamarisaustralia.org/contact",
+          "email": "port.hedland@geraldtoncatholic.org.au",
+          "phone": "+61891731687"
+        }
+      ],
       "id": 23
     },
     {
-      "name": "Mission to Seafarers, Port Kembla",
+      "name": "The Mission to Seafarers",
       "coordinates": [
         -34.47928139750629,
         150.90119487116453
@@ -357,25 +462,27 @@
       "website": "mts.org.au/port-kembla",
       "email": "tthemisspk@gmail.com",
       "phone": "+61242746498",
+      "whatsapp": "+61402094943",
       "gmapID": "ChIJJ1Olh3MXE2sRHB27K9Pl-M0",
       "id": 24
     },
     {
-      "name": "Port Lincoln Mission to Seafarers,",
+      "name": "The Mission to Seafarers",
       "coordinates": [
         -34.7205,
         135.85816
       ],
       "city": "Port Lincoln",
       "country": "Australia",
-      "email": "seafarerslincoln@bigpond.com",
+      "website": "mts.org.au/port-lincoln",
+      "email": "portlincoln@mts.org.uk",
       "phone": "+61436840559",
       "whatsapp": " +61408832101",
       "gmapID": "ChIJOUsrkbfDq2oR7w9x-9oQ35g",
       "id": 26
     },
     {
-      "name": "Mission to Seafarers, Port Pirie",
+      "name": "Missions to Seamen",
       "coordinates": [
         -33.17569339373637,
         138.00866474060774
@@ -383,12 +490,14 @@
       "city": "Port Pirie",
       "country": "Australia",
       "website": "missiontoseafarers.org/port-pirie",
+      "email": "portpirie@mts.org.au",
       "phone": "+61418812109",
+      "whatsapp": "+61418812109",
       "gmapID": "ChIJ18WcK5p-u2oR1QhlWeLQJK0",
       "id": 27
     },
     {
-      "name": "Mission to Seafarers, Portland",
+      "name": "The Mission to Seafarers",
       "coordinates": [
         -38.35142561800501,
         141.62091118748273
@@ -396,28 +505,29 @@
       "city": "Portland",
       "country": "Australia",
       "website": "missiontoseafarers.org/portland",
+      "email": "Portland@mts.org.au",
       "phone": "+61355231244",
+      "whatsapp": "+61400620453",
       "gmapID": "ChIJH1M4C0yYnaoRfW_4OfXm9yU",
       "id": 28
     },
     {
-      "name": "Mission to Seafarers, Sydney",
+      "name": "The Mission to Seafarers",
       "coordinates": [
         -33.85703282523123,
         151.20441058296362
       ],
       "city": "Sydney",
-      "state": "New South Wales",
       "country": "Australia",
       "website": "missiontoseafarerssydney.org.au",
       "email": "enquiries@missiontoseafarers.org.au",
-      "whatsapp": "+61292413009",
-      "phone": "+61402588116",
+      "phone": "+61292413009",
+      "whatsapp": "+61451629467",
       "gmapID": "ChIJdXtWfjyuEmsR9ASoPmbxGG0",
       "id": 29
     },
     {
-      "name": "Mission to Seafarers, Townsville",
+      "name": "The Mission to Seafarers",
       "coordinates": [
         -19.25197008969943,
         146.8319652770552
@@ -431,7 +541,7 @@
       "id": 30
     },
     {
-      "name": "Mission to Seafarers, Victoria",
+      "name": "Melbourne Seafarers' Centre",
       "coordinates": [
         -37.822315749398015,
         144.95126132730687
@@ -441,11 +551,12 @@
       "website": "missiontoseafarers.com.au",
       "email": "info@missiontoseafarers.com.au",
       "phone": "+61396297083",
+      "whatsapp": "+61434173598",
       "gmapID": "ChIJr0ZwSVdd1moR9-R3SCCpspw",
       "id": 31
     },
     {
-      "name": "Mission to Seafarers, Port Walcott",
+      "name": "Mission to Seafarers Port Walcott",
       "coordinates": [
         -20.67524439964667,
         117.13770735767257
