@@ -1,5 +1,5 @@
 {
-  "release": 1777142326,
+  "release": 1777146695,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -581,7 +581,7 @@
       ],
       "city": "Al Hidd",
       "country": "Bahrain",
-      "phone": "+97317162030",
+      "phone": "+97317728266",
       "whatsapp": "+97333402317",
       "gmapID": "ChIJ43XonM0AST4Rwwn-ZoTT8oI",
       "id": 32
@@ -608,13 +608,32 @@
       "city": "Antwerp",
       "country": "Belgium",
       "website": "facebook.com/antwerpseafarerswelfare",
-      "email": "info@antwerpharbourhotel.be",
-      "phone": "+3232275433",
       "gmapID": "ChIJq_fPbFX2w0cREosntMsO7jQ",
+      "orgs": [
+        {
+          "name": "Deutsche Seamannsmission",
+          "website": "seemannsmission.org/antwerpen",
+          "email": "antwerpen@seemannsmission.org",
+          "phone": "+32495185691",
+          "whatsapp": "+32495185691"
+        },
+        {
+          "name": "Mission to Seafarers",
+          "phone": "+32467052240",
+          "whatsapp": "+32471571219"
+        },
+        {
+          "name": "Stella Maris",
+          "website": "aposmar.be/en",
+          "email": "contact@aposmar.be",
+          "phone": "+3232333475",
+          "whatsapp": "+32465890200"
+        }
+      ],
       "id": 34
     },
     {
-      "name": "Seafarers' Christian Friend Society, Ghent",
+      "name": "Seafarers' Christian Friend Society",
       "logo": "SCFS",
       "coordinates": [
         51.106642912124,
@@ -636,15 +655,15 @@
       ],
       "country": "Belgium",
       "city": "Ghent",
-      "phone": "+329251763",
+      "website": "stellamarisgent.be/en",
       "email": "stellamarisgent@proximus.be",
-      "website": "stellamarisgent.be",
+      "phone": "+329251763",
       "whatsapp": "+32476502229",
       "gmapID": "ChIJRRCtR9R2w0cRqmv4qSIc9Jg",
       "id": 36
     },
     {
-      "name": "The Bermuda Sailors' Home",
+      "name": "Bermuda Sailors' Home",
       "coordinates": [
         32.29410487439997,
         -64.78887647440563
