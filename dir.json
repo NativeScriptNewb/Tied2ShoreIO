@@ -1,5 +1,5 @@
 {
-  "release": 1777057497,
+  "release": 1777142326,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -83,14 +83,15 @@
       ],
       "city": "Bell Ray",
       "country": "Australia",
+      "website": "facebook.com/profile.php?id=61581788764929",
       "gmapID": "ChIJ-zMs_k8heqoRfEtG-xR-iCk",
       "orgs": [
         {
           "name": "Mission to Seafarers",
           "website": "mts.org.au/bell-bay",
           "email": "markgdougan@gmail.com",
-          "phone": "+61363824914",
-          "whatsapp": "+61 438134376"
+          "phone": "+61406477454",
+          "whatsapp": "+61406477454"
         },
         {
           "name": "Stella Maris",
@@ -336,6 +337,7 @@
       "city": "Gladstone",
       "country": "Australia",
       "website": "gladstonemts.org.au",
+      "email": "admin@gladstonemts.org.au",
       "phone": "+61749720355",
       "gmapID": "ChIJRW2q-Xt0wmsRAlWdNrZk980",
       "id": 15
@@ -567,7 +569,7 @@
       "website": "mtsnwa.org/portwalcott",
       "email": "transit@mtsportwalcott.org",
       "phone": "+61460889523",
-      "whatsapp": "+61460889523",
+      "whatsapp": "+61458704359",
       "gmapID": "ChIJHXRQ-_8L9isR8eXb_Q7s3OI",
       "id": 214
     },
