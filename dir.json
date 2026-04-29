@@ -1,5 +1,5 @@
 {
-  "release": 1777146695,
+  "release": 1777483410,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -128,7 +128,6 @@
       "website": "mtsbrisbane.org.au",
       "email": "tfa@mtsbrisbane.org.au",
       "phone": "+61738951181",
-      "whatsapp": "+61402127965",
       "gmapID": "ChIJcZz0dkjgk2sRYcluMWnZTjU",
       "id": 4
     },
@@ -441,7 +440,8 @@
           "name": "Mission to Seafarers",
           "website": "phseafarers.org",
           "email": "admin@phseafarers.org",
-          "phone": "+61891731315"
+          "phone": "+61891731315",
+          "whatsapp": "+61467305922"
         },
         {
           "name": "Stella Maris",
@@ -2145,6 +2145,61 @@
       "id": 104
     },
     {
+      "name": "Norway Seamen's Mission",
+      "coordinates": [
+        62.47029779675076,
+        6.150549703599557
+      ],
+      "city": "Alesund",
+      "country": "Norway",
+      "website": "facebook.com/SeamansmissionAalesund",
+      "phone": "+4790054587",
+      "whatsapp": "+4790054587",
+      "id": 281
+    },
+    {
+      "name": "Norway Seamen's Mission",
+      "coordinates": [
+        60.4029500437732,
+        5.32088304166963
+      ],
+      "city": "Bergen",
+      "country": "Norway",
+      "website": "facebook.com/bsmission",
+      "email": "info.seamansmission@gmail.com",
+      "phone": "+4748854601",
+      "id": 282
+    },
+    {
+      "name": "Norway Seamen's Mission",
+      "coordinates": [
+        70.97917174832746,
+        25.97743080937256
+      ],
+      "city": "Honningsvag",
+      "country": "Norway",
+      "website": "dism.no",
+      "email": "dism@dism.no",
+      "phone": "+4748854605",
+      "gmapID": "ChIJo2xBbkKpyUUR5bALlkiNNqk",
+      "id": 283
+    },
+    {
+      "name": "Norway Seamen's Mission",
+      "coordinates": [
+        58.97341643273947,
+        5.725588461758462
+      ],
+      "city": "Stavanger",
+      "country": "Norway",
+      "website": "facebook.com/SeamansMissionStavanger",
+      "email": "arve@dism.no",
+      "phone": "+4790910824",
+      "whatsapp": "+4790910824",
+      "gmapID": "ChIJiYqmEkw1OkYRAG3pyDhyXI4",
+      "id": 280
+    },
+    {
       "name": "The Seafarers Mission - Panama",
       "coordinates": [
         9.132109616354652,
@@ -2312,7 +2367,7 @@
       "website": "facebook.com/SeamensClubSwinoujscie",
       "email": "seamens.club.swinoujscie@gmail.com",
       "phone": "+48605170980",
-      "whatsapp": "+48605170980",
+      "whatsapp": "+48532806383",
       "gmapID": "ChIJ-cF7QzFfqkcRaKV7edVBgps",
       "id": 245
     },
