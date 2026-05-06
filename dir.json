@@ -1,5 +1,5 @@
 {
-  "release": 1777483410,
+  "release": 1778095097,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -693,6 +693,20 @@
       "id": 202
     },
     {
+      "name": "Mission to Seafarers",
+      "coordinates": [
+        -1.4555116149295961,
+        -48.46664774805596
+      ],
+      "city": "Belem",
+      "country": "Brazil",
+      "website": "facebook.com/missaoaosmaritimos",
+      "email": "gabrielosouzasz@gmail.com",
+      "phone": "+5591991483360",
+      "whatsapp": "+5591991483360",
+      "id": 284
+    },
+    {
       "name": "Paranagua Seafarer's Mission",
       "coordinates": [
         -25.510607935166075,
@@ -721,7 +735,7 @@
       "id": 234
     },
     {
-      "name": "Stella Maris, Rio de Janeiro",
+      "name": "Stella Maris",
       "coordinates": [
         -22.897948496271823,
         -43.20930773435006
@@ -761,6 +775,20 @@
           "whatsapp": "+5513974087790"
         }
       ]
+    },
+    {
+      "name": "Mission to Seafarers",
+      "coordinates": [
+        -21.86608615647765,
+        -41.01792375276023
+      ],
+      "city": "Sao Joao da Barra",
+      "country": "Brazil",
+      "website": "missiontoseafarers.org/port-acu",
+      "email": "dilce.rpd@mtsmail.org",
+      "phone": " +5553991331614",
+      "whatsapp": "+5553991331614",
+      "id": 285
     },
     {
       "name": "Vitoria Seafarers' Ministry",
@@ -959,6 +987,21 @@
       "id": 199
     },
     {
+      "name": "Mission to Seafarers",
+      "coordinates": [
+        47.55620654197998,
+        -52.71838344871894
+      ],
+      "city": "St. John's",
+      "state": "Newfoundland",
+      "country": "Canada",
+      "website": "missiontoseafarersnl.ca",
+      "email": "Info@missiontoseafarersnl.ca",
+      "phone": "+15145010590",
+      "whatsapp": "+15145010590",
+      "id": 287
+    },
+    {
       "name": "Lighthouse Harbour Ministries",
       "coordinates": [
         49.17637114034538,
@@ -1033,6 +1076,21 @@
       "id": 59
     },
     {
+      "name": "Stella Maris",
+      "coordinates": [
+        -18.47291996707916,
+        -70.30708310410377
+      ],
+      "city": "Arica",
+      "country": "Chile",
+      "website": "scalabrinianos.com/stella-maris-arica",
+      "email": "stellamarisarica20@gmail.com",
+      "phone": "+56932674317",
+      "whatsapp": "+56994041736",
+      "gmapID": "ChIJmehtjy2pWpERkY8P7nAxG2c",
+      "id": 286
+    },
+    {
       "name": "Stella Maris, Cartagena",
       "coordinates": [
         10.383142702899999,
@@ -1060,6 +1118,20 @@
       "id": 244
     },
     {
+      "name": "Seafarer Centre",
+      "coordinates": [
+        34.64838723561772,
+        33.02031804515915
+      ],
+      "city": "Limassol",
+      "country": "Cyprus",
+      "website": "missiontoseafarers.org/limassol",
+      "email": "John.attenborough@mtsmail.org",
+      "phone": "+35799539144",
+      "whatsapp": "+35799539144",
+      "id": 288
+    },
+    {
       "name": "Aalborg Seamen's Club",
       "coordinates": [
         57.046671077843044,
@@ -1074,7 +1146,7 @@
       "id": 216
     },
     {
-      "name": "Aarhus Seaman's Center",
+      "name": "Aarhus Seamen's Club",
       "coordinates": [
         56.15299,
         10.21756
@@ -1671,6 +1743,35 @@
       "phone": "+302104287566",
       "whatsapp": "+306944346119",
       "id": 261
+    },
+    {
+      "name": "The Seamen's Home",
+      "coordinates": [
+        64.16896047209369,
+        -51.725863175689994
+      ],
+      "city": "Nuuk",
+      "country": "Greenland",
+      "website": "somandsmissionen.dk",
+      "email": "Kamilla@somandsmissionen.dk",
+      "phone": "+299227177",
+      "whatsapp": "+4521858918",
+      "gmapID": "ChIJcaa8MHYOok4RiSDhCB3P1hQ",
+      "id": 289
+    },
+    {
+      "name": "The Seamen's Home",
+      "coordinates": [
+        66.93842940471949,
+        -53.67378088419094
+      ],
+      "city": "Sisimiut",
+      "country": "Greenland",
+      "website": "facebook.com/Sisimiut.Soemandshjem",
+      "email": "sisimiut@hotelsoma.gl",
+      "phone": "+299864150",
+      "gmapID": "ChIJM46rKwxRkE4RKN0FvKC2Xug",
+      "id": 290
     },
     {
       "name": "The Mariners",
