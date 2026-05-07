@@ -1,5 +1,5 @@
 {
-  "release": 1778185873,
+  "release": 1778185987,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -3267,6 +3267,7 @@
       "email": "portchaplain-boston@seafarersfriend.org",
       "phone": "+18556610330",
       "whatsapp": "+18574524755",
+      "pmi": true,
       "id": 294
     },
     {
@@ -3724,6 +3725,7 @@
       "email": "portchaplain-portsmouth@seafarersfriend.org",
       "phone": "+16032765070",
       "whatsapp": "+16032765070",
+      "pmi": true,
       "id": 295
     },
     {
@@ -3908,6 +3910,7 @@
       "phone": "+18556610330",
       "whatsapp": "+12072523899",
       "gmapID": "ChIJiy-kxz2cskwRiBUf-fACgMg",
+      "pmi": true,
       "id": 296
     },
     {
@@ -4015,6 +4018,7 @@
       "website": "seafarersfriend.org",
       "email": "portchaplain-portlandme@seafarersfriend.org",
       "whatsapp": "+12072523899",
+      "pmi": true,
       "id": 297
     },
     {
