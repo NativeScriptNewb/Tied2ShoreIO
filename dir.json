@@ -1,5 +1,5 @@
 {
-  "release": 1778185136,
+  "release": 1778185873,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -3255,6 +3255,7 @@
     },
     {
       "name": "Seafarer's Friend, Boston",
+      "logo": "SF",
       "coordinates": [
         42.38574753206594,
         -71.0292144850638
@@ -3386,20 +3387,6 @@
       "email": "paul.rosenblum@stellamarismail.org",
       "phone": "+1-843-747-7550",
       "id": 154
-    },
-    {
-      "name": "Seafarer's Friend",
-      "coordinates": [
-        42.38714993238959,
-        -71.04383093015417
-      ],
-      "city": "Chelsea",
-      "state": "Massachusetts",
-      "country": "United States",
-      "website": "seafarersfriend.org",
-      "email": "director@seafarersfriend.org",
-      "phone": "+1-617-889-3222",
-      "id": 155
     },
     {
       "name": "Cleveland Seamen's Service",
@@ -3725,6 +3712,7 @@
     },
     {
       "name": "Seafarer's Friend, Portsmouth",
+      "logo": "SF",
       "coordinates": [
         43.09547865568784,
         -70.79225261848549
@@ -3907,6 +3895,7 @@
     },
     {
       "name": "Seafarer's Friend, Portland",
+      "logo": "SF",
       "coordinates": [
         43.65368444751719,
         -70.25611412641125
@@ -4015,6 +4004,7 @@
     },
     {
       "name": "Seafarer's Friend, Searsport",
+      "logo": "SF",
       "coordinates": [
         44.4495462924848,
         -68.90292896560106
