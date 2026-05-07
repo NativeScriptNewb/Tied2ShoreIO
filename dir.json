@@ -1,5 +1,5 @@
 {
-  "release": 1778169678,
+  "release": 1778185136,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -1875,11 +1875,28 @@
       "id": 85
     },
     {
-      "name": "Seafarers' Christian Friend Society, Cork",
+      "name": "Seafarers' Christian Friend Society",
       "logo": "SCFS",
       "coordinates": [
         51.84872806338216,
         -8.301206807860565
+      ],
+      "city": "Cobh",
+      "country": "Ireland",
+      "website": "scfs.org/port/cork-port",
+      "email": "cork@Scfs.org",
+      "phone": "+353858617771",
+      "whatsapp": "+353858617771",
+      "gmapID": "ChIJx7ey7BMjU0oROOGd4DwR2Vw",
+      "pmi": true,
+      "id": 298
+    },
+    {
+      "name": "Seafarers' Christian Friend Society",
+      "logo": "SCFS",
+      "coordinates": [
+        51.89946183154125,
+        -8.459705063485996
       ],
       "city": "Cork",
       "country": "Ireland",
@@ -1887,7 +1904,6 @@
       "email": "cork@Scfs.org",
       "phone": "+353858617771",
       "whatsapp": "+353858617771",
-      "gmapID": "ChIJx7ey7BMjU0oROOGd4DwR2Vw",
       "pmi": true,
       "id": 86
     },
@@ -3238,6 +3254,21 @@
       "id": 147
     },
     {
+      "name": "Seafarer's Friend, Boston",
+      "coordinates": [
+        42.38574753206594,
+        -71.0292144850638
+      ],
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "website": "seafarersfriend.org",
+      "email": "portchaplain-boston@seafarersfriend.org",
+      "phone": "+18556610330",
+      "whatsapp": "+18574524755",
+      "id": 294
+    },
+    {
       "name": "Mariner's House",
       "coordinates": [
         42.3639654170636,
@@ -3693,6 +3724,21 @@
       "id": 174
     },
     {
+      "name": "Seafarer's Friend, Portsmouth",
+      "coordinates": [
+        43.09547865568784,
+        -70.79225261848549
+      ],
+      "city": "Newington",
+      "state": "New Hampshire",
+      "country": "United States",
+      "website": "seafarersfriend.org",
+      "email": "portchaplain-portsmouth@seafarersfriend.org",
+      "phone": "+16032765070",
+      "whatsapp": "+16032765070",
+      "id": 295
+    },
+    {
       "name": "Norfolk Seamen's Friend Society",
       "coordinates": [
         36.86505879202249,
@@ -3860,6 +3906,22 @@
       "id": 185
     },
     {
+      "name": "Seafarer's Friend, Portland",
+      "coordinates": [
+        43.65368444751719,
+        -70.25611412641125
+      ],
+      "city": "Portland",
+      "state": "Maine",
+      "country": "United States",
+      "website": "seafarersfriend.org",
+      "email": "portchaplain-portlandme@seafarersfriend.org",
+      "phone": "+18556610330",
+      "whatsapp": "+12072523899",
+      "gmapID": "ChIJiy-kxz2cskwRiBUf-fACgMg",
+      "id": 296
+    },
+    {
       "name": "Portland Seafarers Mission",
       "coordinates": [
         45.5476590940265,
@@ -3950,6 +4012,20 @@
       "phone": "+1-912-201-1099",
       "pmi": true,
       "id": 190
+    },
+    {
+      "name": "Seafarer's Friend, Searsport",
+      "coordinates": [
+        44.4495462924848,
+        -68.90292896560106
+      ],
+      "city": "Searsport",
+      "state": "Maine",
+      "country": "United States",
+      "website": "seafarersfriend.org",
+      "email": "portchaplain-portlandme@seafarersfriend.org",
+      "whatsapp": "+12072523899",
+      "id": 297
     },
     {
       "name": "Port of Seattle Seafarers' Center",
