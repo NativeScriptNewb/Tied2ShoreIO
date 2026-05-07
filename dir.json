@@ -1,5 +1,5 @@
 {
-  "release": 1778095252,
+  "release": 1778169678,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -1132,7 +1132,7 @@
       "id": 288
     },
     {
-      "name": "Aalborg Seamen's Club",
+      "name": "KOMPAS Hotel Seamen's Home",
       "coordinates": [
         57.046671077843044,
         9.934914826497412
@@ -1160,7 +1160,7 @@
       "id": 61
     },
     {
-      "name": "Seamen's Church",
+      "name": "Hotel Bethel Seamen's Home",
       "coordinates": [
         55.68221921081698,
         12.59124490994798
@@ -1174,17 +1174,62 @@
       "id": 217
     },
     {
+      "name": "The Sailor's Church in Copenhagen",
+      "coordinates": [
+        55.668059891964305,
+        12.59359965733872
+      ],
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "website": "sjomannskirken.no/koebenhavn",
+      "email": "kobenhavn@sjomannskirken.no",
+      "phone": "+4532571103",
+      "whatsapp": "+4530354151",
+      "gmapID": "ChIJ0QjoekdTUkYRLpL0lVmsGhc",
+      "id": 292
+    },
+    {
       "name": "Port of Esbjerg International Seamen's Center",
       "coordinates": [
-        55.46265,
-        8.44102
+        55.47241508897169,
+        8.427478936520552
       ],
       "city": "Esbjerg",
       "country": "Denmark",
-      "email": "ehswelf@mail.tdcadsl.dk",
-      "phone": "+4575132859",
+      "email": "fl@somandsmissionen.dk",
+      "phone": "+4520733806",
+      "whatsapp": "+4520733806",
       "gmapID": "ChIJS-IVPswgS0YR53CU72S7Lyk",
       "id": 62
+    },
+    {
+      "name": "Hotel Frederikshavn Seamen's Home",
+      "coordinates": [
+        57.43937227799814,
+        10.537387426701187
+      ],
+      "city": "Frederikshavn",
+      "country": "Denmark",
+      "website": "hotelfrederikshavn.dk",
+      "email": "lr@somandsmissionen.dk",
+      "phone": "+4520293738",
+      "whatsapp": "+4520293738",
+      "gmapID": "ChIJwcx_UIY7T0YR2xW9yKpmfWs",
+      "id": 291
+    },
+    {
+      "name": "The Seaman's Church",
+      "coordinates": [
+        57.717926493450705,
+        10.582553614434529
+      ],
+      "city": "Skagen",
+      "country": "Denmark",
+      "website": "sjomanskyrkanskagen.org",
+      "email": "lr@somandsmissionen.dk",
+      "phone": "+4524821429",
+      "gmapID": "ChIJ9c_OMRxFT0YRQnjAEbMK8vg",
+      "id": 293
     },
     {
       "name": "Danish Seamen's Mission",
