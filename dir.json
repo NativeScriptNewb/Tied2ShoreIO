@@ -1148,13 +1148,14 @@
     {
       "name": "Aarhus Seamen's Club",
       "coordinates": [
-        56.15299,
-        10.21756
+        56.152564446493116,
+        10.217403488361079
       ],
       "city": "Aarhus",
       "country": "Denmark",
       "email": "seamensclub.aarhus@mail.dk",
       "phone": "+4586121599",
+      "whatsapp": "+4530491599",
       "website": "seamensclubaarhus.dk",
       "gmapID": "ChIJIfydUKQ_TEYRFmxuiHDf4VM",
       "id": 61
