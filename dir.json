@@ -1,5 +1,5 @@
 {
-  "release": 1778603196,
+  "release": 1778795047,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -1296,7 +1296,7 @@
       "city": "Hamina",
       "country": "Finland",
       "website": "merimieskirkko.fi",
-      "email": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/hamina-kotka",
+      "email": "hamina@merimieskirkko.fi",
       "phone": "+358405398143",
       "whatsapp": "+358405398143",
       "gmapID": "ChIJUdH6oRsOkUYRxUMEqYO4X4U",
@@ -1310,7 +1310,7 @@
       ],
       "city": "Helsinki",
       "country": "Finland",
-      "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/vuosaari",
+      "website": "merimieskirkko.fi",
       "phone": "+358405476936",
       "whatsapp": "+358405476936",
       "email": "vuosaari@merimieskirkko.fi",
@@ -1320,8 +1320,8 @@
     {
       "name": "Kemi-Tornio Sailor's Church",
       "coordinates": [
-        65.66575,
-        24.52029
+        65.6657700451345,
+        24.520254550924083
       ],
       "city": "Kemi",
       "country": "Finland",
@@ -1341,8 +1341,8 @@
       "city": "Kokkola",
       "country": "Finland",
       "website": "merimieskirkko.fi/taalla-toimimme/kotimaan-toimipaikat/kokkola",
-      "phone": "+358504521989",
       "email": "kokkola@merimieskirkko.fi",
+      "phone": "+358504521989",
       "whatsapp": "+358504521989",
       "gmapID": "ChIJn3vx3lpPh0YROJBUdc-DU3Q",
       "id": 218
@@ -1466,7 +1466,7 @@
       "id": 203
     },
     {
-      "name": "Association Rouennaise des Amis des Marins (ARAM)",
+      "name": "Rouen Seamen's Club",
       "coordinates": [
         49.443070269955,
         1.0814206398825688
@@ -1777,7 +1777,22 @@
       "id": 79
     },
     {
-      "name": "German Seafarer Mission Piraeus",
+      "name": "Flying Angel Club",
+      "coordinates": [
+        36.148264287635676,
+        -5.3637782843246375
+      ],
+      "city": "Gibraltar",
+      "country": "Gibraltar",
+      "website": "gibraltarportwelfare.com",
+      "email": "portchaplain@gibtelecom.net",
+      "phone": "+35020041799",
+      "whatsapp": "+35054080318",
+      "gmapID": "ChIJnfTqSXfADA0RPo9cBXgp0cg",
+      "id": 300
+    },
+    {
+      "name": "German Seafarer Mission",
       "coordinates": [
         37.94255126666398,
         23.638301381371893
@@ -1828,7 +1843,7 @@
       ],
       "city": "Kwai Chung",
       "country": "Hong Kong",
-      "website": "themariners.hk/en",
+      "website": "themariners.hk",
       "email": "chaplaincy@themariners.hk",
       "phone": "+85221632333",
       "gmapID": "ChIJXZH06Lb4AzQRA6ZlUy1P7rs",
@@ -1874,6 +1889,21 @@
       "phone": "+912227244561",
       "gmapID": "ChIJ6f29FQDb5zsRJDg1cYSG1uk",
       "id": 85
+    },
+    {
+      "name": "Tuticorin Seafarers' Centre",
+      "coordinates": [
+        8.743978102069986,
+        78.12404940674611
+      ],
+      "city": "Tuticorin",
+      "country": "India",
+      "website": "missiontoseafarers.org/tuticorin",
+      "email": "infotuticorin@mtsmail.org",
+      "phone": "+914612355860",
+      "whatsapp": "+919688970077",
+      "gmapID": "ChIJwx_UEw_uAzsRaIIHIMmr13g",
+      "id": 299
     },
     {
       "name": "Seafarers' Christian Friend Society",
