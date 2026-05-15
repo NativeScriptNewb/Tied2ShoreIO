@@ -1,5 +1,5 @@
 {
-  "release": 1778795047,
+  "release": 1778859867,
   "locations": [
     {
       "name": "Mission to Seafarers, Buenos Aires",
@@ -83,7 +83,7 @@
       ],
       "city": "Bell Ray",
       "country": "Australia",
-      "website": "facebook.com/profile.php?id=61581788764929",
+      "website": "facebook.com/61581788764929",
       "gmapID": "ChIJ-zMs_k8heqoRfEtG-xR-iCk",
       "orgs": [
         {
@@ -224,7 +224,7 @@
       ],
       "city": "Devonport",
       "country": "Australia",
-      "website": "facebook.com/mtsdevonport",
+      "website": "facebook.com/1039593028",
       "email": "devonport@mts.org.au",
       "phone": "+61498362796",
       "id": 276
@@ -1472,7 +1472,6 @@
         1.0814206398825688
       ],
       "city": "Rouen",
-      "state": "Normandy",
       "country": "France",
       "website": "rouenseafarerscentre.fr",
       "email": "seamenrouen@modulonet.fr",
@@ -2578,15 +2577,16 @@
       "id": 112
     },
     {
-      "name": "Seafarer's Center - Les Amis des Marins",
+      "name": "Seafarers' Centre - Les Amis des Marins",
       "coordinates": [
         -20.936061550011416,
         55.292967553704386
       ],
       "city": "Le Port",
       "country": "Reunion",
-      "website": "missiontoseafarers.org/reunion-island",
-      "phone": "+2620262432752",
+      "website": "facebook.com/100054424590077",
+      "phone": "+262693334033",
+      "whatsapp": "+262693334033",
       "gmapID": "ChIJ5VvMRIuIgiERgRolFNCXzzE",
       "id": 113
     },
