@@ -8,8 +8,8 @@
       ],
       "city": "Buenos Aires",
       "country": "Argentina",
-      "website": "missiontoseafarers.org/buenos-aires",
-      "email": "marceloignaciocenturion@gmail.com",
+      "website": "facebook.com/mtsargentina",
+      "email": "argentina@mtsmail.org",
       "phone": "+5491154019634",
       "whatsapp": "+5491154019934",
       "gmapID": "ChIJp82SVi01o5URV61auYVIWmG",
@@ -82,7 +82,6 @@
       ],
       "city": "Bell Ray",
       "country": "Australia",
-      "website": "facebook.com/61581788764929",
       "gmapID": "ChIJ-zMs_k8heqoRFeTg-Xr-IcK",
       "orgs": [
         {
@@ -127,6 +126,7 @@
       "website": "mtsbrisbane.org.au",
       "email": "tfa@mtsbrisbane.org.au",
       "phone": "+61738951281",
+      "whatsapp": "+61402128365",
       "gmapID": "ChIJcZz0dkjgk2sRyCLUmwNztJu",
       "id": 4
     },
@@ -2503,6 +2503,21 @@
       "id": 107
     },
     {
+      "name": "Vlissingen Seafarers Centre",
+      "coordinates": [
+        53.62138,
+        5.82792
+      ],
+      "city": "Vlissingen",
+      "country": "Netherlands",
+      "website": "missiontoseafarers.nl/seafarers",
+      "email": "info@missiontoseafarers.nl",
+      "phone": "+31118467163",
+      "whatsapp": "+31614164480",
+      "gmapID": "ChIJ7T7BRQuQxEcR6782Np6Hrrq",
+      "id": 305
+    },
+    {
       "name": "Manila International Seafarers Center",
       "coordinates": [
         16.74625,
@@ -4185,5 +4200,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1782848883
+  "rev_ts": 1784223922
 }
