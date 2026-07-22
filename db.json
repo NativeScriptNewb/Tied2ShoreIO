@@ -272,6 +272,21 @@
       "id": 12
     },
     {
+      "name": "Stella Maris, Fremantle",
+      "coordinates": [
+        -30.11861,
+        117.90728
+      ],
+      "city": "Rockingham",
+      "country": "Australia",
+      "website": "stellamaris.perthcatholic.org.au",
+      "email": "stella.maris@perthcatholic.org.au",
+      "phone": "+61417182597",
+      "whatsapp": "+61417182897",
+      "gmapID": "ChIJA0izEGShMioRE3dSOQ7350K",
+      "id": 306
+    },
+    {
       "name": "Flying Angel Club, Fremantle",
       "coordinates": [
         -29.88686,
@@ -337,6 +352,7 @@
       "city": "Hastings",
       "country": "Australia",
       "website": "mts.org.au/hastings",
+      "email": "deirdrejmclean@gmail.com",
       "phone": "+61359794427",
       "gmapID": "ChIJjSUGBxvn1WoR--lvQTNIlNS",
       "id": 16
@@ -564,8 +580,8 @@
     {
       "name": "Sea-Man's Hostel",
       "coordinates": [
-        26.50677,
-        95.03049
+        24.45839,
+        93.9483
       ],
       "city": "Chattogram",
       "country": "Bangladesh",
@@ -4176,5 +4192,5 @@
       "id": 196
     }
   ],
-  "rev_ts": 1784564755
+  "rev_ts": 1784733698
 }
